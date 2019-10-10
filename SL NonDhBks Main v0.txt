@@ -5104,109 +5104,109 @@ M11743	"Oresteia, The - Agamemnon - The Libation Bearers - The Eumenides"		Aesch
 11571	"Kabir Book, The"	Forty-Four of the Ecstatic Poems of Kabir - translated a& compiled by Robert Bly	Kabir	Beacon Press - Boston	1977	0-8070-6379-7	Literature	Other Literatures	890	BLY		891	KAB					
 11526	"Prophet, The"		"Gibran, Kahlil"	Heinemann - London	1972	434 29067 X	Literature	Other Literatures	890	GIB		892	GIB					
 11518	"Rubaiyyat of Omar Khayaam, The"	translated by Robert Graves & Omar Ali-Shah	"Khayaam, Omar"	Cassell - London	1968	304 92706 6	Literature	Other Literatures	890	GRA		892	KHA					
-12167	Beelzebub's Tales To His Grandson	An Objectively Impartial Criticism of the Life of Man	GURDJIEFF - G. I.	Routledge & Kegan Paul - London	1976	0 7100 7873 0	Literature	Other Literatures	890	GUR								
-13041	Beelzebub's Tales To His Grandson	An Objectively Impartial Criticism of the Life of Man	GURDJIEFF - G. I.	Routledge & Kegan Paul Ltd.	1976	0 7100 7874 9	Literature	Other Literatures	890	GUR								
-11574	Leyla And Mejnun		HURI - SOFI (TRANS)	George Allen & Unwin Ltd. - London	1979	04 890003 6	Literature	Other Literatures	890	HUR								
-12853	Frog Princess ~ The		ISAACS - BERNARD (TRANS)	Goznak Central Board	1973		Literature	Literature of Other languages	890	ISA								
-11602	Tain ~ The	The Irish Epic Tain Bo Cuailnge	KINSELLA - THOMAS (TRANS)	Oxford University Press	1974	0 19 281090 1	Literature	Other Literatures	890	KIN								
-11603	From The Tablets Of Sumer	25 Firsts in Man's Recorded History	KRAMER - SAMUEL NOAH	The Falcon's Wing Press - Col.	1956		Literature	Other Literatures	890	KRA		935	KRA					
-11596	Laxdaela Saga		MAGNUSSON - MAGNUS & H. PALSSON	Penguin Books	1978	0 14044 218 9	Literature	Other Literatures	890	MAG								
-13400	An Anthology Of Sinhalese Literature Up To 1815		Reynolds - C. (ed.)	George Allen & Unwin	1970	0 04 891038 4			890	REY								
-11408	Letters Of Van Gogh ~ The		ROSKILL - MARK	Collins - London	1974	0 00 633203 X	Literature	Other Literatures	890	ROS								
-11519	Mystical Poems Of Rumi		RUMI - JALAL AL-DIN	University of Chicago Press	1968		Literature	Other Literatures	890	RUM								
-11595	Epic Of Gilgamesh ~ The		SANDERS - N. K.	Penguin Books	1972	0 14044 100 X	Literature	Other Literatures	890	SAN								
-11530	Exploits Of The Incomparable Mulla Nasrudin ~ The		SHAH - IDRIES	Jonathan Cape Ltd. - London	1970	0 224 60214 4	Literature	Other Literatures	890	SHA								
-11529	Pleasantries Of The Incredible Mulla Nasrudin ~ The		SHAH - IDRIES	Jonathan Cape Ltd. - London	1970	224 61311 1	Literature	Other Literatures	890	SHA								
-11573	Tales Of The Dervishes		SHAH - INDRIES	Jonathan Cape - London	1969	224 61217 4	Literature	Other Literatures	890	SHA								
-11575	First Book Of The Hadiqatu L-Haqiqat ~ The	The Enclosed Garden of the Truth of the Hakim Abu L-Majd Majdud Sanai of Ghazna	STEPHENSON - J. (ED)	Thorsons Publishers Ltd. - Northants	1975	0-7225-0315-6	Literature	Other Literatures	890	STE		891.1	MAJ					
-11598	Legends	Autobiographical Sketches	STRINDBERG - AUGUST	Andrew Melrose - London	1912		Literature	Other Literatures	890	STR								
-14307	Modern Poetry In Translation No. 11:  From Peru - Russia Etc.		Weissbort - Daniel (ed.)	King's College - London	1997	0969-3572			890	WEI								
-12153	Polish Writing Today		WIENIEWSKA - CELINA	Penguin Books	1967		Literature	Other Literatures	890	WIE								
-11572	Nasir-I Khusraw	Forty Poems from the Divan	WILSON - P. L. & GHOLAM-REZA AAVANI	Imperial Iranian Academy of Philosophy - Tehran	1977	0 500 97353 9	Literature	Other Literatures	890	WIL								
-11527	Drunken Universe ~ The	An Anthology of Persian Sufi Poetry	WILSON - P. L. & N. POURJAVADY (TRANS)	Phanes Press - Grand Rapids	1987	0-933999-65-8	Literature	Other Literatures	890	WIL								
-11531	Drunken Universe ~ The	An Anthology of Persian Sufi Poetry	WILSON - P. L. & N. POURJAVADY (TRANS)	Phanes Press - Grand Rapids	1987	0-933999-65-8	Literature	Other Literatures	890	WIL								
-14887	Shilappadikaram (The Ankle Bracelet)		Adigal - Prince Ilango	A New Directions Book	1965				891	ADI								
-15095	Man In Kavya		Arya - Ushabudh	Motilal Banarsidass	1971				891	ARY								
-10613	India In Hungarian Learning And Literature		BETHLENFALVY - GEZA	Munshiram Manoharlal - New Delhi	1980		Literature	Other Literatures - Other Indo-European	891	BET								
-15642	Thirukkural	with English couplets	Bharati - Yogi Shuddhananda	South India Saiva Siddhanta Works	1982				891	BHA								
-14135	Forty Poems		Bhatnagar - Mahendra	S. Chanda & Co	1967				891	BHA								
-13996	A Book Of Russian Verse	Translated into English by various hands	Bowra - C. M. (ed.)	Macmillan and Co	1943				891	BOW								
-11015	Tagore Reader ~ A		CHAKRAVARTY - AMIYA (Ed)	Beacon Press - Boston	1966	0-8070-5971-4	Literature	Other Literatures - Other Indo-European	891	CHA		891.1	TAG					
-15624	The Dance Of Shiva		Coomaraswamy - Ananda	Asia Publishing House	1948				891	COO								
-14768	What Is Civilisation?	And other essays	Coomaraswamy - Ananda K.	Golgonooza Press	1989	0-903880-40-7			891	COO								
-15187	No Entry For The New Sun	Translations from Modern Marathi Dalit Poetry	Dangle - Arjun (ed.)	Orient Longman Ltd	1992	81-250-0270-7			891	DAN								
-15088	History Of Sanskrit Poetics	Complete Revised Edition	De - Sushil Kumar	Firma K. L. Mukhopadhyay	1960				891	DE								
-14136	Nepali Visions - Nepali Dreams	Poetry translated and selected by David Rubin	Devkota - Laxmiprasad	Colombia University Press	1980	0-231-05014-3			891	DEV								
-16601	Ancient Ballads And Legends Of Hindustan	with an Introduction memoir by Edmund Gosse	Dutt - Toru	Bibliolife	1882				891	DUT								
-15006	Latter-Day Psalms	New Poetry in India	Ezekiel - Nissim	Oxford University Press	1982				891	EZE								
-11012	India Of My Dreams		GANDHI - M. K.	Navajivan Publishing House - Ahmedabad	1970		Literature	Other Literatures - Other Indo-European	891	GAN								
-10756	Bengali Literature		GHOSH - J. C.	Oxford University Press	1948		Literature	Other Literatures - Other Indo-European	891	GHO								
-14138	Modern Sri Lankan Poetry: An Anthology		Goonetilleke - D.C.R.A. (ed.)	Sri Satguru Publications	1987	81-7030-135-1			891	GOO								
-14736	Acting As A Way Of Salvation	A Study of Raganuga Bhakti Sadhana	Haberman - David L.	Oxford University Press	1986	0-19-505321-4			891	HAB								
-10850	Hitopadesa	The Book of Good Council	HALE-WORTHAM - B. (TRANS)	George Routledge & Sons Ltd. - London	1922		Literature	Other Literatures - Other Indo-European	891	HAL								
-15067	The Ratnavali Of Sri Harsa-Deva		Kale - M. R. (transl.)	Motilal Banarsidass	1921				891	HAR								
-15555	Himalayan Voices	An Introduction to Modern Nepali Literature	Hutt - Michael James (ed.)	Motilal Banarsidass	1993	81-208-1156-9			891	HUT								
-15202	Three Mughal Poets:  Mir - Sauda - Mir Hassan		Islam - Khurshidul & Ralph Rusell	Oxford University Press	1991				891	ISL								
-11063	Ghalib And His Poetry		JAFRI - SADAR & QURRATULAIN HYDER	Popular Prakashan - Bombay	1970		Literature	Other Literatures - Other Indo-European	891	JAF								
-13337	Bijal Of Kabir - The		KABIR	Motilal Banarsidass	1983	8120801865	Literature	Indian Literature	891	KAB								
-14847	The Bijak Of Kabir	translated by Linda Hess and Shukdev Singh	Kabir	Motilal Banarsidass	1986	81-208-0186-5			891	KAB								
-15065	The Meghaduta Of Kalidasa		Kale - M. R. (trans.)	Motilal Banarsidass	1974	81-208-0420-1			891	KAL								
-15066	Kumarasambhava Of Kalidasa		Kale - M.R. (trans.)	Motilal Banarsidass	1981	81-208-0161-X			891	KAL								
-14148	Kumara-Sambhava	Edited by C. R. Devadhar	Kalidasa	Motilal Banarsidass	1985	81-208-0012-5			891	KAL								
-14529	Kalidasa:  Translations Of 'Shakuntala' Etc.		Ryder - A. W. (trans.)	J. M. Dent & Sons					891	KAL								
-15060	History Of Sanskrit Poetics		Kane - P. V.	Motilal Banarsidass	1971	81-208-0274-8			891	KAN								
-15099	History Of Sanskrit Poetics		Kane - P. V.	Motilal Banarsidass	1971	81-208-0274-8			891	KAN								
-13512	A New Selection From The Rubaiyat Of Omar Khayyam		Bowen - John charles Edward	The Unicorn Press	1961				891	KHA								
-15094	Studies In Sanskrit Sahitya-Sastra	A Collection of Selected Papers relating to Sanskrit Poetics and Aesthetics	Kulkarni - V. M.	B.L.Institute of Indology - Patan	1983				891	KUL								
-14247	The Far Thing		Kureishi - Maki	Oxford University Press	1997	0 19 577780 8			891	KUR								
-15946	A History Of Sanskrit Literature		MacDonell - Arthur A.	Motilal Banarsidass	1900	81-208-0095-8			891	MAC								
-14693	The Devil'S Wind	A Saheb's Story	Malgonkar - Manohar	Penguin	1988				891	MAL								
-15045	The Poetic Light   Volume Ii	Kavyaprakasa of Mammata	Dwivedi - Dr. R. C. (trans.)	Motilal Banarsidass	1970				891	MAM								
-15047	The Poetic Light   Volume Ii	Kavyaprakasha of Mammata	Dwivedi - Dr. R. C. (trans.)	Motilal Banarsidass	1970				891	MAM								
-15044	The Poetic Light Volume I	Kavyaprakasa of Mammata	Dwivedi - Dr. R.C. (trans.)	Motilal Banarsidass	1977				891	MAM								
-15046	The Poetic Light  Volume I	Kavyaprakasha of Mammata	Dwivedi - R.C. (trans.)	Motilal Banarsidass	1977				891	MAM								
-15426	Kingdom'S End And Other Stories		Manto - Saadat Hasan	Penguin	1989				891	MAN								
-14480	An Anthology Of Urdu Verse In English	with the original poems in Devanagari	Matthews - David	Oxford University Press	1997	0-19-563927-8			891	MAT								
-15093	Sanskrit Play Production In Ancient India		Mehta - Tarla	Motilal Banarsidass	1995	81-208-1057-0			891	MEH								
-16002	Palkhi	A Pilgrimage to Pandharpur - translated fromt eh Marathi	Mokashi - D. B.	Disha Books	1990				891	MOK								
-15434	Kekavali	A Series of the Peacock's Screams	Moropanta	Motilal Banarsidass	1994	81-208-1115-1			891	MOR								
-13610	Fyodor Dostoevsky	A Critical Study	Murry - John Middleton	Martin Secker	1916				891	MUR								
-14703	Samskara	A Rite for a Dead Man	Murthy - U.R. Anantha	Oxford University Press - Delhi	1978				891	MUR								
-14043	The Bird Of Time		Naidu - Sarojini	Heinemann	1912				891	NAI								
-16600	The Sceptred Flute	Songs of India	Naidu - Sarojini	Kitabistan	1946				891	NAI								
-16059	The Oxford Anthology Of Modern Indian Poetry		Dharwadker - Vinay & A. K. Ramanujan	Oxford India Paperbacks	1996	0-19-563917-0			891	OXF								
-14147	Ten Twentieth-Century Indian Poets		Parthasarathy - R.	Oxford University Press	1976	0 19 562402 5			891	PAR								
-15097	Rasa In Aesthetics	An Application of Rasa Theory to Modern Western Literature	Patnaik - Priyadarshi	D.K.Printworld	1997	81-246-0081-3			891	PAT								
-15252	Wild Bapu Of Garambi	translated from the Marathi by Ian Raeside	Pendse - S. N.	Sahitya Akademi	1969				891	PEN								
-14697	Selected Short Stories		Premchand	Crest Publishing House	1993	81-242-0038-6			891	PRE								
-10843	Contemporary Indian Literature	A Symposium	PUBLISHER (ED)	Sahitya Akademi - New Delhi	1957		Literature	Other Literatures - Other Indo-European	891	PUB								
-15103	Studies On Some Concepts Of The Alamkara S'Astra		Raghavan - V.	The Adyar Library and Research Centre	1973	0-8356-7298-0			891	RAG								
-15096	The Number Of Rasa-S		Raghavan - V.	The Adyar Library and Research Centre	1967	0-8356-7280-8			891	RAG								
-14146	Speaking Of Siva		Ramanujan - A. K.	Penguin	1973				891	RAM								
-14408	We Are Three	New Rumi poems translated by Coleman Barks	Rumi - Jalaluddiin	Maypop Books	1987	0 9618916-0-2			891	RUM								
-14797	The Vintage Book Of Indian Writing 1947 - 1997		Rushdie - Salman & Elizabeth West (eds.)	Vintage	1997	0-0997310-10			891	RUS								
-10599	Bhartrihari Says		SCOTT - DIXON (TRANS)	Frederick Muller Ltd. - London	1940		Literature	Other Literatures - Other Indo-European	891	SCO								
-15278	A Suitable Boy		Seth - Vikram	HarperCollins	1993	0-06-017012-3			891	SET								
-14888	Manimekhalai (The Dancer With The Magic Bowl)		Shattan - Merchant-Prince	New Directions	1989	0-8112-1098-7			891	SHA								
-15101	Post Mammata Sanskrit Poetics	(As Reflected in Nanjarajayasobhusana)	Siddhartha - Sundari	University of Delhi	1992	81-85695-01-6			891	SID								
-15068	The Rasarnavasudhakara Of Simhabhupala		Venkatacharya - T.	The Adyar Library and Research Centre	1979	0-8356-7533-5			891	SIM								
-15089	The Aesthetics Of Wonder	New Findings in Sanskrit Alankarasatra	Subramanian - A. V.	Motilal Banarsidass	1988	81-208-0444-9			891	SUB								
-16201	Rabindranath Tagore : An Anthology		Dutta - Krishna & Andrew Robinson	Picador	1997	0-330-34962-7			891	TAG								
-14144	Songs Of Kabir:  A 15th Century Sufi Classic	Translated by Rabindranath Tagore	Kabir	Weiser	2002	1-5863-249-8			891	TAG								
-13837	Collected Poems And Plays Of Rabindranath Tagore		Tagore - Rabindranath	Macmillan	1962				891	TAG								
-14139	Fruit Gathering		Tagore - Rabindranath	Macmillan and Co	1943				891	TAG								
-14140	Fruit Gathering		Tagore - Rabindranath	Macmillan and Co	1921				891	TAG								
-14142	Gitanjali	A collection of prose translations made by the author from the original Bengali	Tagore - Rabindranath	Macmillan and Co	1926				891	TAG								
-	Gitanjali	(song offerings)	Tagore - Rabindranath	Macmillan and Co	1919				891	TAG		891.1	TAG					
-14143	Gitanjali And Fruit-Gathering		Tagore - Rabindranath	Macmillan and Co	1919				891	TAG								
-15208	Quartet	translated from the Bengali by Kaiser Haq	Tagore - Rabindranath	Heinemann	1993	0435-95086-X			891	TAG								
-14145	Rabindranath Tagore:  Selected Poems	Translated by William Raddice	Tagore - Rabindranath	Penguin	1985				891	TAG								
-11062	Reminiscences		TAGORE - RABINDRANATH	Macmillan and Co. Ltd. - London	1946		Literature	Other Literatures - Other Indo-European	891	TAG								
-14724	Selected Short Stories		Tagore - Rabindranath	Penguin	1991				891	TAG								
-14726	Selected Short Stories		Tagore - Rabindranath	Penguin	1994				891	TAG								
-14141	The Crescent Moon	translated form the original Bengali by the author	Tagore - Rabindranath	Macmillan and Co	1951				891	TAG								
-13516	The Gardener	translated by the author from the original Bengali	Tagore - Rabindranath	Macmillan & Co	1938				891	TAG								
-14725	The Home And The World		Tagore - Rabindranath	Penguin	1985				891	TAG								
+12167	Beelzebub's Tales To His Grandson	An Objectively Impartial Criticism of the Life of Man	"Gurdjieff, G I"	Routledge & Kegan Paul - London	1976	0 7100 7873 0	Literature	Other Literatures	890	GUR		891	GUR					
+13041	Beelzebub's Tales To His Grandson	An Objectively Impartial Criticism of the Life of Man	"Gurdjieff, G I"	Routledge & Kegan Paul Ltd.	1976	0 7100 7874 9	Literature	Other Literatures	890	GUR		891	GUR					
+11574	Leyla and Mejnun	translated by Sofi Huri	Fuzuli	George Allen & Unwin Ltd. - London	1979	04 890003 6	Literature	Other Literatures	890	HUR		894	FUZ					
+12853	"Frog Princess,  The"		"Isaacs, Bernard (Trans)"	Goznak Central Board	1973		Literature	Literature of Other languages	890	ISA		891.7	ISA					
+11602	"Tain, The"	The Irish Epic Tain Bo Cuailnge	"Kinsella, Thomas (Trans)"	Oxford University Press	1974	0 19 281090 1	Literature	Other Literatures	890	KIN		891.6	JKIN					
+11603	From the Tablets of Sumer	25 Firsts in Man's Recorded History	"Kramer, Samuel Noah"	The Falcon's Wing Press - Col.	1956		Literature	Other Literatures	890	KRA		935	KRA					
+11596	Laxdaela Saga		"Magnusson, Magnus & Palsson, H"	Penguin Books	1978	0 14044 218 9	Literature	Other Literatures	890	MAG		839	MAG					
+13400	"Anthology of Sinhalese Literature Up To 1815, An"		"Reynolds, C (Ed)"	George Allen & Unwin	1970	0 04 891038 4			890	REY		894	REY					
+11408	"Letters of Van Gogh,  The"		"Roskill, Mark"	Collins - London	1974	0 00 633203 X	Literature	Other Literatures	890	ROS		839.3	ROS					
+11519	Mystical Poems of Rumi		"Rumi, Jajal Al-DIn"	University of Chicago Press	1968		Literature	Other Literatures	890	RUM		892	RUM					
+11595	"Epic of Gilgamesh, The"		"Sanders, N K"	Penguin Books	1972	0 14044 100 X	Literature	Other Literatures	890	SAN		892	SAN					
+11530	"Exploits of the Incomparable Mulla Nasrudin, The"		"Shah, Idries"	Jonathan Cape Ltd. - London	1970	0 224 60214 4	Literature	Other Literatures	890	SHA		892	SHA					
+11529	"Pleasantries of the Incredible Mulla Nasrudin, The"		"Shah, Idries"	Jonathan Cape Ltd. - London	1970	224 61311 1	Literature	Other Literatures	890	SHA		892	SHA					
+11573	Tales of the Dervishes		"Shah, Idries"	Jonathan Cape - London	1969	224 61217 4	Literature	Other Literatures	890	SHA		892	SHA					
+11575	"First Book of the Hadiqatu L-Haqiqat, The"	Edited & translated by J Stephenson	"Sanai, Hakim Abu L Majd Majdud"	Thorsons Publishers Ltd. - Northants	1975	0-7225-0315-6	Literature	Other Literatures	890	STE		891.1	SAN					
+11598	Legends	Autobiographical Sketches	"Strindberg, August"	Andrew Melrose - London	1912		Literature	Other Literatures	890	STR		839.7	STR					
+14307	Modern Poetry In Translation No. 11:  From Peru - Russia Etc.		"Weissbort, Daniel (Ed)"	King's College - London	1997	0969-3572			890	WEI		890	WEI					
+12153	Polish Writing Today		"Wieniewska, Celina"	Penguin Books	1967		Literature	Other Literatures	890	WIE		891.8	WIE					
+11572	Nasir-I Khusraw	Forty Poems from the Divan	"Wilson, P L & Aavani, Gholam-Reza"	Imperial Iranian Academy of Philosophy - Tehran	1977	0 500 97353 9	Literature	Other Literatures	890	WIL		892	WIL					
+11527	"Drunken Universe, The"	An Anthology of Persian Sufi Poetry	"Wilson, P L & Pourjavady (Trans)"	Phanes Press - Grand Rapids	1987	0-933999-65-8	Literature	Other Literatures	890	WIL		892	WIL					
+M11531	"Drunken Universe, The"	An Anthology of Persian Sufi Poetry	"Wilson, P L & Pourjavady (Trans)"	Phanes Press - Grand Rapids	1987	0-933999-65-8	Literature	Other Literatures	890	WIL		892	WIL					
+14887	Shilappadikaram (The Ankle Bracelet)		"Adigal, Ilango (Prince)"	A New Directions Book	1965				891	ADI		894	ADI					
+15095	Man In Kavya		"Arya, Ushabudh"	Motilal Banarsidass	1971				891	ARY		891.1	ARY					
+10613	India in Hungarian Learning and Literature		"Bethlenfalvy, Geza"	Munshiram Manoharlal - New Delhi	1980		Literature	Other Literatures - Other Indo-European	891	BET		894	BET					
+15642	Thirukkural	with English couplets	"Bharati, Yogi Shuddhananda"	South India Saiva Siddhanta Works	1982				891	BHA		894	BHA					
+14135	Forty Poems		"Bhatnagar, Mahendra"	S. Chanda & Co	1967				891	BHA		891.1	BHA					
+13996	"Book of Russian Verse, A"	Translated into English by various hands	"Bowra, C M (Ed)"	Macmillan and Co	1943				891	BOW		891.7	BOW					
+11015	"Tagore Reader, A"		"Chakravarty, Amiya (Ed)"	Beacon Press - Boston	1966	0-8070-5971-4	Literature	Other Literatures - Other Indo-European	891	CHA		891.1	TAG					
+15624	"Dance of Shiva, The"		"Coomaraswamy, Ananda"	Asia Publishing House	1948				891	COO		891.1	COO					
+14768	What Is Civilisation?	And other essays	"Coomaraswamy, Ananda"	Golgonooza Press	1989	0-903880-40-7			891	COO		891.1	COO					
+15187	No Entry For the New Sun	Translations from Modern Marathi Dalit Poetry	"Dangle, Arjun (Ed)"	Orient Longman Ltd	1992	81-250-0270-7			891	DAN		891.1	DAN					
+15088	History of Sanskrit Poetics	Complete Revised Edition	"De, Sushil Kumar"	Firma K. L. Mukhopadhyay	1960				891	DE		891.1	DE					
+14136	"Nepali Visions, Nepali Dreams"	Poetry translated and selected by David Rubin	"Devkota, Laxmiprasad"	Colombia University Press	1980	0-231-05014-3			891	DEV		891.4	DEV					
+16601	Ancient Ballads and Legends of Hindustan	with an Introduction memoir by Edmund Gosse	"Dutt, Toru"	Bibliolife	1882				891	DUT		891.1	DUT					
+15006	Latter-Day Psalms	New Poetry in India	"Ezekiel,  Nissim"	Oxford University Press	1982				891	EZE		891.1	EZE					
+11012	India of My Dreams		"Gandhi, M K"	Navajivan Publishing House - Ahmedabad	1970		Literature	Other Literatures - Other Indo-European	891	GAN		891.1	GAN					
+10756	Bengali Literature		"Ghosh, J C"	Oxford University Press	1948		Literature	Other Literatures - Other Indo-European	891	GHO		891.1	GHO					
+14138	Modern Sri Lankan Poetry: An Anthology		"Goonetilleke, D C R A (Ed)"	Sri Satguru Publications	1987	81-7030-135-1			891	GOO		894	GOO					
+14736	Acting as a Way of Salvation	A Study of Raganuga Bhakti Sadhana	"Haberman, David L"	Oxford University Press	1986	0-19-505321-4			891	HAB		891.1	HAB					
+10850	Hitopadesa	The Book of Good Council	"Hale-Wortham, B (Trans)"	George Routledge & Sons Ltd. - London	1922		Literature	Other Literatures - Other Indo-European	891	HAL		891.1	HAL					
+15067	"Ratnavali of Sri Harsa-Deva, The"	edited & translated by M R Kale	"Harsa-Deva, Sri"	Motilal Banarsidass	1921				891	HAR		891.1	HAR					
+15555	Himalayan Voices	An Introduction to Modern Nepali Literature	"Hutt, Michael James (Ed)"	Motilal Banarsidass	1993	81-208-1156-9			891	HUT		891.4	HUT					
+15202	Three Mughal Poets:  Mir - Sauda - Mir Hassan		"Islam, Khurshidul & Russell, Ralph"	Oxford University Press	1991				891	ISL		891.4	ISL					
+11063	Ghalib and His Poetry		"Jafri, Sadar & Hyder, Qurratulain"	Popular Prakashan - Bombay	1970		Literature	Other Literatures - Other Indo-European	891	JAF		891.4	JAF					
+13337	"Bijak of Kabir, The"	translated by Linda Hess and Shukdev Singh	Kabir	Motilal Banarsidass	1983	8120801865	Literature	Indian Literature	891	KAB		891.4	KAB					
+14847	"Bijak of Kabir, The"	translated by Linda Hess and Shukdev Singh	Kabir	Motilal Banarsidass	1986	81-208-0186-5			891	KAB		891.4	KAB					
+15065	"Meghaduta of Kalidasa, The"	Translated by M R Kale	Kalidasa	Motilal Banarsidass	1974	81-208-0420-1			891	KAL		891.1	KAL					
+15066	Kumarasambhava of Kalidasa	Translated by M R Kale	Kalidasa	Motilal Banarsidass	1981	81-208-0161-X			891	KAL		891.1	KAL					
+14148	Kumara-Sambhava	Edited by C. R. Devadhar	Kalidasa	Motilal Banarsidass	1985	81-208-0012-5			891	KAL		891.1	KAL					
+14529	Kalidasa:  Translations of Shakuntala and other Works	Translated by Arthur W Ryder	Kalidasa	J. M. Dent & Sons					891	KAL		891.1	KAL					
+15060	History of Sanskrit Poetics		"Kane, P V"	Motilal Banarsidass	1971	81-208-0274-8			891	KAN		891.1	KAN					
+15099	History of Sanskrit Poetics		"Kane, P V"	Motilal Banarsidass	1971	81-208-0274-8			891	KAN		891.1	KAN					
+13512	"New Selection From the Rubaiyat Of Omar Khayyam, A"	Selected by John Charles edward Bowen	"Khayyam, Omar"	The Unicorn Press	1961				891	KHA		892	KHA					
+15094	Studies In Sanskrit Sahitya-Sastra	A Collection of Selected Papers relating to Sanskrit Poetics and Aesthetics	"Kulkarni, V M"	B.L.Institute of Indology - Patan	1983				891	KUL		891.1	KUL					
+14247	"Far Thing, The"		"Kureishi, Maki"	Oxford University Press	1997	0 19 577780 8			891	KUR		891.1	KUR					
+15946	"History of Sanskrit Literature, A"		"MacDonell, Arthur A"	Motilal Banarsidass	1900	81-208-0095-8			891	MAC		891.1	MAC					
+14693	The Devil's Wind	A Saheb's Story	"Malgonkar, Manohar"	Penguin	1988				891	MAL		891.1	MAL					
+15045	"Poetic Light, The   Volume II"	Kavyaprakasha of Mammata	"Dwivedi, R C (Dr)"	Motilal Banarsidass	1970				891	MAM		891.1	DWI					
+15047	"Poetic Light, The   Volume II"	Kavyaprakasa of Mammata	"Dwivedi, R C (Dr)"	Motilal Banarsidass	1970				891	MAM		891.1	DWI					
+15044	"Poetic Light, The Volume I"	Kavyaprakasa of Mammata	"Dwivedi, R C (Dr)"	Motilal Banarsidass	1977				891	MAM		891.1	DWI					
+15046	"Poetic Light, The Volume I"	Kavyaprakasha of Mammata	"Dwivedi, R C (Dr)"	Motilal Banarsidass	1977				891	MAM		891.1	DWI					
+15426	Kingdom's End and Other Stories		"Manto, Saadat Hasan"	Penguin	1989				891	MAN		891.1	MAN					
+14480	"Anthology Of Urdu Verse In English, An"	with the original poems in Devanagari	"Matthews, David"	Oxford University Press	1997	0-19-563927-8			891	MAT		891.4	MAT					
+15093	Sanskrit Play Production In Ancient India		"Mehta, Tarla"	Motilal Banarsidass	1995	81-208-1057-0			891	MEH		891.1	MEH					
+16002	Palkhi	A Pilgrimage to Pandharpur - translated from the Marathi	"Mokashi, D B"	Disha Books	1990				891	MOK		891.1	MOK					
+15434	Kekavali	A Series of the Peacock's Screams	Moropanta	Motilal Banarsidass	1994	81-208-1115-1			891	MOR		891.1	MOR					
+13610	Fyodor Dostoevsky	A Critical Study	"Murry, John Middleton"	Martin Secker	1916				891	MUR		891.7	MUR					
+14703	Samskara	A Rite for a Dead Man	"Murthy, U R Anantha"	Oxford University Press - Delhi	1978				891	MUR		891.1	MUR					
+14043	"Bird Of Time, The"		"Naidu, Sarojini"	Heinemann	1912				891	NAI		891.1	NAI					
+16600	"Sceptred Flute, The"	Songs of India	"Naidu, Sarojini"	Kitabistan	1946				891	NAI		891.1	NAI					
+16059	"Modern Indian Poetry, The Oxford Anthology of"		"Dharwadker, Vinay & Ramanujan, A K"	Oxford India Paperbacks	1996	0-19-563917-0			891	OXF		891.1	DHA					
+14147	Ten Twentieth-Century Indian Poets		"Parthasarathy, R"	Oxford University Press	1976	0 19 562402 5			891	PAR		891.1	PAR					
+15097	Rasa In Aesthetics	An Application of Rasa Theory to Modern Western Literature	"Patnaik, Priyadarshi"	D.K.Printworld	1997	81-246-0081-3			891	PAT		891.1	PAT					
+15252	Wild Bapu Of Garambi	translated from the Marathi by Ian Raeside	"Pendse, S N"	Sahitya Akademi	1969				891	PEN		891.1	PEN					
+14697	Selected Short Stories		Premchand	Crest Publishing House	1993	81-242-0038-6			891	PRE		891.1	PRE					
+10843	Contemporary Indian Literature	A Symposium	"Barua, B K et al"	Sahitya Akademi - New Delhi	1957		Literature	Other Literatures - Other Indo-European	891	PUB		891.1	BAR					
+15103	Studies on Some Concepts of the Alamkara S'Astra		"Raghavan, V"	The Adyar Library and Research Centre	1973	0-8356-7298-0			891	RAG		891.1	RAG					
+15096	"Number of Rasa-S, The "		"Raghavan, V"	The Adyar Library and Research Centre	1967	0-8356-7280-8			891	RAG		891.1	RAG					
+14146	Speaking of Siva		"Ramanujan, A K"	Penguin	1973				891	RAM		891.1	RAM					
+14408	We Are Three	New Rumi poems translated by Coleman Barks	"Rumi, Jajal Al-DIn"	Maypop Books	1987	0 9618916-0-2			891	RUM		892	RUM					
+14797	"Indian Writing 1947 - 1997, The Vintage Book of"		"Rushdie, Salman & West Elizabeth,(Ed)"	Vintage	1997	0-0997310-10			891	RUS		891.1	RUS					
+10599	Bhartrihari Says		"Scott, Dixon (Trans)"	Frederick Muller Ltd. - London	1940		Literature	Other Literatures - Other Indo-European	891	SCO		891.1	SCO					
+15278	"Suitable Boy, A"		"Seth, Vikram"	HarperCollins	1993	0-06-017012-3			891	SET		891.1	SET					
+14888	Manimekhalai (The Dancer With The Magic Bowl)		"Shattan, Merchant-Prince"	New Directions	1989	0-8112-1098-7			891	SHA		891.1	SHA					
+15101	Post Mammata Sanskrit Poetics	(As Reflected in Nanjarajayasobhusana)	"Siddhartha, Sundari"	University of Delhi	1992	81-85695-01-6			891	SID		891.1	SID					
+15068	"Rasarnavasudhakara Of Simhabhupala, The"	Edited & introduced by T Venkatacharya	Simhabhupala	The Adyar Library and Research Centre	1979	0-8356-7533-5			891	SIM		891.1	SIM					
+15089	"Aesthetics of Wonder, The"	New Findings in Sanskrit Alankarasatra	"Subramanian, A V"	Motilal Banarsidass	1988	81-208-0444-9			891	SUB		891.1	SUB					
+16201	Rabindranath Tagore : An Anthology	Edited by Krishna Dutta and Andrew Robinson	"Tagore, Rabindranath"	Picador	1997	0-330-34962-7			891	TAG		891.1	TAG					
+14144	Songs of Kabir:  A 15th Century Sufi Classic	Translated by Rabindranath Tagore	Kabir	Weiser	2002	1-5863-249-8			891	TAG		891.4	KAB					
+13837	Collected Poems and Plays of Rabindranath Tagore		"Tagore, Rabindranath"	Macmillan	1962				891	TAG		891.1	TAG					
+14139	Fruit Gathering		"Tagore, Rabindranath"	Macmillan and Co	1943				891	TAG		891.1	TAG					
+14140	Fruit Gathering		"Tagore, Rabindranath"	Macmillan and Co	1921				891	TAG		891.1	TAG					
+14142	Gitanjali	A collection of prose translations made by the author from the original Bengali	"Tagore, Rabindranath"	Macmillan and Co	1926				891	TAG		891.1	TAG					
+	Gitanjali	(song offerings)	"Tagore, Rabindranath"	Macmillan and Co	1919				891	TAG		891.1	TAG					
+14143	Gitanjali And Fruit-Gathering		"Tagore, Rabindranath"	Macmillan and Co	1919				891	TAG		891.1	TAG					
+M15208	Quartet	translated from the Bengali by Kaiser Haq	"Tagore, Rabindranath"	Heinemann	1993	0435-95086-X			891	TAG		891.1	TAG					
+14145	Rabindranath Tagore:  Selected Poems	Translated by William Raddice	"Tagore, Rabindranath"	Penguin	1985				891	TAG		891.1	TAG					
+11062	Reminiscences		"Tagore, Rabindranath"	Macmillan and Co. Ltd. - London	1946		Literature	Other Literatures - Other Indo-European	891	TAG		891.1	TAG					
+14724	Selected Short Stories		"Tagore, Rabindranath"	Penguin	1991				891	TAG		891.1	TAG					
+14726	Selected Short Stories		"Tagore, Rabindranath"	Penguin	1994				891	TAG		891.1	TAG					
+14141	"Crescent Moon, The"	translated form the original Bengali by the author	"Tagore, Rabindranath"	Macmillan and Co	1951				891	TAG		891.1	TAG					
+13516	"Gardener, The"	translated by the author from the original Bengali	"Tagore, Rabindranath"	Macmillan & Co	1938				891	TAG		891.1	TAG					
+m14725	"Home and the World, The"		"Tagore, Rabindranath"	Penguin	1985				891	TAG		891.1	TAG					
 14267	The Eloquent Ecstasy		Thakar - Vimala	private	1962				891	THA								
 13479	Fragments From An Indian Student'S Notebook	A Study of an Indian Mind	Thornett - M. Amy	Arthur H. Stockwell	1927				891	THO								
 15370	The Kural	translated from the Tamil	Truvalluvar	Penguin	1990				891	TRU								
