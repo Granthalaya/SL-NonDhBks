@@ -1170,13 +1170,13 @@ M13286	Tree Of Diana - The		SANDALPHON	Privately Published			Psychology	Mysterie
 13265	Religions Of Man		WHITING - J R S	Stanley Thomas	1984	85950398	Religions	General Religion	200	WHI								
 11576	City Within The Heart ~ The		ZAEHNER - R. C.	Unwin Parerbacks - London		0 04 200033 5	Religion	Religion	200	ZAE								
 12991	Lost Gods		ALLEGRO - JOHN	Sphere Books Ltd	1977	0 7221 0492 8			201	ALL								
-10651	Summa Contra Gentiles ~ The	The First Book	AQUINAS - SAINT THOMAS	Burns - Oats & Washbourne Ltd. - London	1924		Religion	Religion - Philosophy & Theories	201	AQU								
-10652	Summa Contra Gentiles ~ The	The Second Book	AQUINAS - SAINT THOMAS	Burns - Oats & Washbourne Ltd. - London	1923		Religion	Religion - Philosophy & Theories	201	AQU								
-10653	Summa Contra Gentiles ~ The	The Third Book Part I	AQUINAS - SAINT THOMAS	Burns - Oats & Washbourne Ltd. - London	1928		Religion	Religion - Philosophy & Theories	201	AQU								
-10654	Summa Contra Gentiles ~ The	The Third Book Part II	AQUINAS - SAINT THOMAS	Burns - Oats & Washbourne Ltd. - London	1928		Religion	Religion - Philosophy & Theories	201	AQU								
-10655	Summa Contra Gentiles ~ The	The Fourth Book	AQUINAS - SAINT THOMAS	Burns - Oats & Washbourne Ltd. - London	1929		Religion	Religion - Philosophy & Theories	201	AQU								
-10656	Summa Theologica ~ The  Vol I		AQUINAS - SAINT THOMAS	Encyclopaedia Britannica Inc. - Chicago	1952		Religion	Religion - Philosophy & Theories	201	AQU								
-10657	Summa Theologica ~ The  Vol Ii		AQUINAS - SAINT THOMAS	Encyclopaedia Britannica Inc. - Chicago	1952		Religion	Religion - Philosophy & Theories	201	AQU								
+10651	Summa Contra Gentiles ~ The	The First Book	"Aquinas, Thomas (Saint)"	Burns - Oats & Washbourne Ltd. - London	1924		Religion	Religion - Philosophy & Theories	201	AQU								
+10652	Summa Contra Gentiles ~ The	The Second Book	"Aquinas, Thomas (Saint)"	Burns - Oats & Washbourne Ltd. - London	1923		Religion	Religion - Philosophy & Theories	201	AQU								
+10653	Summa Contra Gentiles ~ The	The Third Book Part I	"Aquinas, Thomas (Saint)"	Burns - Oats & Washbourne Ltd. - London	1928		Religion	Religion - Philosophy & Theories	201	AQU								
+10654	Summa Contra Gentiles ~ The	The Third Book Part II	"Aquinas, Thomas (Saint)"	Burns - Oats & Washbourne Ltd. - London	1928		Religion	Religion - Philosophy & Theories	201	AQU								
+10655	Summa Contra Gentiles ~ The	The Fourth Book	"Aquinas, Thomas (Saint)"	Burns - Oats & Washbourne Ltd. - London	1929		Religion	Religion - Philosophy & Theories	201	AQU								
+10656	Summa Theologica ~ The  Vol I		"Aquinas, Thomas (Saint)"	Encyclopaedia Britannica Inc. - Chicago	1952		Religion	Religion - Philosophy & Theories	201	AQU								
+10657	Summa Theologica ~ The  Vol Ii		"Aquinas, Thomas (Saint)"	Encyclopaedia Britannica Inc. - Chicago	1952		Religion	Religion - Philosophy & Theories	201	AQU								
 10659	Treatises Chiefly On Faith And Works		AUGUSTINE - SAINT	Walter Smith (Late Mozley) - London	1884		Religion	Religion - Philosophy & Theories	201	AUG								
 14429	Freedom In God	A guide to the thought of Nicholas Berdyaev	Allen - E. L.	Hodder & Stoughton					201	BER								
 10672	On The Love Of God		BERNARD - SAINT	Mowbrays - London		0 264 66526 0	Religion	Religion - Philosophy & Theories	201	BER								
