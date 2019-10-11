@@ -1159,79 +1159,79 @@ M13286	Tree Of Diana - The		SANDALPHON	Privately Published			Psychology	Mysterie
 10017	Berkeley	An Introduction to the Writings of this 18th-century Irish Philosopher whose Critical and Constructive Work Has a Continued Influence on Modern Philosophy	WARNOCK - G. J.	Penguin Books	1953		Philosophy	Modern Philosophy - Other Modern Philosophies	199	WAR								
 15204	Yoga And Indian Philosophy		Werner - Karel	Motilal Banarsidass	1977	0-8426-900-8			199	WER								
 15458	The Quantum Self	A Revolutionary View of Human Nature and Consciousness Rooted in the New Physics	Zohar - Danah	Bloomsbury	1990	0-7475-1271-4			199	ZOH								
-13273	Six World Religions		ALETRINO - L	SCM Press Ltd	1967	334015324	Religions	General Religions	200	ALE								
-13292	World'S Religions - The		BEAVER - R. Pierce	Lion Publishing	1982	86760354	Religions	General Religion	200	BEA								
-13272	Six Religions In The Twentieth Century		COLE - W. Owen	Hulton Educational Publications Ltd	1986	71751290	Relgions	General Religion	200	COL								
-13269	Religions Of The World	A Study for Everyone	FERGUSON - John	Lutterworth Educational	1978	71882354	Religion	Other Religions	200	FER								
-13268	Religions Of The World		HARDING - D. E.	Heineman	1967		Religion	General Religion	200	HAR								
-13289	What Men Believe		HEROD - F. G.	Methuen Educational	1986	42351330	Religion	General Religion	200	HER								
-13275	Study Of Religions - The	Meeting Points and Major Issues	LEWIS - H. D. & SLATER R. L.	Penguin Books	1969		Religions	General Religions	200	LEW								
-13271	Religious Studies Made Simple		STENT - David	Heinemann	1983	43498586	Religions	General Religion	200	STE								
-13265	Religions Of Man		WHITING - J R S	Stanley Thomas	1984	85950398	Religions	General Religion	200	WHI								
-11576	City Within The Heart ~ The		ZAEHNER - R. C.	Unwin Parerbacks - London		0 04 200033 5	Religion	Religion	200	ZAE								
-12991	Lost Gods		ALLEGRO - JOHN	Sphere Books Ltd	1977	0 7221 0492 8			201	ALL								
-10651	Summa Contra Gentiles ~ The	The First Book	"Aquinas, Thomas (Saint)"	Burns - Oats & Washbourne Ltd. - London	1924		Religion	Religion - Philosophy & Theories	201	AQU								
-10652	Summa Contra Gentiles ~ The	The Second Book	"Aquinas, Thomas (Saint)"	Burns - Oats & Washbourne Ltd. - London	1923		Religion	Religion - Philosophy & Theories	201	AQU								
-10653	Summa Contra Gentiles ~ The	The Third Book Part I	"Aquinas, Thomas (Saint)"	Burns - Oats & Washbourne Ltd. - London	1928		Religion	Religion - Philosophy & Theories	201	AQU								
-10654	Summa Contra Gentiles ~ The	The Third Book Part II	"Aquinas, Thomas (Saint)"	Burns - Oats & Washbourne Ltd. - London	1928		Religion	Religion - Philosophy & Theories	201	AQU								
-10655	Summa Contra Gentiles ~ The	The Fourth Book	"Aquinas, Thomas (Saint)"	Burns - Oats & Washbourne Ltd. - London	1929		Religion	Religion - Philosophy & Theories	201	AQU								
-10656	Summa Theologica ~ The  Vol I		"Aquinas, Thomas (Saint)"	Encyclopaedia Britannica Inc. - Chicago	1952		Religion	Religion - Philosophy & Theories	201	AQU								
-10657	Summa Theologica ~ The  Vol Ii		"Aquinas, Thomas (Saint)"	Encyclopaedia Britannica Inc. - Chicago	1952		Religion	Religion - Philosophy & Theories	201	AQU								
-10659	Treatises Chiefly On Faith And Works		AUGUSTINE - SAINT	Walter Smith (Late Mozley) - London	1884		Religion	Religion - Philosophy & Theories	201	AUG								
-14429	Freedom In God	A guide to the thought of Nicholas Berdyaev	Allen - E. L.	Hodder & Stoughton					201	BER								
-10672	On The Love Of God		BERNARD - SAINT	Mowbrays - London		0 264 66526 0	Religion	Religion - Philosophy & Theories	201	BER								
-10671	Love Of God And Spiritual Friendship ~ The		BERNARD OF CLAIRVAUX	Pickering & Inglis - Basingstoke	1983	0 7208 0556 2	Religion	Religion - Philosophy & Theories	201	BER								
-10663	Later Christian Fathers ~ The	A Selection from the Writings of the Fathers from St Cyril of Jerusalem to St Leo the Great	BETTENSON - HENRY (ED)	Oxford University Press	1974	0 19 283012 0	Religion	Religion - Philosophy & Theories	201	BET								
-15569	Objections To Humanism		Blackham - H. J. (ed.)	Constable and Co	1963				201	BLA								
-11687	Essential Newman ~ The	The Central Writings of the Master of English Prose who Infused New Vigor into the Nineteenth-century Catholic Church	BLEHL - VINCENT FERRER (ED)	New American Library - New York	1963		Religion	Religion - Philosophy & Theories	201	BLE								
-15601	The American Religion	The Emergence of the Post-Christian Nation	Bloom - Harold	Touchstone / Simon & Schuster	1992	0-671-86737-7			201	BLO								
+13273	Six World Religions		ALETRINO - L	SCM Press Ltd	1967	334015324	Religions	General Religions	200	ALE		200	ALE					
+13292	World'S Religions - The		BEAVER - R. Pierce	Lion Publishing	1982	86760354	Religions	General Religion	200	BEA		200	BEA					
+13272	Six Religions In The Twentieth Century		COLE - W. Owen	Hulton Educational Publications Ltd	1986	71751290	Relgions	General Religion	200	COL		200	COL					
+13269	Religions Of The World	A Study for Everyone	FERGUSON - John	Lutterworth Educational	1978	71882354	Religion	Other Religions	200	FER		200	FER					
+13268	Religions Of The World		HARDING - D. E.	Heineman	1967		Religion	General Religion	200	HAR		200	HAR					
+13289	What Men Believe		HEROD - F. G.	Methuen Educational	1986	42351330	Religion	General Religion	200	HER		200	HER					
+13275	Study Of Religions - The	Meeting Points and Major Issues	LEWIS - H. D. & SLATER R. L.	Penguin Books	1969		Religions	General Religions	200	LEW		200	LEW					
+13271	Religious Studies Made Simple		STENT - David	Heinemann	1983	43498586	Religions	General Religion	200	STE		200	STE					
+13265	Religions Of Man		WHITING - J R S	Stanley Thomas	1984	85950398	Religions	General Religion	200	WHI		200	WHI					
+11576	City Within The Heart ~ The		ZAEHNER - R. C.	Unwin Parerbacks - London		0 04 200033 5	Religion	Religion	200	ZAE		200	ZAE					
+12991	Lost Gods		ALLEGRO - JOHN	Sphere Books Ltd	1977	0 7221 0492 8			201	ALL		201	ALL					
+10651	Summa Contra Gentiles ~ The	The First Book	"Aquinas, Thomas (Saint)"	Burns - Oats & Washbourne Ltd. - London	1924		Religion	Religion - Philosophy & Theories	201	AQU		230	AQU					
+10652	Summa Contra Gentiles ~ The	The Second Book	"Aquinas, Thomas (Saint)"	Burns - Oats & Washbourne Ltd. - London	1923		Religion	Religion - Philosophy & Theories	201	AQU		230	AQU					
+10653	Summa Contra Gentiles ~ The	The Third Book Part I	"Aquinas, Thomas (Saint)"	Burns - Oats & Washbourne Ltd. - London	1928		Religion	Religion - Philosophy & Theories	201	AQU		230	AQU					
+10654	Summa Contra Gentiles ~ The	The Third Book Part II	"Aquinas, Thomas (Saint)"	Burns - Oats & Washbourne Ltd. - London	1928		Religion	Religion - Philosophy & Theories	201	AQU		230	AQU					
+10655	Summa Contra Gentiles ~ The	The Fourth Book	"Aquinas, Thomas (Saint)"	Burns - Oats & Washbourne Ltd. - London	1929		Religion	Religion - Philosophy & Theories	201	AQU		230	AQU					
+10656	Summa Theologica ~ The  Vol I		"Aquinas, Thomas (Saint)"	Encyclopaedia Britannica Inc. - Chicago	1952		Religion	Religion - Philosophy & Theories	201	AQU		230	AQU					
+10657	Summa Theologica ~ The  Vol Ii		"Aquinas, Thomas (Saint)"	Encyclopaedia Britannica Inc. - Chicago	1952		Religion	Religion - Philosophy & Theories	201	AQU		230	AQU					
+10659	Treatises Chiefly On Faith And Works		AUGUSTINE - SAINT	Walter Smith (Late Mozley) - London	1884		Religion	Religion - Philosophy & Theories	201	AUG		230	AUG					
+14429	Freedom In God	A guide to the thought of Nicholas Berdyaev	Allen - E. L.	Hodder & Stoughton					201	BER		201	ALL					
+10672	On The Love Of God		BERNARD - SAINT	Mowbrays - London		0 264 66526 0	Religion	Religion - Philosophy & Theories	201	BER		230	BER					
+10671	Love Of God And Spiritual Friendship ~ The		BERNARD OF CLAIRVAUX	Pickering & Inglis - Basingstoke	1983	0 7208 0556 2	Religion	Religion - Philosophy & Theories	201	BER		230	BER					
+10663	Later Christian Fathers ~ The	A Selection from the Writings of the Fathers from St Cyril of Jerusalem to St Leo the Great	BETTENSON - HENRY (ED)	Oxford University Press	1974	0 19 283012 0	Religion	Religion - Philosophy & Theories	201	BET		230	BET					
+15569	Objections To Humanism		Blackham - H. J. (ed.)	Constable and Co	1963				201	BLA		171.2	BLA					
+11687	Essential Newman ~ The	"The Central Writings of the Master of English Prose who Infused New Vigor into the Nineteenth-century Catholic Church, BLEHL - VINCENT FERRER (ED)"	Newman - Cardinal John Henry	New American Library - New York	1963		Religion	Religion - Philosophy & Theories	201	BLE		230	NEW					
+15601	The American Religion	The Emergence of the Post-Christian Nation	Bloom - Harold	Touchstone / Simon & Schuster	1992	0-671-86737-7			201	BLO		200.9	BLO					
 10577	I And Thou		BUBER - MARTIN	T. & T. Clark - Edinburgh	1970		Religion	Religion - Philosophy & Theories	201	BUB								
-10587	Fair Haven ~ The		BUTLER - SAMUEL	Watts & Co. - London	1938		Religion	Religion - Philosophy & Theories	201	BUT								
-10559	Selections From The Literature Of Theism		CALDECOTT - ALFRED & H. R. MACKINTOSH (EDS)	T. & T. Clark - Edinburgh	1931		Religion	Religion - Philosophy & Theories	201	CAL								
-10560	Purgation And Purgatory - The Spiritual Dialogue		CATHERINE OF GENOA	SPCK - London	1979	0281 03709 4	Religion	Religion - Philosophy & Theories	201	CAT								
-10561	Dialogue ~ The		CATHERINE OF SIENA	SPCK - London	1980	0281 03731 0	Religion	Religion - Philosophy & Theories	201	CAT								
-10579	Self-Abandonment To Divine Providence		CAUSSADE - JEAN-PIERRE DE	Templegate - Illinois	1962		Religion	Religion - Philosophy & Theories	201	CAU								
-10313	Milieu Divin ~ Le	An Essay on the Interior Life	CHARDIN - PIERRE TEILHARD DE	William Collins Sons & Co. Ltd. - London	1961		Religion	Religion - Philosophy & Theories	201	CHA								
-10293	Hymn Of The Universe		CHARDIN - TEILHARD DE	William Collins Sons & Co. Ltd. - London	1966		Religion	Religion - Philosophy & Theories	201	CHA								
-10667	Meister Eckhart: Selected Treatises And Sermons		CLARK - J. M. & J. V. SKINNER (TRANS)	Collins - London	1963		Religion	Religion - Philosophy & Theories	201	CLA								
-10563	Leap Of Reason ~ The		CUPITT - DON	Sheldon Press - London	1976	0 85969 084 9	Religion	Religion - Philosophy & Theories	201	CUP								
-10564	Taking Leave Of God		CUPITT - DON	SCM Press Ltd. - London	1981	334 01596 0	Religion	Religion - Philosophy & Theories	201	CUP								
-15603	The Leap Of Reason		Cupitt - Don	Sheldon Press	1976	0-85969-084-9			201	CUP								
-15474	The Sea Of Faith	Christianity in Change	Cupitt - Don	British Boradcasting Corporation	1984	563-20202-5			201	CUP								
-10576	Communism And Christianity	An Examination of the Christian and Communist Philosophies in Their Views of Human Life and Happiness	D'ARCY - MARTIN	Penguin Books	1956		Religion	Religion - Philosophy & Theories	201	D'A								
-10248	Progress And Religion	An Historical Enquiry	DAWSON - CHRISTOPHER	SHEED AND WARD - LONDON	1945		Religion	Religion - Philosophy & Theories	201	DAW								
-10664	Divine Names And The Mystical Theology ~ The		DIONYSIUS THE AREOPAGITE	SPCK - London	1983	0 281 01255 5	Religion	Religion - Philosophy & Theories	201	DIO								
-10568	According To The Scriptures	The Sub-structure of New Testament Theology	DODD - C. H.	Collins - London	1965		Religion	Religion - Philosophy & Theories	201	DOD								
-10572	Idea Of A Christian Society ~ The		ELIOT - T. S.	Faber and Faber Ltd. - London	1939		Religion	Religion - Philosophy & Theories	201	ELI								
-11094	Man - God & Immortality	Thoughts on Human Progress	FRAZER - SIR JAMES GEORGE	Macmillan and Co. - London	1927		Religion	Religion - Philosophy & Theories	201	FRA								
-10585	God Is Not Yet Dead		GARDAVSKY - VITEZSLAV	Penguin Books	1973	0 1402 1322 8	Religion	Religion - Philosophy & Theories	201	GAR								
-10582	Why Be A Christian?		HAUGHTON - ROSEMARY	Geoffrey Chapman - London	1968		Religion	Religion - Philosophy & Theories	201	HAU								
-14385	God Is Not Great	The case against religion	Hitchens - Christopher	Atlantic Books	2007	978 1 84354 586			201	HIT								
-10998	Vale		INGE - WILLIAM RALPH	Longmans - Green and Co. - London	1934		Religion	Religion - Philosophy & Theories	201	ING								
-10570	Myth And Christianity	An Inquiry into the Possibility of Religion Without Myth	JASPERS - KARL & RUDOLF BULTMANN	The Noonday Press - New York	1968		Religion	Religion - Philosophy & Theories	201	JAS								
-10662	Early Fathers From The Philokalia	Together With Some Writings of St Abba Dorotheus - St Isaac of Syria and St Gregory Palamas	KADLOUBOVSKY - E. & G. E. H. PALMER (TRANS)	Faber and Faber Ltd. - London	1963		Religion	Religion - Philosophy & Theories	201	KAD								
-11186	Misery Of Christianity ~ The	A Plea for a Humanity Without God	KAHL - JOACHIM	Penguin Books	1971	0 1402 1324 4	Religion	Religion - Philosophy & Theories	201	KAH								
-10368	Critique Of Religion And Philosophy		KAUFMANN - WALTER	Doubleday & Company Inc. - New York	1961		Religion	Religion - Philosophy & Theories	201	KAU								
-11374	Faith Of A Heretic ~ The		KAUFMANN - WALTER	Doubleday & Co. - New York	1963		Religion	Religion - Philosophy & Theories	201	KAU								
-10670	Imitation Of Christ ~ The		KEMPIS - THOMAS A	Penguin Books	1973	0 14044 027 5	Religion	Religion - Philosophy & Theories	201	KEM								
-14879	Defenders Of God	The Fundamental Revolt Against the Modern Age	Lawrence - Bruce B.	L.B.Tauris & Co Ltd	1990	1-85043-288-0			201	LAW								
-11114	Voices Of Convergence		LEARY - DANIEL	The Bruce Publishing Company - Milwaukee	1969		Religion	Religion - Philosophy & Theories	201	LEA								
-10957	Problem Of Pain ~ The		LEWIS - C. S.	The Centenary Press - London	1946		Religion	Religion - Philosophy & Theories	201	LEW								
-10669	Saint Bernard On Consideration		LEWIS - GEORGE (TRANS)	Oxford University Press	1908		Religion	Religion - Philosophy & Theories	201	LEW								
-15536	Enduring Issues In Religion		Lyden - John	Greenhaven Press Inc	1995	1-56510-260-6			201	LYD								
-13028	Twentieth-Century Religious Thought		MACQUARRIE - JOHN	SCM Press	1963		Religion	Philosophy of Christianity	201	MAC								
-15352	A Study Of Religion Vol I	Its Sources and Content	Maertineau - James	Oxford at the clarendon Press	1889				201	MAR								
-15862	The Seat Of Authority In Religion		Martineau - James	Longmans - Green & Co	1890				201	MAR								
+10587	Fair Haven ~ The		BUTLER - SAMUEL	Watts & Co. - London	1938		Religion	Religion - Philosophy & Theories	201	BUT		201	BUT					
+10559	Selections From The Literature Of Theism		CALDECOTT - ALFRED & H. R. MACKINTOSH (EDS)	T. & T. Clark - Edinburgh	1931		Religion	Religion - Philosophy & Theories	201	CAL		200.1	CAL					
+10560	Purgation And Purgatory - The Spiritual Dialogue	Serge Hughs (Tr)	CATHERINE OF GENOA	SPCK - London	1979	0281 03709 4	Religion	Religion - Philosophy & Theories	201	CAT		230	CAT					
+10561	Dialogue ~ The		CATHERINE OF SIENA	SPCK - London	1980	0281 03731 0	Religion	Religion - Philosophy & Theories	201	CAT		242	CAT					
+10579	Self-Abandonment To Divine Providence		CAUSSADE - JEAN-PIERRE DE	Templegate - Illinois	1962		Religion	Religion - Philosophy & Theories	201	CAU		201	CAU					
+10313	Milieu Divin ~ Le	An Essay on the Interior Life	CHARDIN - PIERRE TEILHARD DE	William Collins Sons & Co. Ltd. - London	1961		Religion	Religion - Philosophy & Theories	201	CHA		201	CHA					
+10293	Hymn Of The Universe		CHARDIN - TEILHARD DE	William Collins Sons & Co. Ltd. - London	1966		Religion	Religion - Philosophy & Theories	201	CHA		201	CHA					
+10667	Meister Eckhart: Selected Treatises And Sermons	CLARK - J. M. & J. V. SKINNER (TRANS)	Eckhart - Meister	Collins - London	1963		Religion	Religion - Philosophy & Theories	201	CLA		240	ECK					
+10563	Leap Of Reason ~ The		Cupitt - Don	Sheldon Press - London	1976	0 85969 084 9	Religion	Religion - Philosophy & Theories	201	CUP		201	CUP					
+10564	Taking Leave Of God		Cupitt - Don	SCM Press Ltd. - London	1981	334 01596 0	Religion	Religion - Philosophy & Theories	201	CUP		212	CUP					
+15603	Leap Of Reason ~ The		Cupitt - Don	Sheldon Press	1976	0 85969 084 9			201	CUP		201	CUP					
+15474	The Sea Of Faith	Christianity in Change	Cupitt - Don	British Boradcasting Corporation	1984	563-20202-5			201	CUP		200.1	CUP					
+10576	Communism And Christianity	An Examination of the Christian and Communist Philosophies in Their Views of Human Life and Happiness	D'ARCY - MARTIN	Penguin Books	1956		Religion	Religion - Philosophy & Theories	201	D'A		261	DAR					
+10248	Progress And Religion	An Historical Enquiry	DAWSON - CHRISTOPHER	SHEED AND WARD - LONDON	1945		Religion	Religion - Philosophy & Theories	201	DAW		260	DAW					
+10664	Divine Names And The Mystical Theology ~ The		DIONYSIUS THE AREOPAGITE	SPCK - London	1983	0 281 01255 5	Religion	Religion - Philosophy & Theories	201	DIO		230	DIO					
+10568	According To The Scriptures	The Sub-structure of New Testament Theology	DODD - C. H.	Collins - London	1965		Religion	Religion - Philosophy & Theories	201	DOD		230	DOD					
+10572	Idea Of A Christian Society ~ The		ELIOT - T. S.	Faber and Faber Ltd. - London	1939		Religion	Religion - Philosophy & Theories	201	ELI		260	ELI					
+11094	Man - God & Immortality	Thoughts on Human Progress	FRAZER - SIR JAMES GEORGE	Macmillan and Co. - London	1927		Religion	Religion - Philosophy & Theories	201	FRA		291	FRA					
+10585	God Is Not Yet Dead		GARDAVSKY - VITEZSLAV	Penguin Books	1973	0 1402 1322 8	Religion	Religion - Philosophy & Theories	201	GAR		291	GAR					
+10582	Why Be A Christian?		HAUGHTON - ROSEMARY	Geoffrey Chapman - London	1968		Religion	Religion - Philosophy & Theories	201	HAU		201	HAU					
+14385	God Is Not Great	The case against religion	Hitchens - Christopher	Atlantic Books	2007	978 1 84354 586			201	HIT		291	HIT					
+10998	Vale		INGE - WILLIAM RALPH	Longmans - Green and Co. - London	1934		Religion	Religion - Philosophy & Theories	201	ING		201	ING					
+10570	Myth And Christianity	An Inquiry into the Possibility of Religion Without Myth	JASPERS - KARL & RUDOLF BULTMANN	The Noonday Press - New York	1968		Religion	Religion - Philosophy & Theories	201	JAS		201	JAS					
+10662	Early Fathers From The Philokalia	Together With Some Writings of St Abba Dorotheus - St Isaac of Syria and St Gregory Palamas	KADLOUBOVSKY - E. & G. E. H. PALMER (TRANS)	Faber and Faber Ltd. - London	1963		Religion	Religion - Philosophy & Theories	201	KAD		240	KAD					
+11186	Misery Of Christianity ~ The	A Plea for a Humanity Without God	KAHL - JOACHIM	Penguin Books	1971	0 1402 1324 4	Religion	Religion - Philosophy & Theories	201	KAH		291	KAH					
+10368	Critique Of Religion And Philosophy		KAUFMANN - WALTER	Doubleday & Company Inc. - New York	1961		Religion	Religion - Philosophy & Theories	201	KAU		200.1	KAU					
+11374	Faith Of A Heretic ~ The		KAUFMANN - WALTER	Doubleday & Co. - New York	1963		Religion	Religion - Philosophy & Theories	201	KAU		201	KAU					
+10670	Imitation Of Christ ~ The		KEMPIS - THOMAS A	Penguin Books	1973	0 14044 027 5	Religion	Religion - Philosophy & Theories	201	KEM		240	KEM					
+14879	Defenders Of God	The Fundamental Revolt Against the Modern Age	Lawrence - Bruce B.	L.B.Tauris & Co Ltd	1990	1-85043-288-0			201	LAW		291	LAW					
+11114	Voices Of Convergence		LEARY - DANIEL	The Bruce Publishing Company - Milwaukee	1969		Religion	Religion - Philosophy & Theories	201	LEA		901	LEA					
+10957	Problem Of Pain ~ The		LEWIS - C. S.	The Centenary Press - London	1946		Religion	Religion - Philosophy & Theories	201	LEW		214	LEW					
+10669	Saint Bernard On Consideration	LEWIS - GEORGE (TRANS)	Bernard (Saint)	Oxford University Press	1908		Religion	Religion - Philosophy & Theories	201	LEW		230	BER					
+15536	Enduring Issues In Religion		Lyden - John	Greenhaven Press Inc	1995	1-56510-260-6			201	LYD		291	LYD					
+13028	Twentieth-Century Religious Thought		MACQUARRIE - JOHN	SCM Press	1963		Religion	Philosophy of Christianity	201	MAC		200.1	MAC					
+15352	A Study Of Religion Vol I	Its Sources and Content	Martineau - James	Oxford at the clarendon Press	1889				201	MAR		230	MAR					
+15862	The Seat Of Authority In Religion		Martineau - James	Longmans - Green & Co	1890				201	MAR		210	MAR					
 11656	Bankruptcy Of Religion ~ The		MCCABE - JOSEPH	Watts & Co. - London	1917		Religion	Religion - Philosophy & Theories	201	MCC								
 15635	The Dawkins Delusion	Atheist fundamentalism and the denial of the divine	McGrath - Alister	SPCK	2007	978-0-281-05927-			201	MCG								
-11008	God Is A New Language		MOORE - DOM SEBASTIAN	Darton - Longman & Todd	1967		Religion	Religion - Philosophy & Theories	201	MOO								
+11008	God Is A New Language		MOORE - DOM SEBASTIAN	Darton - Longman & Todd	1967		Religion	Religion - Philosophy & Theories	201	MOO		201	MOO					
 13058	Betrayal Of Christ By The Churches ~The		MURRAY - J. MIDDLETON	Andrew Dakers Ltd.			Religion	Philosophy of Christianity	201	MUR								
-10658	New Things And Old In Saint Thomas Aquinas	A Translation of Various Writings & Treatises of the Angelic Doctor	O'NEILL - H. C.	J. M. Dent & Company - London	1909		Religion	Religion - Philosophy & Theories	201	O'N								
-11315	Concerning Progressive Revelation		PHELIPS - VIVIAN	Watts & Co. - London	1936		Religion	Religion - Philosophy & Theories	201	PHE								
-10992	No Easy Answers		POWELL - ENOCH	Sheldon Press - London	1973	0 85969 001 6	Religion	Religion - Philosophy & Theories	201	POW								
-11014	Idealist View Of Life ~ An		RADHAKRISHNAN	George Allen & Unwin - London	1980	0-04-141009-2	Religion	Religion - Philosophy & Theories	201	RAD								
-10990	Honest To God		ROBINSON - JOHN A. T.	SCM Press Ltd. - London	1963		Religion	Religion - Philosophy & Theories	201	ROB								
-10991	New Reformation? ~ The		ROBINSON - JOHN A. T.	SCM Press Ltd. - London	1965		Religion	Religion - Philosophy & Theories	201	ROB								
+10658	New Things And Old In Saint Thomas Aquinas	A Translation of Various Writings & Treatises of the Angelic Doctor	O'NEILL - H. C.	J. M. Dent & Company - London	1909		Religion	Religion - Philosophy & Theories	201	O'N		230	ONE					
+11315	Concerning Progressive Revelation		PHELIPS - VIVIAN	Watts & Co. - London	1936		Religion	Religion - Philosophy & Theories	201	PHE		291	PHE					
+10992	No Easy Answers		POWELL - ENOCH	Sheldon Press - London	1973	0 85969 001 6	Religion	Religion - Philosophy & Theories	201	POW		261.7	POW					
+11014	Idealist View Of Life ~ An		RADHAKRISHNAN	George Allen & Unwin - London	1980	0-04-141009-2	Religion	Religion - Philosophy & Theories	201	RAD		141	RAD					
+10990	Honest To God		ROBINSON - JOHN A. T.	SCM Press Ltd. - London	1963		Religion	Religion - Philosophy & Theories	201	ROB		201	ROB					
+10991	New Reformation? ~ The		ROBINSON - JOHN A. T.	SCM Press Ltd. - London	1965		Religion	Religion - Philosophy & Theories	201	ROB		201	ROB					
 10989	Misinterpretation Of Man	A Study of European Thought in the 19th Century	ROUBICZEK - PAUL	Routledge & Kegan Paul Ltd. - London	1949		Religion	Religion - Philosophy & Theories	201	ROU								
 14874	The Meek And The Militant	Religion and Power Across the World	Siegel - Paul N.	Zed Books Ltd	1986	0-86232-350-9			201	SIE								
 11227	Christian Neurosis ~ The		SOLIGNAC - PIERRE	SCM Press Ltd. - London	1982	334 01934 6	Religion	Religion - Philosophy & Theories	201	SOL								
@@ -1244,7 +1244,7 @@ M13286	Tree Of Diana - The		SANDALPHON	Privately Published			Psychology	Mysterie
 11196	Blasphemy Ancient & Modern		WALTER - NICOLAS	Rationalist Press Association	1990	0 301 90001 9	Religion	Religion - Philosophy & Theories	201	WAL								
 11314	Blasphemy Ancient & Modern		WALTER - NICOLAS	Rationalist Press Association	1990	0 301 90001 9	Religion	Religion - Philosophy & Theories	201	WAL								
 15542	Against Religion	Why We Should Try to Live Without It	Wilson - A. N.	Chatto & Windus	1991	0-7011-3854-8			201	WIL								
-10571	Jonathan Edwards: Basic Writings		WINSLOW - OLA ELIZABETH (ED)	New American Library - New York	1966		Religion	Religion - Philosophy & Theories	201	WIN								
+10571	Jonathan Edwards: Basic Writings	WINSLOW - OLA ELIZABETH (ED)	Edwards - Jonathan	New American Library - New York	1966		Religion	Religion - Philosophy & Theories	201	WIN		202	EDW					
 10569	Introduction To The Study Of Christianity ~ An		DODD - FRANK	George Allen and Unwin - London	1938		Religion	Religion - Handbooks & Outlines	202	DOD								
 15567	A Handbook Of Living Religions		Hinnells - John R.	Penguin / Pelican	1985				202	HIN								
 13045	Extracts From The Flying Roll	Sermon III	JEZREEL - JAMES J.	Latter House of Israel	1881		Religion	Miscellany of Christianity	202	JEZ								
