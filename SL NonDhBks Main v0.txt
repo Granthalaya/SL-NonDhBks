@@ -896,7 +896,7 @@ M13286	Tree Of Diana - The		SANDALPHON	Privately Published			Psychology	Mysterie
 16450	Lives Of Eminent Philosophers Volume Ii	with an Enlgish translation by R.D. Hicks	Laertius - Diogenes	Heinemann	1979	0-434-99185-6			189	LAE								
 10107	Medieval Thought	St. Augustine to Ockham	LEFF - GORDON	Penguin Books	1958		Philosophy	Ancient & Medieval - Medieval Western Philosophy	189	LEF								
 15942	Medieval Philosophy	from Augustine to Buridan	Shapiro - Herman	The Modern Library	1964				189	SHA								
-16485	Avicenna		Goodman - L.E.	Routledge	1992	0-415-07409-6			189.5	AVI								
+16485	Avicenna		Goodman - L.E.	Routledge	1992	0-415-07409-6			189.5	AVI		189.5	GOO					
 10217	Age Of Ideology ~ The	The 19th Century Philosophers	AIKEN - HENRY D.	Mentor Books - New York	1963		Philosophy	Modern Philosophy	190	AIK								
 10219	Ten Contemporary Thinkers		AMEND - V. E. & L. T. HENDRICK (ED)	The Free Press of Glencoe - New York	1964		Philosophy	Modern Philosophy	190	AME								
 10216	Age Of Enlightenment ~ The	The 18th Century Philosophers	BERLIN - ISAIAH	Mentor Books - New York	1956		Philosophy	Modern Philosophy	190	BER								
@@ -1222,69 +1222,69 @@ M13286	Tree Of Diana - The		SANDALPHON	Privately Published			Psychology	Mysterie
 13028	Twentieth-Century Religious Thought		MACQUARRIE - JOHN	SCM Press	1963		Religion	Philosophy of Christianity	201	MAC		200.1	MAC					
 15352	A Study Of Religion Vol I	Its Sources and Content	Martineau - James	Oxford at the clarendon Press	1889				201	MAR		230	MAR					
 15862	The Seat Of Authority In Religion		Martineau - James	Longmans - Green & Co	1890				201	MAR		210	MAR					
-11656	Bankruptcy Of Religion ~ The		MCCABE - JOSEPH	Watts & Co. - London	1917		Religion	Religion - Philosophy & Theories	201	MCC								
-15635	The Dawkins Delusion	Atheist fundamentalism and the denial of the divine	McGrath - Alister	SPCK	2007	978-0-281-05927-			201	MCG								
+11656	Bankruptcy Of Religion ~ The		MCCABE - JOSEPH	Watts & Co. - London	1917		Religion	Religion - Philosophy & Theories	201	MCC		201	MCC					
+15635	The Dawkins Delusion	Atheist fundamentalism and the denial of the divine	McGrath - Alister	SPCK	2007	978-0-281-05927-			201	MCG		211	MCG					
 11008	God Is A New Language		MOORE - DOM SEBASTIAN	Darton - Longman & Todd	1967		Religion	Religion - Philosophy & Theories	201	MOO		201	MOO					
-13058	Betrayal Of Christ By The Churches ~The		MURRAY - J. MIDDLETON	Andrew Dakers Ltd.			Religion	Philosophy of Christianity	201	MUR								
+13058	Betrayal Of Christ By The Churches ~The		MURRAY - J. MIDDLETON	Andrew Dakers Ltd.			Religion	Philosophy of Christianity	201	MUR		201	MUR					
 10658	New Things And Old In Saint Thomas Aquinas	A Translation of Various Writings & Treatises of the Angelic Doctor	O'NEILL - H. C.	J. M. Dent & Company - London	1909		Religion	Religion - Philosophy & Theories	201	O'N		230	ONE					
 11315	Concerning Progressive Revelation		PHELIPS - VIVIAN	Watts & Co. - London	1936		Religion	Religion - Philosophy & Theories	201	PHE		291	PHE					
 10992	No Easy Answers		POWELL - ENOCH	Sheldon Press - London	1973	0 85969 001 6	Religion	Religion - Philosophy & Theories	201	POW		261.7	POW					
 11014	Idealist View Of Life ~ An		RADHAKRISHNAN	George Allen & Unwin - London	1980	0-04-141009-2	Religion	Religion - Philosophy & Theories	201	RAD		141	RAD					
 10990	Honest To God		ROBINSON - JOHN A. T.	SCM Press Ltd. - London	1963		Religion	Religion - Philosophy & Theories	201	ROB		201	ROB					
 10991	New Reformation? ~ The		ROBINSON - JOHN A. T.	SCM Press Ltd. - London	1965		Religion	Religion - Philosophy & Theories	201	ROB		201	ROB					
-10989	Misinterpretation Of Man	A Study of European Thought in the 19th Century	ROUBICZEK - PAUL	Routledge & Kegan Paul Ltd. - London	1949		Religion	Religion - Philosophy & Theories	201	ROU								
-14874	The Meek And The Militant	Religion and Power Across the World	Siegel - Paul N.	Zed Books Ltd	1986	0-86232-350-9			201	SIE								
-11227	Christian Neurosis ~ The		SOLIGNAC - PIERRE	SCM Press Ltd. - London	1982	334 01934 6	Religion	Religion - Philosophy & Theories	201	SOL								
-10995	God - Man And The Church	The Spiritual Foundations of Life	SOLOVYEV - VLADIMIR	James Clarke & Co. Ltd. - Cambridge	1974	0 227 67690 4	Religion	Religion - Philosophy & Theories	201	SOL								
-10975	War And Christianity From The Russian Point Of View		SOLOVYOF - VLADIMIR	Constable & Company Ltd. - London	1915		Religion	Religion - Philosophy & Theories	201	SOL								
-10983	Religious Situation ~ The		TILLICH - PAUL	Meridian Books - New York	1956		Religion	Religion - Philosophy & Theories	201	TIL								
-10984	Shaking Of The Foundations ~ The		TILLICH - PAUL	Penguin Books	1964		Religion	Religion - Philosophy & Theories	201	TIL								
-11088	Religion And Reality	A Study in the Philosophy of Mysticism	TUCKWELL - JAMES HENRY	Methuen & Co. - london	1915		Religion	Religion - Philosophy & Theories	201	TUC								
-15015	Blasphemy - Ancient And Modern		Walter - Nicolas	Rationalist Press Association	1990	0-301-90001-9			201	WAL								
-11196	Blasphemy Ancient & Modern		WALTER - NICOLAS	Rationalist Press Association	1990	0 301 90001 9	Religion	Religion - Philosophy & Theories	201	WAL								
-11314	Blasphemy Ancient & Modern		WALTER - NICOLAS	Rationalist Press Association	1990	0 301 90001 9	Religion	Religion - Philosophy & Theories	201	WAL								
-15542	Against Religion	Why We Should Try to Live Without It	Wilson - A. N.	Chatto & Windus	1991	0-7011-3854-8			201	WIL								
+10989	Misinterpretation Of Man	A Study of European Thought in the 19th Century	ROUBICZEK - PAUL	Routledge & Kegan Paul Ltd. - London	1949		Religion	Religion - Philosophy & Theories	201	ROU		291	ROU					
+14874	The Meek And The Militant	Religion and Power Across the World	Siegel - Paul N.	Zed Books Ltd	1986	0-86232-350-9			201	SIE		291	SIE					
+11227	Christian Neurosis ~ The		SOLIGNAC - PIERRE	SCM Press Ltd. - London	1982	334 01934 6	Religion	Religion - Philosophy & Theories	201	SOL		150	SOL					
+10995	God - Man And The Church	The Spiritual Foundations of Life	SOLOVYEV - VLADIMIR	James Clarke & Co. Ltd. - Cambridge	1974	0 227 67690 4	Religion	Religion - Philosophy & Theories	201	SOL		230	SOL					
+10975	War And Christianity From The Russian Point Of View		SOLOVYOF - VLADIMIR	Constable & Company Ltd. - London	1915		Religion	Religion - Philosophy & Theories	201	SOL		261.7	SOL					
+10983	Religious Situation ~ The		TILLICH - PAUL	Meridian Books - New York	1956		Religion	Religion - Philosophy & Theories	201	TIL		200.1	TIL					
+10984	Shaking Of The Foundations ~ The		TILLICH - PAUL	Penguin Books	1964		Religion	Religion - Philosophy & Theories	201	TIL		230	TIL					
+11088	Religion And Reality	A Study in the Philosophy of Mysticism	TUCKWELL - JAMES HENRY	Methuen & Co. - london	1915		Religion	Religion - Philosophy & Theories	201	TUC		200.1	TUC					
+15015	Blasphemy Ancient & Modern		Walter - Nicolas	Rationalist Press Association	1990	0 301 90001 9	Religion	Religion - Philosophy & Theories	201	WAL		291	WAL					
+11196	Blasphemy Ancient & Modern		Walter - Nicolas	Rationalist Press Association	1990	0 301 90001 9	Religion	Religion - Philosophy & Theories	201	WAL		291	WAL					
+11314	Blasphemy Ancient & Modern		Walter - Nicolas	Rationalist Press Association	1990	0 301 90001 9	Religion	Religion - Philosophy & Theories	201	WAL		291	WAL					
+15542	Against Religion	Why We Should Try to Live Without It	Wilson - A. N.	Chatto & Windus	1991	0-7011-3854-8			201	WIL		291	WIL					
 10571	Jonathan Edwards: Basic Writings	WINSLOW - OLA ELIZABETH (ED)	Edwards - Jonathan	New American Library - New York	1966		Religion	Religion - Philosophy & Theories	201	WIN		202	EDW					
-10569	Introduction To The Study Of Christianity ~ An		DODD - FRANK	George Allen and Unwin - London	1938		Religion	Religion - Handbooks & Outlines	202	DOD								
-15567	A Handbook Of Living Religions		Hinnells - John R.	Penguin / Pelican	1985				202	HIN								
-13045	Extracts From The Flying Roll	Sermon III	JEZREEL - JAMES J.	Latter House of Israel	1881		Religion	Miscellany of Christianity	202	JEZ								
-13046	Extracts From The Flying Roll	Sermon I	JEZREEL - JAMES J.	Latter House of Israel	1879		Religion	Miscellany of Christianity	202	JEZ								
-13047	Extracts From The Flying Roll	Sermon II	JEZREEL - JAMES J.	Latter House of Israel	1879		Religion	Miscellany of Christianity	202	JEZ								
-12563	Heaven And Its Wonders And Hell	From Things Heard and Seen	SWEDENBORG - EMANUEL	The Swedenborg Society	1958		Religion	Miscellany of Christianity	202	SWE								
-11166	Universal Bible Dictionary ~ The		BUCKLAND - A. R. (ED)	The Religious Tract Society - London	1914		Religion	Religion - Dictionaries & Encyclopedias	203	BUC								
-14905	The Encyclopedia Of Gods		Jordan - Michael	Kyle Cathie Ltd	1994	1-85626-131-X			203	JOR								
-13238	Dictionary Of Non-Christian Religions - A		PARRINDER - GEOFFREY	Hulton Educational Publications	1981	71750972	Religions	Dictionaries and Encyclopedias	203	PAR								
-15921	The Rider Encyclopedia Of Eastern Philosophy And Religion	Buddhism - Taoism - Zen - Hinduism	Fischer-chreiber - Ingrid et al	Rider Books	1989	0-7126-1192-4			203	RID								
-11073	Dictionary Of Pagan Religions	The Cults - Rites and Rituals Associated with Polytheistic Religions - From the Stone Age to the Present	WEDECK - H. E. & WADE BASKIN	The Citadel Press - New Jersey	1973	0-8065-0386-6	Religion	Religion - Dictionaries & Encyclopedias	203	WED								
-13237	Concise Encyclopedia Of Living Faiths		ZAEHNER - R. C. (ED)	Hutchinson	1984	9107521	Religion	Dictionaries & Encyclopedias	203	ZAE								
-10592	Dialogues On The Supersensual Life		BOEHME - JACOB	Frederick Ungar Publishing Co. - New York			Religion	Religion - Essays & Lectures	204	BOE								
-10591	Six Theosophic Points And Other Writings		BOEHME - JACOB	The University of Michigan Press	1958		Religion	Religion - Essays & Lectures	204	BOE								
-16360	Signatura Rerum And Other Discourses		Boehme - Jakob	J.M.Dent & Sons					204	BOE								
-11703	Christian Community ~ The	Essays on the Role of the Church in the World	BRIGHT - LAURENCE	Sheed and Ward Ltd. - London	1971	7220 0618 7	Religion	Religion - Essays & Lectures	204	BRI								
-10590	Bulgakov Anthology ~ A		BULGAKOV - SERGIUS	SPCK - London	1976	0 281 02933 4	Religion	Religion - Essays & Lectures	204	BUL								
-11017	Silesian Horseherd ~ The	Questions of the Hour Answered by Friedrich Max Muller	FECHTER - OSCAR A.	Longmans - Green and Co. - London	1903		Religion	Religion - Essays & Lectures	204	FEC								
-10979	Solovyov Anthology ~ A		FRANK - S. L. (ED)	SCM Press Ltd. - London	1950		Religion	Religion - Essays & Lectures	204	FRA								
-11111	Divine Flame ~ The	Gifford Lectures 1965	HARDY - SIR ALISTER	Manchester College - Oxford	1978	0 906165 03 2	Religion	Religion - Essays & Lectures	204	HAR								
-10578	Personality: Human And Divine	The Bampton Lectures 1894	ILLINGWORTH - J. R.	Macmillan and Co. - New York	1895		Religion	Religion - Essays & Lectures	204	ILL								
-10963	Christian Mysticism	The Bampton Lectures - 1899	INGE - WILLIAM RALPH	Metuen & Co. - London	1912		Religion	Religion - Essays & Lectures	204	ING								
-10962	Diary Of A Dean	St. Paul's 1911-1934	INGE - WILLIAM RALPH	Hutchinson & Co. - London	1949		Religion	Religion - Essays & Lectures	204	ING								
-10961	End Of An Age ~ The	And Other Essays	INGE - WILLIAM RALPH	Religious Book Club - London	1949		Religion	Religion - Essays & Lectures	204	ING								
-10965	Lay Thoughts Of A Dean		INGE - WILLIAM RALPH	Putnam - London	1926		Religion	Religion - Essays & Lectures	204	ING								
-10960	Our Present Discontents		INGE - WILLIAM RALPH	Putnam - London	1938		Religion	Religion - Essays & Lectures	204	ING								
-10956	Outspoken Essays		INGE - WILLIAM RALPH	Longmans - Green and Co. - London	1920		Religion	Religion - Essays & Lectures	204	ING								
-10964	Rustic Moralist ~ A		INGE - WILLIAM RALPH	Putnam - London	1937		Religion	Religion - Essays & Lectures	204	ING								
-11112	Varieties Of Religious Experience ~ The	Gifford Lectures 1901-1902	JAMES - WILLIAM	Longmans - Green and Co. - London	1952		Religion	Religion - Essays & Lectures	204	JAM								
-12151	Varieties Of Religious Experience ~ The		JAMES - WILLIAM	Fontana	1974	0 00 642520 88	Religion	Religion - Essays & Lectures	204	JAM								
-12177	Varieties Of Religious Experience ~ The		JAMES - WILLIAM	Collins - London	1960		Religion	Religion - Essays & Lectures	204	JAM								
-14860	The Structure Of Religious Experience		Macmurray - John	Faber & Faber Ltd.					204	MAC								
-10966	Redeeming The Time		MARITAIN - JACQUES	Geoffrey Bles - London	1943		Religion	Religion - Essays & Lectures	204	MAR								
-15643	Essays Series I		Pattison - Mark	George Routledge and Sons					204	PAT								
-15644	Essays Series Ii		Pattison - Mark	George routledge & Sons					204	PAT								
-11066	Religion And Society	Kamala Lectures	RADHAKRISHNAN - S.	George Allen & Unwin Ltd. - London	1947		Religion	Religion - Essays & Lectures	204	RAD								
-10996	But That I Can'T Believe!		ROBINSON - JOHN A. T.	Collins - London	1967		Religion	Religion - Essays & Lectures	204	ROB								
-14166	Fragments Of Infinity	Essays in Religion and Philosophy to honour Professor Huston Smith	Sharma - Arvind (ed.)	Prism Press	1991	1 85327 066 0			204	SHA								
-10978	Lectures On Godmanhood		SOLOVYOF - VLADIMIR	Dennis Dobson Ltd. - London	1948		Religion	Religion - Essays & Lectures	204	SOL								
-11006	Dialectical Christianity And Christian Materialism	The Riddell Memorial Lectures - 1969	ZAEHNER - R. C.	Oxford University Press	1971	19 713909 4	Religion	Religion - Essays & Lectures	204	ZAE								
+10569	Introduction To The Study Of Christianity ~ An		DODD - FRANK	George Allen and Unwin - London	1938		Religion	Religion - Handbooks & Outlines	202	DOD		209	DOD					
+15567	A Handbook Of Living Religions		Hinnells - John R.	Penguin / Pelican	1985				202	HIN		291	HIL					
+13045	Extracts From The Flying Roll	Sermon III	JEZREEL - JAMES J.	Latter House of Israel	1881		Religion	Miscellany of Christianity	202	JEZ		240	JEZ					
+13046	Extracts From The Flying Roll	Sermon I	JEZREEL - JAMES J.	Latter House of Israel	1879		Religion	Miscellany of Christianity	202	JEZ		240	JEZ					
+13047	Extracts From The Flying Roll	Sermon II	JEZREEL - JAMES J.	Latter House of Israel	1879		Religion	Miscellany of Christianity	202	JEZ		240	JEZ					
+12563	Heaven And Its Wonders And Hell	From Things Heard and Seen	SWEDENBORG - EMANUEL	The Swedenborg Society	1958		Religion	Miscellany of Christianity	202	SWE		242	SWE					
+11166	Universal Bible Dictionary ~ The		BUCKLAND - A. R. (ED)	The Religious Tract Society - London	1914		Religion	Religion - Dictionaries & Encyclopedias	203	BUC		220	BUC					
+14905	The Encyclopedia Of Gods		Jordan - Michael	Kyle Cathie Ltd	1994	1-85626-131-X			203	JOR		291	JOR					
+13238	Dictionary Of Non-Christian Religions - A		PARRINDER - GEOFFREY	Hulton Educational Publications	1981	71750972	Religions	Dictionaries and Encyclopedias	203	PAR		290	PAR					
+15921	The Rider Encyclopedia Of Eastern Philosophy And Religion	Buddhism - Taoism - Zen - Hinduism	Schuhmaker and Worner	Rider Books	1989	0-7126-1192-4			203	RID		291	SCH					
+11073	Dictionary Of Pagan Religions	The Cults - Rites and Rituals Associated with Polytheistic Religions - From the Stone Age to the Present	WEDECK - H. E. & WADE BASKIN	The Citadel Press - New Jersey	1973	0-8065-0386-6	Religion	Religion - Dictionaries & Encyclopedias	203	WED		203	WED					
+13237	Concise Encyclopedia Of Living Faiths		ZAEHNER - R. C. (ED)	Hutchinson	1984	9107521	Religion	Dictionaries & Encyclopedias	203	ZAE		291	ZAE					
+10592	Dialogues On The Supersensual Life		Boehme - Jakob	Frederick Ungar Publishing Co. - New York			Religion	Religion - Essays & Lectures	204	BOE		200.1	BOE					
+10591	Six Theosophic Points And Other Writings		Boehme - Jakob	The University of Michigan Press	1958		Religion	Religion - Essays & Lectures	204	BOE		200.1	BOE					
+16360	Signatura Rerum And Other Discourses		Boehme - Jakob	J.M.Dent & Sons					204	BOE		200.1	BOE					
+11703	Christian Community ~ The	Essays on the Role of the Church in the World	BRIGHT - LAURENCE	Sheed and Ward Ltd. - London	1971	7220 0618 7	Religion	Religion - Essays & Lectures	204	BRI		260	BRI					
+10590	Bulgakov Anthology ~ A		BULGAKOV - SERGIUS	SPCK - London	1976	0 281 02933 4	Religion	Religion - Essays & Lectures	204	BUL		240	BUL					
+11017	Silesian Horseherd ~ The	Questions of the Hour Answered by Friedrich Max Muller	"Muller, Max"	Longmans - Green and Co. - London	1903		Religion	Religion - Essays & Lectures	204	FEC		204	MUL					
+10979	Solovyov Anthology ~ A	FRANK - S. L. (ED)	Solovyov	SCM Press Ltd. - London	1950		Religion	Religion - Essays & Lectures	204	FRA		202	SOL					
+11111	Divine Flame ~ The	Gifford Lectures 1965	HARDY - SIR ALISTER	Manchester College - Oxford	1978	0 906165 03 2	Religion	Religion - Essays & Lectures	204	HAR		240	HAR					
+10578	Personality: Human And Divine	The Bampton Lectures 1894	ILLINGWORTH - J. R.	Macmillan and Co. - New York	1895		Religion	Religion - Essays & Lectures	204	ILL		204	ILL					
+10963	Christian Mysticism	The Bampton Lectures - 1899	INGE - WILLIAM RALPH	Metuen & Co. - London	1912		Religion	Religion - Essays & Lectures	204	ING		242	ING					
+10962	Diary Of A Dean	St. Paul's 1911-1934	INGE - WILLIAM RALPH	Hutchinson & Co. - London	1949		Religion	Religion - Essays & Lectures	204	ING		920	ING					
+10961	End Of An Age ~ The	And Other Essays	INGE - WILLIAM RALPH	Religious Book Club - London	1949		Religion	Religion - Essays & Lectures	204	ING		261.7	ING					
+10965	Lay Thoughts Of A Dean		INGE - WILLIAM RALPH	Putnam - London	1926		Religion	Religion - Essays & Lectures	204	ING		204	ING					
+10960	Our Present Discontents		INGE - WILLIAM RALPH	Putnam - London	1938		Religion	Religion - Essays & Lectures	204	ING		204	ING					
+10956	Outspoken Essays		INGE - WILLIAM RALPH	Longmans - Green and Co. - London	1920		Religion	Religion - Essays & Lectures	204	ING		204	ING					
+10964	Rustic Moralist ~ A		INGE - WILLIAM RALPH	Putnam - London	1937		Religion	Religion - Essays & Lectures	204	ING		204	ING					
+11112	Varieties Of Religious Experience ~ The Vol III	Gifford Lectures 1901-1902	JAMES - WILLIAM	Longmans - Green and Co. - London	1952		Religion	Religion - Essays & Lectures	204	JAM		200.1	JAM					
+12151	Varieties Of Religious Experience ~ The Vol I		JAMES - WILLIAM	Fontana	1974	0 00 642520 88	Religion	Religion - Essays & Lectures	204	JAM		200.1	JAM					
+12177	Varieties Of Religious Experience ~ The Vol II		JAMES - WILLIAM	Collins - London	1960		Religion	Religion - Essays & Lectures	204	JAM		200.1	JAM					
+14860	The Structure Of Religious Experience		Macmurray - John	Faber & Faber Ltd.					204	MAC		200.1	MAC					
+10966	Redeeming The Time		MARITAIN - JACQUES	Geoffrey Bles - London	1943		Religion	Religion - Essays & Lectures	204	MAR		200.1	MAR					
+15643	Essays Series I		Pattison - Mark	George Routledge and Sons					204	PAT		204	PAT					
+15644	Essays Series Ii		Pattison - Mark	George routledge & Sons					204	PAT		204	PAT					
+11066	Religion And Society	Kamala Lectures	RADHAKRISHNAN - S.	George Allen & Unwin Ltd. - London	1947		Religion	Religion - Essays & Lectures	204	RAD		294.509	RAD					
+10996	But That I Can'T Believe!		ROBINSON - JOHN A. T.	Collins - London	1967		Religion	Religion - Essays & Lectures	204	ROB		204	ROB					
+14166	Fragments Of Infinity	Essays in Religion and Philosophy to honour Professor Huston Smith	Sharma - Arvind (ed.)	Prism Press	1991	1 85327 066 0			204	SHA		291	SHA					
+10978	Lectures On Godmanhood		SOLOVYOF - VLADIMIR	Dennis Dobson Ltd. - London	1948		Religion	Religion - Essays & Lectures	204	SOL		202	SOL					
+11006	Dialectical Christianity And Christian Materialism	The Riddell Memorial Lectures - 1969	ZAEHNER - R. C.	Oxford University Press	1971	19 713909 4	Religion	Religion - Essays & Lectures	204	ZAE		202	ZAE					
 10858	Mountain Path ~ The Vol. Ii  No. 2		OSBORNE - ARTHUR (ED)	T. K. Venkatesan - Madras	1965		Religion	Religion - Periodicals	205	OSB								
 10859	Mountain Path ~ The Vol. Ii  No. 3		OSBORNE - ARTHUR (ED)	T. K. Venkatesan - Madras	1965		Religion	Religion - Periodicals	205	OSB								
 10860	Mountain Path ~ The Vol. Iii  No. 1		OSBORNE - ARTHUR (ED)	T. K. Venkatesan - Madras	1966		Religion	Religion - Periodicals	205	OSB								
@@ -1303,8 +1303,8 @@ M13286	Tree Of Diana - The		SANDALPHON	Privately Published			Psychology	Mysterie
 10873	Mountain Path ~ The Vol. Vi  No. 2		OSBORNE - ARTHUR (ED)	T. K. Venkatesan - Madras	1969		Religion	Religion - Periodicals	205	OSB								
 10874	Mountain Path ~ The Vol. Vi  No. 3		OSBORNE - ARTHUR (ED)	T. K. Venkatesan - Madras	1969		Religion	Religion - Periodicals	205	OSB								
 10875	Mountain Path ~ The Vol. Vi  No. 4		OSBORNE - ARTHUR (ED)	T. K. Venkatesan - Madras	1969		Religion	Religion - Periodicals	205	OSB								
-11069	Understanding Religion		SHARPE - ERIC J.	Duckworth - London	1988	0 7156 1735 4	Religion	Religion - Study & Teaching	207	SHA								
-11003	Mentor Book Of Religious Verse ~ The		GREGORY - H. & M. ZATURENSKA	The New American Library - New York	1957		Religion	Religion - Collections	208	GRE								
+11069	Understanding Religion		SHARPE - ERIC J.	Duckworth - London	1988	0 7156 1735 4	Religion	Religion - Study & Teaching	207	SHA		291	SHA					
+11003	Mentor Book Of Religious Verse ~ The		GREGORY - H. & M. ZATURENSKA	The New American Library - New York	1957		Religion	Religion - Collections	208	GRE		204	GRE	R				
 16314	The Works Of The Reverend William Law M.A. Volume Viii	1 The Spirit of Love  2 A Short Confutation of Dr Warburton's Defence  3 Of Justification by Faith of Works	Law - Dr William	G. Moreton	1893	REFERENCE			208	LAW								
 16308	The Works Of The Reverend William Law M.A. Volume Ii	1. Remarks on 'The Fable of the Bess'   2 The Case of Reason - or Natural Religion   3 The absolute unlawfulness of Stage-Entertainments	Law - Rev William	G. Moreton	1892	REFERENCE			208	LAW								
 16309	The Works Of The Reverend William Law M.A. Volume Iii	A practical treatise upon Christian Perfection	Law - Rev William	G. Moreton	1893	REFERENCE			208	LAW								
@@ -1314,131 +1314,131 @@ M13286	Tree Of Diana - The		SANDALPHON	Privately Published			Psychology	Mysterie
 16307	The Works Of The Reverend William Law M.A. Volume I	Three letters to the Bishop of Bangor	Law - Rev. William	G. Moreton	1892	REFERENCE			208	LAW								
 16315	The Works Of The Reverend William Law M.A. Volume Ix	1 an Humble etc Adddress to the Clergy  2 A Collection of Letters  3 Letters to a Lady inclidned to the?.church of Rome	Law - William	G. Moreton	1893	REFERENCE			208	LAW								
 16311	The Works Of The Reverend William Law M.A. Volume V	1  A Demonstration of the Gross and Fundmental Erors of a Book    2  the Grounds and Reasons of Christian Generation	Law - William	G. Moreton	1893	REFERENCE			208	LAW								
-11004	Screwtape Proposes A Toast And Other Pieces		LEWIS - C. S.	Collins - London	1965		Religion	Religion - Collections	208	LEW								
+11004	Screwtape Proposes A Toast And Other Pieces		LEWIS - C. S.	Collins - London	1965		Religion	Religion - Collections	208	LEW		204	LEW					
 16282	The Whole Works Of Right Rev. Jeremy Taylor D.D. Volume Ii	with an essay biographical and critical	Taylor - Jeremy	Henry G. Bohn	1862	REFERENCE			208	TAY								
 16281	The Whole Works Of The Right Rev Jeremy Taylor D.D. Volume I	with an essay biographical and critical	Taylor - Jeremy	Herny G. Bohn	1862	REFERENCE			208	TAY								
 16283	The Whole Works Of The Right Rev. Jeremy Taylor D.D.	with an esay biogrpahical and critical	Taylor - Jeremy	Henry G. Bohn	1862	REFERENCE			208	TAY								
-11184	Dead Sea Scrolls ~ The		ALLEGRO - J. M.	Penguin Books	1956		Religion	Religion - History	209	ALL								
-11163	Sacred Mushroom And The Cross ~ The	A Study of the Nature and Origins of Christianity within the Fertility Cults of the Ancient Near East	ALLEGRO - JOHN M.	Hodder and Stoughton	1970	340 12875 5	Religion	Religion - History	209	ALL								
-10819	Pursuit Of The Millennium ~ The	Revolutionary Millenarians and Mystical Anarchists of the Middle Ages	COHN - NORMAN	Granada Publishing - London	1970	0 586 08002 3	Religion	Religion - History	209	COH								
-11623	Two And The One ~ The		ELIADE - MIRCEA	Harvill Press - London	1965		Religion	Religion - History	209	ELI								
-11085	Story Of The Magi ~ The	The First Indians at the Feet of Our Lady	HERAS - H.	Society of St. Paul - Bombay	1954		Religion	Religion - History	209	HER								
-11092	Origin And Evolution Of Religion		HOPKINS - E. WASHBURN	Yale University Press	1924		Religion	Religion - History	209	HOP								
-11116	Beginnings Of Religion ~ The	An Introductory and Scientific Study	JAMES - E. O.	Hutchinson Ltd. - London	1958		Religion	Religion - History	209	JAM								
-11624	Gate Of Horn ~ The	A Study of the Religious Conceptions of the Stone Age - and their Influence upon European Thought	LEVY - GERTRUDE RACHEL	Faber and Faber Ltd. - London	1963		Religion	Religion - History	209	LEV								
-11625	Ecclesiastical History - Ancient And Modern ~ An	From the Birth of Christ to the Beginning of the eighteenth Century  Vol I	MOSHEIM - JOHN LAWRENCE	W Baynes - London	1810		Religion	Religion - History	209	MOS								
-11626	Ecclesiastical History - Ancient And Modern ~ An	From the Birth of Christ to the Beginning of the eighteenth Century  Vol II	MOSHEIM - JOHN LAWRENCE	W Baynes - London	1810		Religion	Religion - History	209	MOS								
-11627	Ecclesiastical History - Ancient And Modern ~ An	From the Birth of Christ to the Beginning of the eighteenth Century  Vol III	MOSHEIM - JOHN LAWRENCE	W Baynes - London	1810		Religion	Religion - History	209	MOS								
-11628	Ecclesiastical History - Ancient And Modern ~ An	From the Birth of Christ to the Beginning of the eighteenth Century  Vol IV	MOSHEIM - JOHN LAWRENCE	W Baynes - London	1810		Religion	Religion - History	209	MOS								
-11629	Ecclesiastical History - Ancient And Modern ~ An	From the Birth of Christ to the Beginning of the eighteenth Century  Vol V	MOSHEIM - JOHN LAWRENCE	W Baynes - London	1810		Religion	Religion - History	209	MOS								
-11630	Ecclesiastical History - Ancient And Modern ~ An	From the Birth of Christ to the Beginning of the eighteenth Century  Vol VI	MOSHEIM - JOHN LAWRENCE	W Baynes - London	1810		Religion	Religion - History	209	MOS								
-11631	History Of The Origins Of Christianity ~ The	Book VI	RENAN - ERNEST	Mathieson & Company - London			Religion	Religion - History	209	REN								
-11070	History Of World Religions ~ The		SAVAGE - KATHARINE	The Bodley Head - London	1966		Religion	Religion - History	209	SAV								
-11228	Passover Plot ~ The	New Light on the History of Jesus	SCHONFIELD - HUGH J.	Element Books -	1979	0 906540 72 0	Religion	Religion - History	209	SCH								
-11229	Pentecost Revolution ~ The	The Story of the Jesus Party in Israel AD36-66	SCHONFIELD - HUGH J.	Element Books -	1985	0 906540 79 8	Religion	Religion - History	209	SCH								
-11230	Those Incredible Christians	A New Look at the Early Church	SCHONFIELD - HUGH J.	Element Books -	1985	0 906540 71 2	Religion	Religion - History	209	SCH								
+11184	Dead Sea Scrolls ~ The		ALLEGRO - J. M.	Penguin Books	1956		Religion	Religion - History	209	ALL		281	ALL					
+11163	Sacred Mushroom And The Cross ~ The	A Study of the Nature and Origins of Christianity within the Fertility Cults of the Ancient Near East	ALLEGRO - JOHN M.	Hodder and Stoughton	1970	340 12875 5	Religion	Religion - History	209	ALL		291	ALL					
+10819	Pursuit Of The Millennium ~ The	Revolutionary Millenarians and Mystical Anarchists of the Middle Ages	COHN - NORMAN	Granada Publishing - London	1970	0 586 08002 3	Religion	Religion - History	209	COH		209	COH					
+11623	Two And The One ~ The		ELIADE - MIRCEA	Harvill Press - London	1965		Religion	Religion - History	209	ELI		291	ELI					
+11085	Story Of The Magi ~ The	The First Indians at the Feet of Our Lady	HERAS - H.	Society of St. Paul - Bombay	1954		Religion	Religion - History	209	HER		209	HER					
+11092	Origin And Evolution Of Religion		HOPKINS - E. WASHBURN	Yale University Press	1924		Religion	Religion - History	209	HOP		291	HOP					
+11116	Beginnings Of Religion ~ The	An Introductory and Scientific Study	JAMES - E. O.	Hutchinson Ltd. - London	1958		Religion	Religion - History	209	JAM		291	JAM					
+11624	Gate Of Horn ~ The	A Study of the Religious Conceptions of the Stone Age - and their Influence upon European Thought	LEVY - GERTRUDE RACHEL	Faber and Faber Ltd. - London	1963		Religion	Religion - History	209	LEV		291	LEV					
+11625	Ecclesiastical History - Ancient And Modern ~ An	From the Birth of Christ to the Beginning of the eighteenth Century  Vol I	MOSHEIM - JOHN LAWRENCE	W Baynes - London	1810		Religion	Religion - History	209	MOS		270	MOS					
+11626	Ecclesiastical History - Ancient And Modern ~ An	From the Birth of Christ to the Beginning of the eighteenth Century  Vol II	MOSHEIM - JOHN LAWRENCE	W Baynes - London	1810		Religion	Religion - History	209	MOS		270	MOS					
+11627	Ecclesiastical History - Ancient And Modern ~ An	From the Birth of Christ to the Beginning of the eighteenth Century  Vol III	MOSHEIM - JOHN LAWRENCE	W Baynes - London	1810		Religion	Religion - History	209	MOS		270	MOS					
+11628	Ecclesiastical History - Ancient And Modern ~ An	From the Birth of Christ to the Beginning of the eighteenth Century  Vol IV	MOSHEIM - JOHN LAWRENCE	W Baynes - London	1810		Religion	Religion - History	209	MOS		270	MOS					
+11629	Ecclesiastical History - Ancient And Modern ~ An	From the Birth of Christ to the Beginning of the eighteenth Century  Vol V	MOSHEIM - JOHN LAWRENCE	W Baynes - London	1810		Religion	Religion - History	209	MOS		270	MOS					
+11630	Ecclesiastical History - Ancient And Modern ~ An	From the Birth of Christ to the Beginning of the eighteenth Century  Vol VI	MOSHEIM - JOHN LAWRENCE	W Baynes - London	1810		Religion	Religion - History	209	MOS		270	MOS					
+11631	History Of The Origins Of Christianity ~ The	Book VI	RENAN - ERNEST	Mathieson & Company - London			Religion	Religion - History	209	REN		209	REN					
+11070	History Of World Religions ~ The		SAVAGE - KATHARINE	The Bodley Head - London	1966		Religion	Religion - History	209	SAV		209	SAV					
+11228	Passover Plot ~ The	New Light on the History of Jesus	SCHONFIELD - HUGH J.	Element Books -	1979	0 906540 72 0	Religion	Religion - History	209	SCH		270.1	SCH					
+11229	Pentecost Revolution ~ The	The Story of the Jesus Party in Israel AD36-66	SCHONFIELD - HUGH J.	Element Books -	1985	0 906540 79 8	Religion	Religion - History	209	SCH		270.1	SCH					
+11230	Those Incredible Christians	A New Look at the Early Church	SCHONFIELD - HUGH J.	Element Books -	1985	0 906540 71 2	Religion	Religion - History	209	SCH		270.1	SCH					
 16168	Ad : 2000 Years Of Christianity		Howse Christopher (ed.)	The Daily Telegraph	1999				209	TEL								
-11065	Religion And The Decline Of Magic	Studies in Popular Beliefs in Sixteenth and Seventeenth Century England	THOMAS - KEITH	Penguin Books	1971	0 14055 150 6	Religion	Religion - History	209	THO								
-14978	An Historian'S Approach To Religion		Toynbee - Arnold	Oxford University Press	1979				209	TOY								
-11240	Arrow And The Sword ~ The	An Essay in Detection	WILLIAMSON - HUGH ROSS	Faber and Faber Ltd. - london	1955		Religion	Religion - History	209	WIL								
-11193	Scrolls From The Dead Sea ~ The		WILSON - EDMUND	W. H. Allen - London	1955		Religion	Religion - History	209	WIL								
-15007	The Long-Legged Fly	A Theology of Language and Desire	Cupitt - Don	SCM Press Ltd	1987	0-334-00926-X			210	CUP								
-13027	Creation Out Of Nothing		CUPITT - DON	SCM Press	1990	0-334-02463-3	Religion	Natural Theology	211	CUP								
-13665	The God Delusion		Dawkins - Richard	Bantam	2006	9.78E+12			211	DAW								
-10333	Adam And Evolution	A Voyage of Self-Discovery	ROSS - MARIS & D. S. JEANS	Leslie Frewin - London	1974	0 85632 075 7	Religion	Natural Theology	211	ROS								
-10955	Guide To The Debate About God ~ A		JENKINS - DAVID E.	Lutterworth Press - London	1966		Religion	Natural Theology - Knowledge of God	211.1	JEN								
-10777	Idea Of The Holy ~ The	An Inquiry into the Non-Rational Factor in the Idea of the Divine and its Relation to the Rational	OTTO - RUDOLF	Penguin Books	1959		Religion	Natural Theology - Knowledge of God	211.1	OTT								
-11072	History Of Pantheism ~ The Vol I	From the Earliest Times to the Age of Spinoza	PUBLISHER	Samuel Deacon & Co. - London	1878		Religion	Natural Theology - Pantheism	211.2	PUB								
-11089	History Of Pantheism ~ The Vol Ii	From the Age of Spinoza to the Commencement of the Nineteenth Century	PUBLISHER	Samuel Deacon & Co. - London	1879		Religion	Natural Theology - Pantheism	211.2	PUB								
-10247	Evolutionary Theory And Christian Belief	The Unresolved Conflict	LACK - DAVID	Methuen & Co. Ltd. - London	1961		Religion	Natural Theology - Creation	211.3	LAC								
-10292	History Of The Conflict Between Religion And Science		DRAPER - JOHN WILLIAM	The Pioneer Press - London	1923		Religion	Natural Theology - Religion & Science	211.5	DRA								
-10314	Evolution And Christians		FOTHERGILL - PHILIP G.	Longmans - Green and Co. Ltd. - London	1961		Religion	Natural Theology - Religion & Science	211.5	FOT								
-10284	Darwin And The Modern World View	An Exploration of the Impact of Darwin's Evolutionary Biology on the Religious and Intellectual Thought of the Past Century	GREENE - JOHN C.	New American Library	1963		Religion	Natural Theology - Religion & Science	211.5	GRE								
-10135	Man And The Universe	A Study of the Influence of the Advancement of Scientific Knowledge Upon Our Understanding of Christianity	LODGE - SIR OLIVER	Methuen & Co. -  London	1909		Religion	Natural Theology - Religion & Science	211.5	LOD								
-10253	Science Religion And Reality		NEEDHAM - JOSEPH  (ED)	The Sheldon Press - London	1926		Religion	Natural Theology - Religion & Science	211.5	NEE								
-10263	Human Destiny		NOUY - LECOMTE DU	The New American Library - New York	1963		Religion	Natural Theology - Religion & Science	211.5	NOU								
-10281	Human Destiny		NOUY - LECOMTE DU	Longmans - Green and Co. - London	1953		Religion	Natural Theology - Religion & Science	211.5	NOU								
-10811	Human Destiny		NOUY - LECOMTE DU	Longmans - Green and Co. - London	1953		Religion	Natural Theology - Religion & Science	211.5	NOU								
-12574	Earths In  The Universe	Earths in our Solar System Which are Called Planets and Earths in the Starry Heaven - Their Inahbitants - and the Spirits and Angels There	SWEDENBORG- EMANUEL	The Swedenborg Society	1970		Religion	Natural Theology - Science & Religion	211.5	SWE								
-12730	Problem Of Evil In Plotinus ~ The		FULLER - B. A. G.	Cambridge University Press	1912		Religion	Natural Theology - Good & Evil	211.6	FUL								
-13011	Le Milieu Divin	An Essay on the Interior Life	CHARDIN - TEILHARD DE	Fontana/Collins	1964		Religion	Natural Theology - Humankind	211.8	CHA								
-13008	Human Destiny		DU NOUY - LECOMTE	The New American Library	1956		Religion	Natural Theology - Humankind	211.8	DU								
-10270	Man The Immortal	Provides Irrefutable Argument that the Existence of Man is Eternal & that Death is - as Birth is - but a Change of Environment & a Widening of Consciousness	EAST - JOHN N.	The Psychic Press - London	1960		Religion	Natural Theology - Immortality	211.8	EAS								
-12716	Gift Of Understanding ~ The		MULFORD - PRENTICE	William Rider & Son Ltd	1916		Religion	Natural Theology - Humankind	211.8	MUL								
-12575	The Divine Love And Wisdom	Angelic Wisdom concerning...	SWEDENBORG - EMANUEL	The Swedenborg Society	1969		Religion	Natural Theology - Humankind	211.8	SWE								
-11487	Bible References In The Works Of John Ruskin		GIBBS - MARY & ELLEN (ED)	George Allen - London	1906		Religion	Bible	212	GIB								
-11167	English Bible ~ The Vol I	Genesis to Joshua	HENLEY - W. E. (ED)	David Nutt - London	1903		Religion	Bible	212	HEN								
-11168	English Bible ~ The Vol Ii	Judges to Esther	HENLEY - W. E. (ED)	David Nutt - London	1903		Religion	Bible	212	HEN								
-11169	English Bible ~ The Vol Iii	Job to Sol. Song	HENLEY - W. E. (ED)	David Nutt - London	1903		Religion	Bible	212	HEN								
-11170	English Bible ~ The Vol Iv	Isia to Malachi	HENLEY - W. E. (ED)	David Nutt - London	1903		Religion	Bible	212	HEN								
-11171	English Bible ~ The Vol V	Apocrypha	HENLEY - W. E. (ED)	David Nutt - London	1903		Religion	Bible	212	HEN								
-11172	English Bible ~ The Vol Vi	New Testament	HENLEY - W. E. (ED)	David Nutt - London	1904		Religion	Bible	212	HEN								
-11181	Bible Selections For Daily Devotion		STALL - SYLVANUS	The Vir Publishing Company - Philadelphia	1915		Religion	Bible	212	STA								
-11164	Holy Bible ~ The	Containing the Old and New Testaments	TRANSLATORS	Eyre and Spottiswoode Ltd. - London			Religion	Bible	212	TRA								
-11215	Holy Bible ~ The		TRANSLATORS	The London Bible Warehouse			Religion	Bible	212	TRA								
-11232	Holy Bible ~ The		TRANSLATORS	Oxford University Press			Religion	Bible	212	TRA								
-11165	Holy Bible And The Book Of Common Prayer ~ The		TRANSLATORS	Oxford University Press	1902		Religion	Bible	212	TRA								
-12128	Jerusalem Bible ~ The		TRANSLATORS	Darton - Longman & Todd - London	1974		Religion	Bible	212	TRA								
-11183	Lectionary Bible ~ The	Divided into Sections Adapted to the Calendar and Tables of Lessons of 1871	TRANSLATORS	Cambridge University Press	1871		Religion	Bible	212	TRA								
-11363	Story Of The Bible ~ The		YEARSLEY - MACLEOD	Watts & Co. - London	1933		Religion	Bible	212	YEA								
-11194	Job	With Hebrew Text and English Translation	COHEN - A. (ED)	The Soncino Press - Surrey	1946		Religion	Bible - Old Testament	212.1	COH								
-11177	Songs In The Night	A Study of the Book of Job	KING - HORACE MAYBRAY	Colin Smythe - London	1968		Religion	Bible - Old Testament	212.1	KIN								
-11257	Wisdom In The Old Testament Traditions		MORGAN - DONN F.	Basil Blackwell Publisher - Oxford	1981	0 631 13006 3	Religion	Bible - Old Testament	212.1	MOR								
-11180	Psalms ~ The	A New Translation	TRANSLATORS	Collins - London	1962		Religion	Bible - Old Testament	212.1	TRA								
-11269	Studies In Old Testament Sacrifice		VAUX - ROLAND DE	University of Wales Press - Cardiff	1964		Religion	Bible - Old Testament	212.1	VAU								
-11241	Gospel Questions And Inquiries		BASSET - BERNARD	Sheed and Ward - London	1959		Religion	Bible - New Testament	212.5	BAS								
-11220	New Testament ~ The	Its Origin and Contents	EVANS - E.	Society for Promoting Christian Knowledge - London	1939		Religion	Bible - New Testament	212.5	EVA								
-11218	Understanding The Parables	A Popular Explanation	FILAS - FRANCIS L.	Burnes & Oats - London	1960		Religion	Bible - New Testament	212.5	FIL								
-11182	Epistles And Gospels ~ The	For Sundays & Holidays	KNOX - R. A. (TRANS)	Burns Oates and Washbourne - London	1946		Religion	Bible - New Testament	212.5	KNO								
-11214	New Testament Commentary ~ A		KNOX - RONALD	Burns - Oates and Wasbourne Ltd. - London	1958		Religion	Bible - New Testament	212.5	KNO								
-11197	Good News In John	John in Today's English Version	WEBSTER - DOUGLAS	Collins - London	1974	0 00 623680 4	Religion	Bible - New Testament	212.5	WEB								
+11065	Religion And The Decline Of Magic	Studies in Popular Beliefs in Sixteenth and Seventeenth Century England	THOMAS - KEITH	Penguin Books	1971	0 14055 150 6	Religion	Religion - History	209	THO		209	THO					
+14978	An Historian'S Approach To Religion		Toynbee - Arnold	Oxford University Press	1979				209	TOY		291	TOY					
+11240	Arrow And The Sword ~ The	An Essay in Detection	WILLIAMSON - HUGH ROSS	Faber and Faber Ltd. - london	1955		Religion	Religion - History	209	WIL		209	WIL					
+11193	Scrolls From The Dead Sea ~ The		WILSON - EDMUND	W. H. Allen - London	1955		Religion	Religion - History	209	WIL		209	WIL					
+15007	The Long-Legged Fly	A Theology of Language and Desire	Cupitt - Don	SCM Press Ltd	1987	0-334-00926-X			210	CUP		210	CUP					
+13027	Creation Out Of Nothing		CUPITT - DON	SCM Press	1990	0-334-02463-3	Religion	Natural Theology	211	CUP		213	CUP					
+13665	The God Delusion		Dawkins - Richard	Bantam	2006	9.78E+12			211	DAW		212	DAW					
+10333	Adam And Evolution	A Voyage of Self-Discovery	ROSS - MARIS & D. S. JEANS	Leslie Frewin - London	1974	0 85632 075 7	Religion	Natural Theology	211	ROS		215	ROS					
+10955	Guide To The Debate About God ~ A		JENKINS - DAVID E.	Lutterworth Press - London	1966		Religion	Natural Theology - Knowledge of God	211.1	JEN		211	JEN					
+10777	Idea Of The Holy ~ The	An Inquiry into the Non-Rational Factor in the Idea of the Divine and its Relation to the Rational	OTTO - RUDOLF	Penguin Books	1959		Religion	Natural Theology - Knowledge of God	211.1	OTT		211	OTT					
+11072	History Of Pantheism ~ The Vol I	From the Earliest Times to the Age of Spinoza	Plumptre	Samuel Deacon & Co. - London	1878		Religion	Natural Theology - Pantheism	211.2	PUB		291	PLU					
+11089	History Of Pantheism ~ The Vol Ii	From the Age of Spinoza to the Commencement of the Nineteenth Century	Plumptre	Samuel Deacon & Co. - London	1879		Religion	Natural Theology - Pantheism	211.2	PUB		291	PLU					
+10247	Evolutionary Theory And Christian Belief	The Unresolved Conflict	LACK - DAVID	Methuen & Co. Ltd. - London	1961		Religion	Natural Theology - Creation	211.3	LAC		215	LAC					
+10292	History Of The Conflict Between Religion And Science		DRAPER - JOHN WILLIAM	The Pioneer Press - London	1923		Religion	Natural Theology - Religion & Science	211.5	DRA		215	DRA					
+10314	Evolution And Christians		FOTHERGILL - PHILIP G.	Longmans - Green and Co. Ltd. - London	1961		Religion	Natural Theology - Religion & Science	211.5	FOT		215	FOT					
+10284	Darwin And The Modern World View	An Exploration of the Impact of Darwin's Evolutionary Biology on the Religious and Intellectual Thought of the Past Century	GREENE - JOHN C.	New American Library	1963		Religion	Natural Theology - Religion & Science	211.5	GRE		215	GRE					
+10135	Man And The Universe	A Study of the Influence of the Advancement of Scientific Knowledge Upon Our Understanding of Christianity	LODGE - SIR OLIVER	Methuen & Co. -  London	1909		Religion	Natural Theology - Religion & Science	211.5	LOD		215	LOD					
+10253	Science Religion And Reality		NEEDHAM - JOSEPH  (ED)	The Sheldon Press - London	1926		Religion	Natural Theology - Religion & Science	211.5	NEE		215	NEE					
+10263	Human Destiny		NOUY - LECOMTE DU	The New American Library - New York	1963		Religion	Natural Theology - Religion & Science	211.5	NOU		215	NOU					
+10281	Human Destiny		NOUY - LECOMTE DU	Longmans - Green and Co. - London	1953		Religion	Natural Theology - Religion & Science	211.5	NOU		215	NOU					
+10811	Human Destiny		NOUY - LECOMTE DU	Longmans - Green and Co. - London	1953		Religion	Natural Theology - Religion & Science	211.5	NOU		215	NOU					
+12574	Earths In  The Universe	Earths in our Solar System Which are Called Planets and Earths in the Starry Heaven - Their Inahbitants - and the Spirits and Angels There	SWEDENBORG- EMANUEL	The Swedenborg Society	1970		Religion	Natural Theology - Science & Religion	211.5	SWE		289.4	SWE					
+12730	Problem Of Evil In Plotinus ~ The		FULLER - B. A. G.	Cambridge University Press	1912		Religion	Natural Theology - Good & Evil	211.6	FUL		214	FUL					
+13011	Le Milieu Divin	An Essay on the Interior Life	CHARDIN - TEILHARD DE	Fontana/Collins	1964		Religion	Natural Theology - Humankind	211.8	CHA		211	CHA					
+13008	Human Destiny		DU NOUY - LECOMTE	The New American Library	1956		Religion	Natural Theology - Humankind	211.8	DU		215	NOU					
+10270	Man The Immortal	Provides Irrefutable Argument that the Existence of Man is Eternal & that Death is - as Birth is - but a Change of Environment & a Widening of Consciousness	EAST - JOHN N.	The Psychic Press - London	1960		Religion	Natural Theology - Immortality	211.8	EAS		291	EAS					
+12716	Gift Of Understanding ~ The		MULFORD - PRENTICE	William Rider & Son Ltd	1916		Religion	Natural Theology - Humankind	211.8	MUL		210	MAL					
+12575	The Divine Love And Wisdom	Angelic Wisdom concerning...	SWEDENBORG - EMANUEL	The Swedenborg Society	1969		Religion	Natural Theology - Humankind	211.8	SWE		289.4	SWE					
+11487	Bible References In The Works Of John Ruskin	GIBBS - MARY & ELLEN (ED)	"Ruskin, John"	George Allen - London	1906		Religion	Bible	212	GIB		809	RUS					
+11167	English Bible ~ The Vol I	Genesis to Joshua - HENLEY - W. E. (ED)	VARIOUS	David Nutt - London	1903		Religion	Bible	212	HEN		220	VAR					
+11168	English Bible ~ The Vol Ii	Judges to Esther - HENLEY - W. E. (ED)	VARIOUS	David Nutt - London	1903		Religion	Bible	212	HEN		220	VAR					
+11169	English Bible ~ The Vol Iii	Job to Sol. Song - HENLEY - W. E. (ED)	VARIOUS	David Nutt - London	1903		Religion	Bible	212	HEN		220	VAR					
+11170	English Bible ~ The Vol Iv	Isia to Malachi - HENLEY - W. E. (ED)	VARIOUS	David Nutt - London	1903		Religion	Bible	212	HEN		220	VAR					
+11171	English Bible ~ The Vol V	Apocrypha - HENLEY - W. E. (ED)	VARIOUS	David Nutt - London	1903		Religion	Bible	212	HEN		220	VAR					
+11172	English Bible ~ The Vol Vi	New Testament - HENLEY - W. E. (ED)	VARIOUS	David Nutt - London	1904		Religion	Bible	212	HEN		220	VAR					
+11181	Bible Selections For Daily Devotion	STALL - SYLVANUS (arranged by)	VARIOUS	The Vir Publishing Company - Philadelphia	1915		Religion	Bible	212	STA		220	VAR					
+11164	Holy Bible ~ The	Containing the Old and New Testaments	VARIOUS	Eyre and Spottiswoode Ltd. - London			Religion	Bible	212	TRA		220	VAR					
+11215	Holy Bible ~ The		VARIOUS	The London Bible Warehouse			Religion	Bible	212	TRA		220	VAR					
+11232	Holy Bible ~ The		VARIOUS	Oxford University Press			Religion	Bible	212	TRA		220	VAR					
+11165	Holy Bible And The Book Of Common Prayer ~ The		VARIOUS	Oxford University Press	1902		Religion	Bible	212	TRA		220	VAR					
+12128	Jerusalem Bible ~ The		VARIOUS	Darton - Longman & Todd - London	1974		Religion	Bible	212	TRA		220	VAR					
+11183	Lectionary Bible ~ The	Divided into Sections Adapted to the Calendar and Tables of Lessons of 1871	VARIOUS	Cambridge University Press	1871		Religion	Bible	212	TRA		220	VAR					
+11363	Story Of The Bible ~ The		YEARSLEY - MACLEOD	Watts & Co. - London	1933		Religion	Bible	212	YEA		209	YEA					
+11194	Job	With Hebrew Text and English Translation - COHEN - A. (ED)	VARIOUS	The Soncino Press - Surrey	1946		Religion	Bible - Old Testament	212.1	COH		222	VAR					
+11177	Songs In The Night	A Study of the Book of Job	KING - HORACE MAYBRAY	Colin Smythe - London	1968		Religion	Bible - Old Testament	212.1	KIN		220.6	KIN					
+11257	Wisdom In The Old Testament Traditions		MORGAN - DONN F.	Basil Blackwell Publisher - Oxford	1981	0 631 13006 3	Religion	Bible - Old Testament	212.1	MOR		220.6	MOR					
+11180	Psalms ~ The	A New Translation	VARIOUS	Collins - London	1962		Religion	Bible - Old Testament	212.1	TRA		220	VAR					
+11269	Studies In Old Testament Sacrifice		VAUX - ROLAND DE	University of Wales Press - Cardiff	1964		Religion	Bible - Old Testament	212.1	VAU		220.6	VAU					
+11241	Gospel Questions And Inquiries		BASSET - BERNARD	Sheed and Ward - London	1959		Religion	Bible - New Testament	212.5	BAS		220.7	BAS					
+11220	New Testament ~ The	Its Origin and Contents	EVANS - E.	Society for Promoting Christian Knowledge - London	1939		Religion	Bible - New Testament	212.5	EVA		220.6	EVA					
+11218	Understanding The Parables	A Popular Explanation	FILAS - FRANCIS L.	Burnes & Oats - London	1960		Religion	Bible - New Testament	212.5	FIL		220.6	FIL					
+11182	Epistles And Gospels ~ The	For Sundays & Holidays - KNOX - R. A. (TRANS)	VARIOUS	Burns Oates and Washbourne - London	1946		Religion	Bible - New Testament	212.5	KNO		225	VAR					
+11214	New Testament Commentary ~ A		KNOX - RONALD	Burns - Oates and Wasbourne Ltd. - London	1958		Religion	Bible - New Testament	212.5	KNO		220.7	KNO					
+11197	Good News In John	John in Today's English Version WEBSTER - DOUGLAS (TRANS)	VARIOUS	Collins - London	1974	0 00 623680 4	Religion	Bible - New Testament	212.5	WEB		226.5	VAR					
 11231	Letters To Young Churches	A Translation of the New Testament Epistles	PHILLIPS - J. B.	Geoffrey Bles - London	1956		Religion	Bible - Epistles	212.7	PHI								
-11195	Praises Of Wisdom ~ The	Being Part 1 of The Book Of Wisdom	BLAKENEY - E. H. (TRANS)	Basil Blackwell - Oxford	1937		Religion	Bible - Apocrypha & Deuterocanonical	212.9	BLA								
-11179	Book Of Enoch ~ The		CHARLES - R. H. (TRANS)	SPCK - London	1982	0 281 01261 X	Religion	Bible - Apocrypha & Deuterocanonical	212.9	CHA								
-11222	Apocrypha ~ The		MALDEN - R. H.	Oxford University Press	1936		Religion	Bible - Apocrypha & Deuterocanonical	212.9	MAL								
-11200	Secret Gospel ~ The	The Discovery and Interpretation of the Secret Gospel According to Mark	SMITH - MORTON	The Aquarian Press - Northants	1985	0-85030-439-3	Religion	Bible - Apocrypha & Deuterocanonical	212.9	SMI								
-11178	Apocrypha ~ The	Translated out of the Greek and Latin Tongues	TRANSLATORS	Oxford University Press	1927		Religion	Bible - Apocrypha & Deuterocanonical	212.9	TRA								
-11005	Handbook Of Christian Theology ~ A		HALVERSON - M. & A. COHEN	Collins - London	1960		Religion	Doctrinal Theology	213	HAL								
-11201	Anti-Judaism In Christian Theology		QUINN - EDWARD	SPCK - London	1978	281 02988 1	Religion	Doctrinal Theology	213	QUI								
-10968	Vision Of God ~ The	The Christian Doctrine of the Summum Bonum	KIRK - KENNETH E.	Longmans - Green and Co. - London	1934		Religion	Doctrinal Theology - God	213.1	KIR								
-10959	Theology Of The Pain Of God		KITAMORI - KAZOH	SCM Press Ltd. - London	1966		Religion	Doctrinal Theology - God	213.1	KIT								
-10967	Existence Of God ~ The		MCCABE - JOSEPH	Watts & Co. - London	1937		Religion	Doctrinal Theology - God	213.1	MCC								
-11447	Evidence For Visions Of The Virgin Mary ~ The		MCCLURE - KEVIN	The Aquarian Press - Northants	1984	0-85030-351-6	Religion	Doctrinal Theology - God	213.1	MCC								
-11212	Verdict On Jesus	A New Statement of Evidence	BADHAM - LESLIE	Hodder and Stoughton - London	1971	0 340 15590 6	Religion	Doctrinal Theology - Jesus Christ	213.2	BAD								
-11213	Original Jesus ~ The		BORCHERT - OTTO	The Lutterworth Press - London	1936		Religion	Doctrinal Theology - Jesus Christ	213.2	BOR								
-10589	Jesus Christ And Mythology		BULTMANN - RUDOLF	Charles Scribner's Sons - New York	1958		Religion	Doctrinal Theology - Jesus Christ	213.2	BUL								
-11187	Life Of Jesus ~ The		CADOUX - CECIL JOHN	Penguin Books	1948		Religion	Doctrinal Theology - Jesus Christ	213.2	CAD								
-11188	Death Of Jesus ~ The	A New Solution to the Historical Puzzle of the Gospels	CARMICHAEL - JOEL	Penguin Books	1966		Religion	Doctrinal Theology - Jesus Christ	213.2	CAR								
-11307	Life Of Our Lord ~ The		DICKENS - CHARLES	Associated Newspapers Ltd. - London	1934		Religion	Doctrinal Theology - Jesus Christ	213.2	DIC								
-11217	Beyond The Gospels	An Investigation into the Information on the Life of Christ to be Found Outside the Gospels	DUNKERLEY - RODERIC	Penguin Books	1957		Religion	Doctrinal Theology - Jesus Christ	213.2	DUN								
-11237	Esoteric School Of Jesus ~ The		ERVAST - PEKKA	Arvi A. Karisto Osakeyhtion - Finland	1977	951-99107-6-X	Religion	Doctrinal Theology - Jesus Christ	213.2	ERV								
-11490	King Of The Jews ~ The		FORSSTROM - JOHAN	East-West Books - Finland	1987		Religion	Doctrinal Theology - Jesus Christ	213.2	FOR								
-10580	Myth Of God Incarnate ~ The		HICK - JOHN	SCM Press Ltd. -  London	1977	334 01065 9	Religion	Doctrinal Theology - Jesus Christ	213.2	HIC								
-11202	Life Of Jesus		MURRY - J. MIDDLETON	Jonathan Cape - London	1926		Religion	Doctrinal Theology - Jesus Christ	213.2	MUR								
-10999	Jesus: Myth Or History?		ROBERTSON - ARCHIBALD	Watts & Co. - London	1946		Religion	Doctrinal Theology - Jesus Christ	213.2	ROB								
-11198	After The Cross		SCHONFIELD - HUGH J.	A. S. Barnes & Company Inc. - California	1981	0-498-02549-7	Religion	Doctrinal Theology - Jesus Christ	213.2	SCH								
-11206	Quest Of The Historical Jesus ~ The	A Critical Study of its Progress from Reimarus to Wrede	SCHWEITZER - ALBERT	Adam & Charles Black - London	1945		Religion	Doctrinal Theology - Jesus Christ	213.2	SCH								
-11199	Jesus The Magician	How Jesus was Viewed by the People of his Time and his Place in the Magical Tradition of Antiquity	SMITH - MORTON	The Aquarian Press - Northants	1985	0-85030-405-9	Religion	Doctrinal Theology - Jesus Christ	213.2	SMI								
-12953	Power Of Silence ~ The	An Interpretation of Life in its Relation to Health and Happiness	DRESSER - HORATIO W.	A. & C. Black	1929		Religion	Christian Theology - Humankind	213.3	DRE								
-12598	Sovereignty Of Good Over Other Concepts	The Leslie Stephen Lecture 1967	MURDOCH - IRIS	Cambridge University Press	1967		Religion	Christian Theology - Humankind	213.3	MUR								
-12573	Conjugal Love	After Which Follows the Pleasures of Insanity Concerning Scortatory Love	SWEDENBORG - EMANUEL	The Swedenborg Society	1978		Religion	Christian Theology - Humankind	213.3	SWE								
-10958	Spirit Of Prayer; Or The Soul Rising Out Of The Vanity Of Time Into The Riches Of Eternity ~ The	In Two Parts - Part I	LAW - WILLIAM	Ogles - Duncan and Cochran - London	1816		Religion	Doctrinal Theology - Salvation	213.4	LAW								
-10993	Luther And Aquinas - A Conversation	Our Salvation - Its Certainty and Peril	PFURTNER - STEPHANUS	Darton - Longman & Todd - London	1964		Religion	Doctrinal Theology - Salvation	213.4	PFU								
-10565	Mystical Theology And The Celestial Hierarchies		DIONYSIUS THE AREOPAGITE	The Shrine of Wisdom - Surrey	1965		Religion	Doctrinal Theology - Saints - Angels - Devils	213.5	DIO								
-11160	Mystical Theology And The Celestial Hierarchies		DIONYSIUS THE AREOPAGITE	The Shrine of Wisdom - Surrey	1965		Religion	Doctrinal Theology - Saints - Angels - Devils	213.5	DIO								
-11683	Alone Of All Her Sex	The Myth and Cult of the Virgin Mary	WARNER - MARINA	Pan Books - London	1976	0 330 28771 0	Religion	Doctrinal Theology - Saints - Angels - Devils	213.5	WAR								
-10682	History Of The Devil ~ A		WOODS - WILLIAM	Granada Publishing Ltd. - Herts.	1975	586 03976 7	Religion	Doctrinal Theology - Saints - Angels - Devils	213.5	WOO								
-11885	New Man ~ The		MERTON - THOMAS	Burns & Oats - London	1976	0 86012 026 0	Religion	Devotional & Practical	214	MER								
-11000	Listen Pilgrim		JONES - CHRISTOPHER WILLIAM	Darton - Longman & Todd - London	1968	232 50984 0	Religion	Devotional & Practical - Moral Theology	214.1	JON								
-10971	Bridge From Old To New In Christian Belief ~ The		KONIJN - SEEF	Geoffrey Chapman - London	1973	0225 65975 1	Religion	Devotional & Practical - Moral Theology	214.1	KON								
-12595	Abolition Of Man ~ The		LEWIS - C. S.	Fount	1978	0 00 625 198 6	Religion	Moral Theology	214.1	LEW								
-10977	Justification Of The Good ~ The	An Essay on Moral Philosophy	SOLOVYOF - VLADIMIR	Constable and Company Ltd. - London	1918		Religion	Devotional & Practical - Moral Theology	214.1	SOL								
+11195	Praises Of Wisdom ~ The	"Being Part 1 of The Book Of Wisdom, BLAKENEY - E. H. (TRANS)"	ANONYMOUS	Basil Blackwell - Oxford	1937		Religion	Bible - Apocrypha & Deuterocanonical	212.9	BLA		229	ANO					
+11179	Book Of Enoch ~ The	CHARLES - R. H. (TRANS)	ANONYMOUS	SPCK - London	1982	0 281 01261 X	Religion	Bible - Apocrypha & Deuterocanonical	212.9	CHA		229	ANO					
+11222	Apocrypha ~ The		MALDEN - R. H.	Oxford University Press	1936		Religion	Bible - Apocrypha & Deuterocanonical	212.9	MAL		229	MAL					
+11200	Secret Gospel ~ The	The Discovery and Interpretation of the Secret Gospel According to Mark	SMITH - MORTON	The Aquarian Press - Northants	1985	0-85030-439-3	Religion	Bible - Apocrypha & Deuterocanonical	212.9	SMI		229	SMI					
+11178	Apocrypha ~ The	Translated out of the Greek and Latin Tongues	ANONYMOUS	Oxford University Press	1927		Religion	Bible - Apocrypha & Deuterocanonical	212.9	TRA		229	ANO					
+11005	Handbook Of Christian Theology ~ A		HALVERSON - M. & A. COHEN (eds)	Collins - London	1960		Religion	Doctrinal Theology	213	HAL		230	HAL					
+11201	Anti-Judaism In Christian Theology	QUINN - EDWARD (TRANS)	"Klein, Charlotte"	SPCK - London	1978	281 02988 1	Religion	Doctrinal Theology	213	QUI		230	KLE					
+10968	Vision Of God ~ The	The Christian Doctrine of the Summum Bonum	KIRK - KENNETH E.	Longmans - Green and Co. - London	1934		Religion	Doctrinal Theology - God	213.1	KIR		230	KIR					
+10959	Theology Of The Pain Of God		KITAMORI - KAZOH	SCM Press Ltd. - London	1966		Religion	Doctrinal Theology - God	213.1	KIT		230	KIT					
+10967	Existence Of God ~ The		MCCABE - JOSEPH	Watts & Co. - London	1937		Religion	Doctrinal Theology - God	213.1	MCC		212	MCC					
+11447	Evidence For Visions Of The Virgin Mary ~ The		MCCLURE - KEVIN	The Aquarian Press - Northants	1984	0-85030-351-6	Religion	Doctrinal Theology - God	213.1	MCC		248	MCC					
+11212	Verdict On Jesus	A New Statement of Evidence	BADHAM - LESLIE	Hodder and Stoughton - London	1971	0 340 15590 6	Religion	Doctrinal Theology - Jesus Christ	213.2	BAD		232	BAD					
+11213	Original Jesus ~ The		BORCHERT - OTTO	The Lutterworth Press - London	1936		Religion	Doctrinal Theology - Jesus Christ	213.2	BOR		232	BOR					
+10589	Jesus Christ And Mythology		BULTMANN - RUDOLF	Charles Scribner's Sons - New York	1958		Religion	Doctrinal Theology - Jesus Christ	213.2	BUL		232	BUL					
+11187	Life Of Jesus ~ The		CADOUX - CECIL JOHN	Penguin Books	1948		Religion	Doctrinal Theology - Jesus Christ	213.2	CAD		232	CAD					
+11188	Death Of Jesus ~ The	A New Solution to the Historical Puzzle of the Gospels	CARMICHAEL - JOEL	Penguin Books	1966		Religion	Doctrinal Theology - Jesus Christ	213.2	CAR		232	CAR					
+11307	Life Of Our Lord ~ The		DICKENS - CHARLES	Associated Newspapers Ltd. - London	1934		Religion	Doctrinal Theology - Jesus Christ	213.2	DIC		232	DIC					
+11217	Beyond The Gospels	An Investigation into the Information on the Life of Christ to be Found Outside the Gospels	DUNKERLEY - RODERIC	Penguin Books	1957		Religion	Doctrinal Theology - Jesus Christ	213.2	DUN		232	DUN					
+11237	Esoteric School Of Jesus ~ The		ERVAST - PEKKA	Arvi A. Karisto Osakeyhtion - Finland	1977	951-99107-6-X	Religion	Doctrinal Theology - Jesus Christ	213.2	ERV		232	ERV					
+11490	King Of The Jews ~ The		FORSSTROM - JOHAN	East-West Books - Finland	1987		Religion	Doctrinal Theology - Jesus Christ	213.2	FOR		232	FOR					
+10580	Myth Of God Incarnate ~ The		HICK - JOHN	SCM Press Ltd. -  London	1977	334 01065 9	Religion	Doctrinal Theology - Jesus Christ	213.2	HIC		231	HIC					
+11202	Life Of Jesus		15365	Jonathan Cape - London	1926		Religion	Doctrinal Theology - Jesus Christ	213.2	MUR		232	MUR					
+10999	Jesus: Myth Or History?		ROBERTSON - ARCHIBALD	Watts & Co. - London	1946		Religion	Doctrinal Theology - Jesus Christ	213.2	ROB		232	ROB					
+11198	After The Cross			A. S. Barnes & Company Inc. - California	1981	0-498-02549-7	Religion	Doctrinal Theology - Jesus Christ	213.2	SCH		232	SCH					
+11206	Quest Of The Historical Jesus ~ The	A Critical Study of its Progress from Reimarus to Wrede	SCHWEITZER - ALBERT	Adam & Charles Black - London	1945		Religion	Doctrinal Theology - Jesus Christ	213.2	SCH		232	SCH					
+11199	Jesus The Magician	How Jesus was Viewed by the People of his Time and his Place in the Magical Tradition of Antiquity	SMITH - MORTON	The Aquarian Press - Northants	1985	0-85030-405-9	Religion	Doctrinal Theology - Jesus Christ	213.2	SMI		232	SMI					
+12953	Power Of Silence ~ The	An Interpretation of Life in its Relation to Health and Happiness	DRESSER - HORATIO W.	A. & C. Black	1929		Religion	Christian Theology - Humankind	213.3	DRE		248	FOR					
+12598	Sovereignty Of Good Over Other Concepts	The Leslie Stephen Lecture 1967	MURDOCH - IRIS	Cambridge University Press	1967		Religion	Christian Theology - Humankind	213.3	MUR		216	MUR					
+12573	Conjugal Love	After Which Follows the Pleasures of Insanity Concerning Scortatory Love	SWEDENBORG - EMANUEL	The Swedenborg Society	1978		Religion	Christian Theology - Humankind	213.3	SWE		289.4	SWE					
+10958	Spirit Of Prayer; Or The Soul Rising Out Of The Vanity Of Time Into The Riches Of Eternity ~ The	In Two Parts - Part I	LAW - WILLIAM	Ogles - Duncan and Cochran - London	1816		Religion	Doctrinal Theology - Salvation	213.4	LAW		240	LAW					
+10993	Luther And Aquinas - A Conversation	Our Salvation - Its Certainty and Peril	PFURTNER - STEPHANUS	Darton - Longman & Todd - London	1964		Religion	Doctrinal Theology - Salvation	213.4	PFU		230	PFU					
+10565	Mystical Theology And The Celestial Hierarchies		DIONYSIUS THE AREOPAGITE	The Shrine of Wisdom - Surrey	1965		Religion	Doctrinal Theology - Saints - Angels - Devils	213.5	DIO		235	DIO					
+11160	Mystical Theology And The Celestial Hierarchies		DIONYSIUS THE AREOPAGITE	The Shrine of Wisdom - Surrey	1965		Religion	Doctrinal Theology - Saints - Angels - Devils	213.5	DIO		235	DIO					
+11683	Alone Of All Her Sex	The Myth and Cult of the Virgin Mary	WARNER - MARINA	Pan Books - London	1976	0 330 28771 0	Religion	Doctrinal Theology - Saints - Angels - Devils	213.5	WAR		232	WAR					
+10682	History Of The Devil ~ A		WOODS - WILLIAM	Granada Publishing Ltd. - Herts.	1975	586 03976 7	Religion	Doctrinal Theology - Saints - Angels - Devils	213.5	WOO		235	WOO					
+11885	New Man ~ The		MERTON - THOMAS	Burns & Oats - London	1976	0 86012 026 0	Religion	Devotional & Practical	214	MER		240	MER					
+11000	Listen Pilgrim		JONES - CHRISTOPHER WILLIAM	Darton - Longman & Todd - London	1968	232 50984 0	Religion	Devotional & Practical - Moral Theology	214.1	JON		242	JON					
+10971	Bridge From Old To New In Christian Belief ~ The		KONIJN - SEEF	Geoffrey Chapman - London	1973	0225 65975 1	Religion	Devotional & Practical - Moral Theology	214.1	KON		230	KON					
+12595	Abolition Of Man ~ The		LEWIS - C. S.	Fount	1978	0 00 625 198 6	Religion	Moral Theology	214.1	LEW		241	LEW					
+10977	Justification Of The Good ~ The	An Essay on Moral Philosophy	SOLOVYOF - VLADIMIR	Constable and Company Ltd. - London	1918		Religion	Devotional & Practical - Moral Theology	214.1	SOL		241	SOL					
 10661	Cloud Of Unknowing ~ The	And Other Treatises	ANONYMOUS	Burns - Oats & Washbourne Ltd. - London	1943		Religion	Devotional & Practical - Meditations & Contemplations	214.2	ANO								
-11150	Light At The Center ~ The	Context and Pretext of Modern Mysticism	BHARATI - AGEHANANDA	Ross-Erikson - Santa Barbara	1976	0-915520-04-4	Religion	Devotional & Practical - Meditations & Contemplations	214.2	BHA								
-11148	Cosmic Consciousness	A Classical Investigation of the Development of Man's Mystic Relation to the Infinite	BUCKE - RICHARD MAURICE	E. P. Dutton and Co. - New York	1969		Religion	Devotional & Practical - Meditations & Contemplations	214.2	BUC								
-10556	Meditation	Commonsense Directions for an Uncommon Life	EASWARAN - EKNATH	Routledge & Kegan Paul - London	1979	0 7100 0344 7	Religion	Devotional & Practical - Meditations & Contemplations	214.2	EAS								
-11144	Mystical Phenomena Compared Withtheir Human And Diabolical Counterfeits	A Treatise on Mystical Theology in Agreement with the Principles of St. Teresa set forth by the Carmelite Congress of 1923 at Madrid	FARGES - ALBERT	Burns Oats & Washbourne Ltd. - London	1926		Religion	Devotional & Practical - Meditations & Contemplations	214.2	FAR								
-10554	Varieties Of The Meditative Experience ~ The		GOLEMAN - DANIEL	Rider & Company - London	1977	0 09 136061 7	Religion	Devotional & Practical - Meditations & Contemplations	214.2	GOL								
+11150	Light At The Center ~ The	Context and Pretext of Modern Mysticism	BHARATI - AGEHANANDA	Ross-Erikson - Santa Barbara	1976	0-915520-04-4	Religion	Devotional & Practical - Meditations & Contemplations	214.2	BHA		149	BHA					
+11148	Cosmic Consciousness	A Classical Investigation of the Development of Man's Mystic Relation to the Infinite	BUCKE - RICHARD MAURICE	E. P. Dutton and Co. - New York	1969		Religion	Devotional & Practical - Meditations & Contemplations	214.2	BUC		154	BUC					
+10556	Meditation	Commonsense Directions for an Uncommon Life	EASWARAN - EKNATH	Routledge & Kegan Paul - London	1979	0 7100 0344 7	Religion	Devotional & Practical - Meditations & Contemplations	214.2	EAS		291	EAS					
+11144	Mystical Phenomena Compared Withtheir Human And Diabolical Counterfeits	A Treatise on Mystical Theology in Agreement with the Principles of St. Teresa set forth by the Carmelite Congress of 1923 at Madrid	FARGES - ALBERT	Burns Oats & Washbourne Ltd. - London	1926		Religion	Devotional & Practical - Meditations & Contemplations	214.2	FAR		230	FAR					
+10554	Varieties Of The Meditative Experience ~ The		GOLEMAN - DANIEL	Rider & Company - London	1977	0 09 136061 7	Religion	Devotional & Practical - Meditations & Contemplations	214.2	GOL		291	GOL					
 10674	Journey Inwards ~ The	A Simple Introduction to the Practice of Contemplative Meditation by Normal People	HAPPOLD - F. C.	Darton - longman & Todd - London	1981	0 232 51523 9	Religion	Devotional & Practical - Meditations & Contemplations	214.2	HAP								
 11153	Mysticism	A Study and an Anthology	HAPPOLD - F. C.	Penguin Books	1963		Religion	Devotional & Practical - Meditations & Contemplations	214.2	HAP								
 11154	Mysticism	A Study and an Anthology	HAPPOLD - F. C.	Penguin Books	1967		Religion	Devotional & Practical - Meditations & Contemplations	214.2	HAP								
@@ -1466,10 +1466,10 @@ M13286	Tree Of Diana - The		SANDALPHON	Privately Published			Psychology	Mysterie
 11158	Exploring Mysticism		STAAL - FRITS	Penguin Books	1975	0 1402 1847 5	Religion	Devotional & Practical - Meditations & Contemplations	214.2	STA								
 11149	Mysticism And Philosophy		STACE - W. T.	Macmillan & Co. Ltd. - London	1961		Religion	Devotional & Practical - Meditations & Contemplations	214.2	STA								
 3388	Swedenborg	Buddha of the North	Suzuki - D. T.	Swedenborg Association	1996	0-87785-184-0			214.2	SUZ								
-13389	Swedenborg	Buddha of the North	Suzuki - D. T.	Swedenborg Association	1996	0-87785-184-0			214.2	SUZ								
-11147	Heaven And Hell; Also - The Intermediate State Or World Of Spirits	A Relation of Things Heard and Seen	SWEDENBORG	The Swedenborg Society - London	1896		Religion	Devotional & Practical - Meditations & Contemplations	214.2	SWE								
-11159	Heaven And Its Wonders - And Hell	From Things Heard and Seen	SWEDENBORG - EMANUEL	J. M. Dent & Sons Ltd. - London	1911		Religion	Devotional & Practical - Meditations & Contemplations	214.2	SWE								
-13464	Heaven And Hell		Swedenborg - Emmanuel	J. M. Dent & Sons	1911				214.2	SWE								
+13389	Swedenborg	Buddha of the North	Suzuki - D. T.	Swedenborg Association	1996	0-87785-184-0			214.2	SUZ		289.4	SUZ					
+11147	Heaven And Hell; Also - The Intermediate State Or World Of Spirits	A Relation of Things Heard and Seen	Swedenborg - Emmanuel	The Swedenborg Society - London	1896		Religion	Devotional & Practical - Meditations & Contemplations	214.2	SWE								
+11159	Heaven And Its Wonders - And Hell	From Things Heard and Seen	Swedenborg - Emmanuel	J. M. Dent & Sons Ltd. - London	1911		Religion	Devotional & Practical - Meditations & Contemplations	214.2	SWE								
+13464	Heaven And Its Wonders - And Hell		Swedenborg - Emmanuel	J. M. Dent & Sons	1911				214.2	SWE		289.4	SWE	R				
 11151	Mysticism	A Study in the Nature and Development of Man's Spiritual Consciousness	UNDERHILL - EVELYN	University Paperbacks - London	1960		Religion	Devotional & Practical - Meditations & Contemplations	214.2	UND								
 11143	Studies In Mysticism	and Certain Apects of the Secret Tradition	WAITE - A. E.	Hodder and Stoughton - London	1906		Religion	Devotional & Practical - Meditations & Contemplations	214.2	WAI								
 11152	Mysticism	Sacred and Profane	ZAEHNER - R. C.	Oxford University Press	1961		Religion	Devotional & Practical - Meditations & Contemplations	214.2	ZAE								
@@ -1484,7 +1484,7 @@ M13286	Tree Of Diana - The		SANDALPHON	Privately Published			Psychology	Mysterie
 10970	Holy Living And Dying: With Prayers	Containing the Whole Duty of a Christian	TAYLOR - JEREMY	George Bell & Sons - London	1891		Religion	Devotional & Practical - Personal Religion	214.8	TAY								
 10767	First And Last Things	A Confession of Faith and Rule of Life	WELLS - H. G.	Cassell and Co. Ltd. - London	1917		Religion	Devotional & Practical - Personal Religion	214.8	WEL								
 10668	Saint Jerome: Select Letters		WRIGHT - F. A. (TRANS)	William Heinemann Ltd - London	1980	0 434 99262 3	Religion	Devotional & Practical - Personal Religion	214.8	WRI								
-14215	The Divine Flame	Natural History and Religion	Hardy - Sir Alister	Collins	1966				215	HAR								
+14215	The Divine Flame	Natural History and Religion	Hardy - Sir Alister	Collins	1966				215	HAR		215	HAR					
 10973	Fifteen Sermons Preached At The Rolls Chapel And A Dissertation Upon The Nature Of Virtue		BUTLER - JOSEPH	G. Bell & Sons Ltd. - London	1949		Religion	Pastoral Theology - Sermons	215.2	BUT								
 11173	Social Record Of Christianity ~ The		MCCABE - JOSEPH	Watts & Co. - London	1937		Religion	Pastoral Theology - Parish Welfare Work	215.8	MCC								
 13000	Parishes With A Purpose		CRYER - NEVILLE	Mowbrays	1967		Religion	Christian Social Theology - Social Theology	216.1	CRY								
@@ -1586,68 +1586,68 @@ M13286	Tree Of Diana - The		SANDALPHON	Privately Published			Psychology	Mysterie
 10974	Pontiff		THOMAS - GORDON & MAX MORGAN-WITTS	Granada Publishing Ltd. - London	1984	0-586-05662-9	Religion	Christian Churches & Sects - Roman Catholic Church	218.2	THO								
 11705	Change And Exchange	Mutual Responsiblity and the Church of England	TILL - BARRY	Church Information Office - London	1965		Religion	Christian Churches & Sects - Anglican Churches	218.2	TIL								
 11216	Crux Ansata	An Indictment of the Roman Catholic Church	WELLS - H. G.	Cedric Chivers Ltd - Bath	1969		Religion	Christian Churches & Sects - Roman Catholic Church	218.2	WEL								
-14525	The Bible	Authorized King Janes version with Apocrypha	Carroll - Robert & Stephen Prickett (eds.)	Oxford University Press	1997	0-19-283099-6			220	BIB								
-15528	Psychology Of Prophetism	A Secular Look at the Bible	Elst -Koenraad	Voice of India	1993	81-85990-00-X			220	ELS								
-13690	The Great Code	The Bible and Literature	Frye - Northrop	Routledge - Kegan & Paul	1982	0 7100-9038-2			220	FRY								
-15147	The Bible And Its Background Vlume Ii	New Testament	Robertson - Archibald	Watts & Co	1942				220	ROB								
-15146	The Bible And Its Background:  Volume I	Old testament and More Important Books of the Apocrypha	Robertson - Archibald	Watts *& Co	1942				220	ROB								
-14896	The Deep Things Out Of Darkness	The Book of Job:  Essays and a New English Translation	Wolfers - David	Eerdmans	1995	0-8028-4082-5			221	JOB								
-14218	The Unvarnished Gospels	translated form the original Greek	Gaus - Andy (trans.)	Threshold Books	1988	0-939660-25-3			225	GAU								
-14212	The New Testament	A New Translation by Richmond Lattimore	God	J. M. Dent	1996	0 460 87953 7			225	LAT								
-14865	The Four Gospels & The Revelation		Lattimore - Richard (trans)	Minerva	1991	0-7493-9821-3			225	LAT								
-14964	The New English Bible	New Testament	OUP	Oxford University Press & CUP	1961				225	OUP								
-14151	Pelaguius'S Commentary On St Paul'S Epistle To The Romans	Translated with Introduction and Notes by Theodore de Bruyn	Pelagius	Clarendon	1998	0=19-826980-3			227.107	PEL								
-15312	Apocalypse		Lawrence - D. H.	Granada Publishing	1981	0-586-05273-9			228	LAW								
-15212	St Thomas Aquinas		Chesterton - G. K.	Hodder & Stoughton	1933				230	AQU								
-15239	St. Thomas Aquinas	Angel of the Schools	Scanlan - J. F.	Sheed & Ward	1948				230	AQU								
-16010	Against The Academics	translated by John J. O'Meara	Augustine - St.	Newman Press	1951	0-8091-0252-8			230	AUG								
-16009	The Greatness Of The Soul : The Teacher	Translated by Joseph M. Colleran	Augustine - St.	Newman Press	1978	0-8091-0060-6			230	AUG								
-15274	Augustine		Chadwick - Henry	Oxford University Press	1986	0-19-287534-5			230	AUG								
-15920	Jacob Boehme	Essential Readings	Waterfield - Robin (ed.)	The Aquarian Press / Crucible	1989	1-85274-041-8			230	BOE								
-15990	The Writings Of Origen Volume I	edited by Rev Alexander Roberts & James Donaldson	Origen	T. & T. Clark	1869				230	ORI								
-15991	The Writings Of Origen Volume Ii	edited by Rev Alexander Roberts and James Donaldson	Origen	T & T Clark	1872				230	ORI								
-15241	Adam - Eve - And The Serpent		Pagels - Elaine	Vintage Books	1989	0-679-72232-7			230	PAG								
-14989	The Trinity	The Works of St Augustine - a translation for the 21st Century	Augustine - Saint	New City Press	1991	0-911782-96-6			231	AUG								
-14216	City Of God	Concerning the City of God Against the Pagans	Augustine - St.	Penguin	1972				231	AUG								
-15439	Tomorrow'S God		Geering - Lloyd	Bridget Williams Books	1994	0-908912-66-8			231	GEE								
-13627	God	Being an Introduction to the Science of Metabiology	Murry - John Middleton	Jonathan Cape	1929				231	MUR								
-15429	God The Invisible King		Wells - H. G.	Cassell and Co	1917				231	WEL								
-14861	The Everlasting Man		Chesterton - G. K.	Hodder & Stoughton	1926				232	CHE								
-14975	The Creation Of Christ Volume I	An Outline of the Beginnings of Christianity	Couchard - P. L.	Watts & Co	1939				232	COU								
-14976	The Creation Of Christ Volume Ii		Couchard - P. L.	Watts & Co	1939				232	COU								
-13618	The Life Of Jesus		Murry - John Middleton	Jonathan Cape	1926			signed by author	232	MUR								
-13669	The Jesus Debate	Modern Historians Investigate the Life of Christ	Powell - Mark Allan	Lion Publishiing	1998	0 7459 4209 1			232	POW								
-16323	The Changing Faces Of Jesus		Vermes - Geza	Penguin	2000	978-0-140-26524-			232	VER								
-15011	Nine Faces Of Christ	Quest of the True Initiate:  A Narrative of Nine Great Mystic Initiations of Joseph - bar - Joseph in the Eternal Religion	Whitworth - Eugene E.	Great Western University	1980	0-944155-00-6			232	WHI								
-15365	The Age Of Bede	Bede : Life of cuthbert;   Eddius Sstephanus :  Life of Wilfred ;  Bede : Lives of he Abots of Wearmouth and Jarrow	Bede & Eddius Stephanus	Pemgin	1983				235	BED								
-14911	A Book Of Angels		Burnham - Sophy	Ballantine Books	1990	0-345-36157-1			235	BUR								
-16368	The Golden Legend Or Lives Of The Saints	Volume Seven	Caxton - William	J.M. Dent					235	CAX								
-15854	A Dictionary Of Angels	including the fallen angels	Davidson - Gustav	The Free Press	1967				235	DAV								
+14525	The Bible	Authorized King Janes version with Apocrypha Carroll - Robert & Stephen Prickett (eds.)	VARIOUS	Oxford University Press	1997	0-19-283099-6			220	BIB		220	VAR					
+15528	Psychology Of Prophetism	A Secular Look at the Bible	Elst -Koenraad	Voice of India	1993	81-85990-00-X			220	ELS		224	ELS					
+13690	The Great Code	The Bible and Literature	Frye - Northrop	Routledge - Kegan & Paul	1982	0 7100-9038-2			220	FRY		809	FRY					
+15147	The Bible And Its Background Vlume Ii	New Testament	Robertson - Archibald	Watts & Co	1942				220	ROB		220	ROB					
+15146	The Bible And Its Background:  Volume I	Old testament and More Important Books of the Apocrypha	Robertson - Archibald	Watts *& Co	1942				220	ROB		220	ROB					
+14896	The Deep Things Out Of Darkness	The Book of Job:  Essays and a New English Translation	Wolfers - David	Eerdmans	1995	0-8028-4082-5			221	JOB		222	WOL					
+14218	The Unvarnished Gospels	translated form the original Greek - Gaus - Andy (tr)	VARIOUS	Threshold Books	1988	0-939660-25-3			225	GAU		225	VAR					
+14212	The New Testament	A New Translation by Richmond Lattimore	VARIOUS	J. M. Dent	1996	0 460 87953 7			225	LAT		225	VAR					
+14865	The Four Gospels & The Revelation	Lattimore - Richard (trans)	VARIOUS	Minerva	1991	0-7493-9821-3			225	LAT		225	VAR					
+14964	The New English Bible	New Testament	OUP	Oxford University Press & CUP	1961				225	OUP		225	VAR					
+14151	Pelaguius'S Commentary On St Paul'S Epistle To The Romans	Translated with Introduction and Notes by Theodore de Bruyn	Pelagius	Clarendon	1998	0=19-826980-3			227.107	PEL		220.7	PEL					
+15312	Apocalypse		Lawrence - D. H.	Granada Publishing	1981	0-586-05273-9			228	LAW		220.6	LAW					
+15212	St Thomas Aquinas		Chesterton - G. K.	Hodder & Stoughton	1933				230	AQU		230	CHE					
+15239	St. Thomas Aquinas	Angel of the Schools - Scanlan - J. F. (trans)	Maritain - Jacques	Sheed & Ward	1948				230	AQU		230	MAR					
+16010	Against The Academics	translated by John J. O'Meara	Augustine - St.	Newman Press	1951	0-8091-0252-8			230	AUG		230	AUG					
+16009	The Greatness Of The Soul : The Teacher	Translated by Joseph M. Colleran	Augustine - St.	Newman Press	1978	0-8091-0060-6			230	AUG		230	AUG					
+15274	Augustine		Chadwick - Henry	Oxford University Press	1986	0-19-287534-5			230	AUG		230	CHA					
+15920	Jacob Boehme	Essential Readings - Waterfield - Robin (ed.)	"Boehme, Jacob"	The Aquarian Press / Crucible	1989	1-85274-041-8			230	BOE		230	BOE					
+15990	The Writings Of Origen Volume I	edited by Rev Alexander Roberts & James Donaldson	Origen	T. & T. Clark	1869				230	ORI		230	ORI					
+15991	The Writings Of Origen Volume Ii	edited by Rev Alexander Roberts and James Donaldson	Origen	T & T Clark	1872				230	ORI		230	ORI					
+15241	Adam - Eve - And The Serpent		Pagels - Elaine	Vintage Books	1989	0-679-72232-7			230	PAG		214	PAG					
+14989	The Trinity	The Works of St Augustine - a translation for the 21st Century	Augustine - Saint	New City Press	1991	0-911782-96-6			231	AUG		231	AUG					
+14216	City Of God	Concerning the City of God Against the Pagans	Augustine - Saint	Penguin	1972				231	AUG		231	AUG					
+15439	Tomorrow'S God		Geering - Lloyd	Bridget Williams Books	1994	0-908912-66-8			231	GEE		231	GEE					
+13627	God	Being an Introduction to the Science of Metabiology	Murry - John Middleton	Jonathan Cape	1929				231	MUR		231	MUR					
+15429	God The Invisible King		Wells - H. G.	Cassell and Co	1917				231	WEL		231	WEL					
+14861	The Everlasting Man		Chesterton - G. K.	Hodder & Stoughton	1926				232	CHE		232	CHE					
+14975	The Creation Of Christ Volume I	An Outline of the Beginnings of Christianity	Couchard - P. L.	Watts & Co	1939				232	COU		232	COU					
+14976	The Creation Of Christ Volume Ii		Couchard - P. L.	Watts & Co	1939				232	COU		232	COU					
+13618	The Life Of Jesus		Murry - John Middleton	Jonathan Cape	1926			signed by author	232	MUR		232	MUR					
+13669	The Jesus Debate	Modern Historians Investigate the Life of Christ	Powell - Mark Allan	Lion Publishiing	1998	0 7459 4209 1			232	POW		232	POW					
+16323	The Changing Faces Of Jesus		Vermes - Geza	Penguin	2000	978-0-140-26524-			232	VER		232	VER					
+15011	Nine Faces Of Christ	Quest of the True Initiate:  A Narrative of Nine Great Mystic Initiations of Joseph - bar - Joseph in the Eternal Religion	Whitworth - Eugene E.	Great Western University	1980	0-944155-00-6			232	WHI		232	WHI					
+15365	The Age Of Bede	Bede : Life of cuthbert;   Eddius Sstephanus :  Life of Wilfred ;  Bede : Lives of he Abots of Wearmouth and Jarrow	Bede & Eddius Stephanus	Pemgin	1983				235	BED		270.2	BED					
+14911	A Book Of Angels		Burnham - Sophy	Ballantine Books	1990	0-345-36157-1			235	BUR		235	BUR					
+16368	The Golden Legend Or Lives Of The Saints	Volume Seven	Caxton - William	J.M. Dent					235	CAX		270.5	CAX					
+15854	A Dictionary Of Angels	including the fallen angels	Davidson - Gustav	The Free Press	1967				235	DAV		235	DAV					
 16164	St George	Hero - Martyr and Myth	Riches - Samantha	Sutton Publishing	2000	0-7509-2452-7			235	GEO								
-15572	Angels: An Endangered Species		Godwin - Malcolm	Simon & Schuster	1990	0-671-70650-0			235	GOD								
-16007	St. Jerome And The Lion		Godden - Rumer	Macmillan & Co	1961				235	JER								
-15017	An Homage To Jerome	Patron Saint of Translators	Larbaud - Valery	The Marlboro Press	1984	0-910395-09-8			235	JER								
-14924	An Homage To St Jerome	Patron Saint of Translators	Larbaud - Valery	The Marlboro Press	1984	0-910395-09-8			235	JER								
-14767	Angels	Ministers of Grace	MacGregor - Geddes	Paragon House	1988	1-55778-001-3			235	MAC								
-15525	The Lives Of St Wenceslas - St Ludmila And St Adalbert		Petiska - Eduard	Martin	1994	80-900129-8-1			235	PET								
-14305	Saint Jerome In The Renaissance		Rice - Eugene F. Jr	John Hopkins University Press	1985	0-8018-3747-2			235	RIC								
-13668	The Golden Legend	Readings on the Saints Vol II	de Voragine - Jacobus	Princeton University Press	1993	0-691-00154-5			235	VOR								
-13667	The Golden Legends	Readings on the Saints Vol I	de Voragine - Jacobus	Princeton University Press	1993	0-691-00153-7			235	VOR								
-15140	Beasts And Saints		Waddell - Helen (trans.)	Constable and Co Ltd	1934				235	WAD								
+15572	Angels: An Endangered Species		Godwin - Malcolm	Simon & Schuster	1990	0-671-70650-0			235	GOD		235	GOD					
+16007	St. Jerome And The Lion		Godden - Rumer	Macmillan & Co	1961				235	JER		235	JER					
+15017	An Homage To Jerome	Patron Saint of Translators	Larbaud - Valery	The Marlboro Press	1984	0-910395-09-8			235	JER		270.2	LAR					
+14924	An Homage To St Jerome	Patron Saint of Translators	Larbaud - Valery	The Marlboro Press	1984	0-910395-09-8			235	JER		270.2	LAR					
+14767	Angels	Ministers of Grace	MacGregor - Geddes	Paragon House	1988	1-55778-001-3			235	MAC		235	MAC					
+15525	The Lives Of St Wenceslas - St Ludmila And St Adalbert		Petiska - Eduard	Martin	1994	80-900129-8-1			235	PET		270.3	PET					
+14305	Saint Jerome In The Renaissance		Rice - Eugene F. Jr	John Hopkins University Press	1985	0-8018-3747-2			235	RIC		270.2	RIC					
+13668	The Golden Legend	Readings on the Saints Vol II	de Voragine - Jacobus	Princeton University Press	1993	0-691-00154-5			235	VOR		235	VOR					
+13667	The Golden Legends	Readings on the Saints Vol I	de Voragine - Jacobus	Princeton University Press	1993	0-691-00153-7			235	VOR		235	VOR					
+15140	Beasts And Saints		Waddell - Helen (trans.)	Constable and Co Ltd	1934				235	WAD		235	WAD					
 15856	Angels		Wilson - Peter Lamborn	Thames & Hudson	1980				235	WIL								
-15414	The Last Judgment	(Poshumous)	Swedenborg - Emmanuel	Swedenborg Society	1934				237	SWE								
-15327	Making Sense Of The Creeds		Davies - Rupert E.	Epworth Press	1987	0-7162-0433-9			238	DAV								
-14923	The Christian Creed	Its Origin and Significance	Leadbeater - C. W.	The St Alban Press	1978	0-9500963-93			238	LEA								
-13475	Apologia Pro Vita Sua		Newman - Cardinal John Henry	J. M. Dent & Sons	1955				239	NEW								
-13415	An Unexpected Way	On Converting from Buddhism to Catholicism	Williams - Paul	T&T Clark Ltd	2002	0 567 08830 8			239	WIL								
-14866	The Mystics Of Spain		Peers - E. Allison	George Allen & Unwin Ltd	1951				240	PEE								
-14454	After Writing	On the liturgical consumation of philosophy	Pickstock - Catherine	Blackwell	1998	0-631-20672-8			240	PIC								
-14504	Moral And Religious Aphorisms		Whichcote - Benjamin	Elkin Mathews & Marrot	1930				240	WHI								
-14800	The Four Loves		Lewis - C. S.	Fount Paperbacks	1991				241	LEW								
-15548	The Prayers And Meditations Of Saint Anselm	with the Proslogion	Ward - Sister Beendicta (transl)	Penguin	1973				242	ANS								
-14548	The Golden Book Of Marcus Aurelius	The Roman Emperor:  His Meditations	Aurelius - Marcus	J. M. Dent	1899				242	AUR								
-14934	Meditations With Nicholas Of Cusa		Yockey - James Francis (ed.)	Bear and Co	1987	0-939680-40-8			242	CUS								
-15473	Hadewijch	The Complete Works	Hart - Mother Columba (trans.)	SPCK	1981	0-281-03793-0			242	HAD								
+15414	The Last Judgment	(Poshumous)	Swedenborg - Emmanuel	Swedenborg Society	1934				237	SWE		289.4	SWE					
+15327	Making Sense Of The Creeds		Davies - Rupert E.	Epworth Press	1987	0-7162-0433-9			238	DAV		238	DAV					
+14923	The Christian Creed	Its Origin and Significance	Leadbeater - C. W.	The St Alban Press	1978	0-9500963-93			238	LEA		238	LED					
+13475	Apologia Pro Vita Sua		Newman - Cardinal John Henry	J. M. Dent & Sons	1955				239	NEW		202	NEW					
+13415	An Unexpected Way	On Converting from Buddhism to Catholicism	Williams - Paul	T&T Clark Ltd	2002	0 567 08830 8			239	WIL		291	WIL					
+14866	The Mystics Of Spain		Peers - E. Allison	George Allen & Unwin Ltd	1951				240	PEE		242	PEE					
+14454	After Writing	On the liturgical consumation of philosophy	Pickstock - Catherine	Blackwell	1998	0-631-20672-8			240	PIC		230	PIC					
+14504	Moral And Religious Aphorisms		Whichcote - Benjamin	Elkin Mathews & Marrot	1930				240	WHI		240	WHI					
+14800	The Four Loves		Lewis - C. S.	Fount Paperbacks	1991				241	LEW		241	LEW					
+15548	The Prayers And Meditations Of Saint Anselm	with the Proslogion - Ward - Sister Beendicta (transl)	Anselm - Saint	Penguin	1973				242	ANS		242	ANS					
+14548	The Golden Book Of Marcus Aurelius	The Roman Emperor:  His Meditations	Aurelius - Marcus	J. M. Dent	1899				242	AUR		188	AUR					
+14934	Meditations With Nicholas Of Cusa	Yockey - James Francis (ed.)	Nicholas of Cusa	Bear and Co	1987	0-939680-40-8			242	CUS		242	CUS					
+15473	Hadewijch	The Complete Works	Hart - Mother Columba (trans.)	SPCK	1981	0-281-03793-0			242	HAD		839.3	HAD					
 15530	The Spiritual Exercises Of St. Ignatius Of Loyola		Longbridge - W. H. (transl.)	Robert Scott	1919				242	IGN								
 15209	The Collected Works Of St. John Of The Cross	translated by Kieran Kavanaugh & Otilio Rodriguez	John - St (of the Cross)	ICS Publication	1979	0-9600876-5-6			242	JOH								
 10660	Dark Night Of The Soul ~ The		JOHN OF THE CROSS - SAINT	James Clarke & Co. Ltd. - Cambridge	1973		Religion	Devotional & Practical - Meditations & Contemplations	242	JOH								
@@ -1764,7 +1764,7 @@ M13286	Tree Of Diana - The		SANDALPHON	Privately Published			Psychology	Mysterie
 14188	Enlightenment Beyond Traditions		Kristof - Aziz - & Houman Emami	Motilal Banarsidass	1999	81-208-1651-x			291	KRI								
 14878	Christianity And The World Religions	Paths of Dialogue with Islam - Hinduism - and Buddhism	Kung - Hans	FountPaperbacks	1987				291	KUN								
 15860	Christianity And The World Religions	Paths of Dialogue with Islam - Hinduism and Buddhism	Kung - Hans	Collin	1987	0-00-217619-X			291	KUN								
-13692	The Wisdom Of Balahvar	A Christian Legend of the Buddha	Lang - David Marshall	George Allen & Unwin	1957				291	LAN								
+13692	The Wisdom Of Balahvar	A Christian Legend of the Buddha	Lang - David Marshall	George Allen & Unwin	1957				291	LAN		291	LAN					
 15432	A Study Of Religion	Its Sources and Contents	Martineau - James	Oxford at the Clarendon Press	1889				291	MAR								
 14910	Introduction To The Science Of Religion		Mueller - Max F.	Longmans - Green - & Co	1873				291	MUL								
 14940	Theosophy Or Psychological Religion	The Gifford Lectures 1892	Muller - Max	Longmans - Green - & Co	1893				291	MUL								
@@ -2119,7 +2119,7 @@ M13286	Tree Of Diana - The		SANDALPHON	Privately Published			Psychology	Mysterie
 11513	Sufi Path Of Knowledge ~ The	Ibn al-Arabi's Metaphysics of Imagination	CHITTICK - WILLIAM C.	State University of New York Press	1989	0-88706-885-5	Religion	Other Religions - Islam & Bahaism	297	CHI								
 11504	Shi'Ite Anthology ~ A		CHITTICK - WILLIAM C. (ED)	Muhammadi Trust - London	1980	0 9506986 0 1	Religion	Other Religions - Islam & Bahaism	297	CHI								
 11512	Dervish Textbook ~ A	From the Awarifu-l-Ma'arif of Sheikh Shahabuddin Suhrawardi	CLARKE - H. WILBERFORCE (TRANS)	The Octagon Press - London	1980	90086073 1	Religion	Other Religions - Islam & Bahaism	297	CLA								
-14452	Avicenna And The Visionary Road	Translated from the French by Willard R. Trask	Corbin - Henry	Spring Publications Inc	1979	0-88214-213-5			297	COR								
+14452	Avicenna And The Visionary Road	Translated from the French by Willard R. Trask	Corbin - Henry	Spring Publications Inc	1979	0-88214-213-5			297	COR		189	COR					
 11514	Cyclical Time And Ismaili Gnosis		CORBIN - HENRY	Kegan Paul International - London	1983	0-7103-0048-4	Religion	Other Religions - Islam & Bahaism	297	COR								
 15653	Spiritual Body And Celestial Earth	From Mazdean Iran to Shi'ite Iran	Corbin - Henry	Princeton University Press	1977				297	COR								
 11548	Wisdom Of The Sufis ~ The		CRAGG - KENNETH (ED)	Sheldon Press - London	1976	0 85969 080 6	Religion	Other Religions - Islam & Bahaism	297	CRA								
@@ -2206,7 +2206,7 @@ M13286	Tree Of Diana - The		SANDALPHON	Privately Published			Psychology	Mysterie
 14829	Oramma Mikhael Aivanhov: Master Of The Great Universal White Brotherhood		Lejbowicz - Agnes	Editions Prosveta	1982	2-85566-191-9			298	AIV								
 16151	Anandamayi	Her Life and Wisdom	Lannoy - Richard	Element	1996	1-85230-914-8			298	ANA								
 14858	Sri Aruobindo And The Mother	Glimpses of their Experiments - Experiences and Realisations	Joshi - Kireet	The Mother's Institute of Research	1996	81-208-0655-7			298	AUR								
-16099	Consciousness Speaks		Balsekar - Ramesh S.	Advaita Press	1992	0-929448-14-6			298	BAL								
+16099	Consciousness Speaks		Balsekar - Ramesh S.	Advaita Press	1992	0-929448-14-6			298	BAL		294.5	BAL					
 13042	Modern Mystics And Sages		BANCROFT - ANNE	Paladin	1978	0 586 08256 5			298	BAN								
 16392	The Future Of New Religious Movements		Bromley - David G. & Phillip E. Hammond	Mercer University Press	1987	0-86554-238-4			298	BRO								
 15207	The Book Of Tokens	Tarot Meditations	Case - Paul Foster	Builders of the Adytum	1968				298	CAS								
