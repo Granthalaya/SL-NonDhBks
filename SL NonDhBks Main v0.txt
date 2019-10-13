@@ -1433,57 +1433,55 @@ M13286	Tree Of Diana - The		SANDALPHON	Privately Published			Psychology	Mysterie
 10971	Bridge From Old To New In Christian Belief ~ The		KONIJN - SEEF	Geoffrey Chapman - London	1973	0225 65975 1	Religion	Devotional & Practical - Moral Theology	214.1	KON		230	KON					
 12595	Abolition Of Man ~ The		LEWIS - C. S.	Fount	1978	0 00 625 198 6	Religion	Moral Theology	214.1	LEW		241	LEW					
 10977	Justification Of The Good ~ The	An Essay on Moral Philosophy	SOLOVYOF - VLADIMIR	Constable and Company Ltd. - London	1918		Religion	Devotional & Practical - Moral Theology	214.1	SOL		241	SOL					
-10661	Cloud Of Unknowing ~ The	And Other Treatises	ANONYMOUS	Burns - Oats & Washbourne Ltd. - London	1943		Religion	Devotional & Practical - Meditations & Contemplations	214.2	ANO								
+10661	Cloud Of Unknowing ~ The	And Other Treatises	ANONYMOUS	Burns - Oats & Washbourne Ltd. - London	1943		Religion	Devotional & Practical - Meditations & Contemplations	214.2	ANO		242	ANO					
 11150	Light At The Center ~ The	Context and Pretext of Modern Mysticism	BHARATI - AGEHANANDA	Ross-Erikson - Santa Barbara	1976	0-915520-04-4	Religion	Devotional & Practical - Meditations & Contemplations	214.2	BHA		149	BHA					
 11148	Cosmic Consciousness	A Classical Investigation of the Development of Man's Mystic Relation to the Infinite	BUCKE - RICHARD MAURICE	E. P. Dutton and Co. - New York	1969		Religion	Devotional & Practical - Meditations & Contemplations	214.2	BUC		154	BUC					
 10556	Meditation	Commonsense Directions for an Uncommon Life	EASWARAN - EKNATH	Routledge & Kegan Paul - London	1979	0 7100 0344 7	Religion	Devotional & Practical - Meditations & Contemplations	214.2	EAS		291	EAS					
 11144	Mystical Phenomena Compared Withtheir Human And Diabolical Counterfeits	A Treatise on Mystical Theology in Agreement with the Principles of St. Teresa set forth by the Carmelite Congress of 1923 at Madrid	FARGES - ALBERT	Burns Oats & Washbourne Ltd. - London	1926		Religion	Devotional & Practical - Meditations & Contemplations	214.2	FAR		230	FAR					
 10554	Varieties Of The Meditative Experience ~ The		GOLEMAN - DANIEL	Rider & Company - London	1977	0 09 136061 7	Religion	Devotional & Practical - Meditations & Contemplations	214.2	GOL		291	GOL					
-10674	Journey Inwards ~ The	A Simple Introduction to the Practice of Contemplative Meditation by Normal People	HAPPOLD - F. C.	Darton - longman & Todd - London	1981	0 232 51523 9	Religion	Devotional & Practical - Meditations & Contemplations	214.2	HAP								
-11153	Mysticism	A Study and an Anthology	HAPPOLD - F. C.	Penguin Books	1963		Religion	Devotional & Practical - Meditations & Contemplations	214.2	HAP								
-11154	Mysticism	A Study and an Anthology	HAPPOLD - F. C.	Penguin Books	1967		Religion	Devotional & Practical - Meditations & Contemplations	214.2	HAP								
-11155	Mysticism	A Study and an Anthology	HAPPOLD - F. C.	Penguin Books	1963		Religion	Devotional & Practical - Meditations & Contemplations	214.2	HAP								
-11157	Religious Faith And Twentieth Century Man		HAPPOLD - F. C.	Penguin Books	1966		Religion	Devotional & Practical - Meditations & Contemplations	214.2	HAP								
-12596	Dialogue In The Desert ~ A		HEARD - GERALD	Cassell	1942		Religion	Devotional Literature	214.2	HEA								
-10676	Preface To Prayer ~ A		HEARD - GERALD	Cassell and Company Ltd. - London	1945		Religion	Devotional & Practical - Meditations & Contemplations	214.2	HEA								
-10581	Meditations And Contemplations		HERVEY - REV. JAMES	Thomas Kelly - London	1842		Religion	Devotional & Practical - Meditations & Contemplations	214.2	HER								
+10674	Journey Inwards ~ The	A Simple Introduction to the Practice of Contemplative Meditation by Normal People	HAPPOLD - F. C.	Darton - longman & Todd - London	1981	0 232 51523 9	Religion	Devotional & Practical - Meditations & Contemplations	214.2	HAP		291.4	HAP					
+11153	Mysticism	A Study and an Anthology	HAPPOLD - F. C.	Penguin Books	1963		Religion	Devotional & Practical - Meditations & Contemplations	214.2	HAP		291.4	HAP					
+11154	Mysticism	A Study and an Anthology	HAPPOLD - F. C.	Penguin Books	1967		Religion	Devotional & Practical - Meditations & Contemplations	214.2	HAP		291.4	HAP					
+11155	Mysticism	A Study and an Anthology	HAPPOLD - F. C.	Penguin Books	1963		Religion	Devotional & Practical - Meditations & Contemplations	214.2	HAP		291.4	HAP					
+11157	Religious Faith And Twentieth Century Man		HAPPOLD - F. C.	Penguin Books	1966		Religion	Devotional & Practical - Meditations & Contemplations	214.2	HAP		291.4	HAP					
+12596	Dialogue In The Desert ~ A		HEARD - GERALD	Cassell	1942		Religion	Devotional Literature	214.2	HEA		242	HEA					
+10676	Preface To Prayer ~ A		HEARD - GERALD	Cassell and Company Ltd. - London	1945		Religion	Devotional & Practical - Meditations & Contemplations	214.2	HEA		242	HEA					
+10581	Meditations And Contemplations		HERVEY - REV. JAMES	Thomas Kelly - London	1842		Religion	Devotional & Practical - Meditations & Contemplations	214.2	HER		242	HER					
 10575	Scale Of Perfection ~ The		HILTON - WALTER	Burns - Oats and Washbourne Ltd. - London	1927		Religion	Devotional & Practical - Meditations & Contemplations	214.2	HIL								
-10675	Concentration And Meditation	A Manual of Mind Development	HUMPHREYS - CHRISTMAS	Penguin Books	1971	0 14021236 1	Religion	Devotional & Practical - Meditations & Contemplations	214.2	HUM								
-10555	Search Within ~ The	A Course in Meditation	HUMPHREYS - CHRISTMAS	Sheldon Press - London	1977	0 85969 089 X	Religion	Devotional & Practical - Meditations & Contemplations	214.2	HUM								
-11250	Inner Eye Of Love ~ The	Mysticism and Religion	JOHNSTON - WILLIAM	Collins - London	1978	0 00 215823 X	Religion	Devotional & Practical - Meditations & Contemplations	214.2	JOH								
-10987	Spiritual Instructions Of St. Seraphim Of Sarov ~ The		JONES - FRANKLIN (BUBBA FREE JOHN)	The Dawn Horse Press - Los Angeles	1973	0-913922-05-6	Religion	Devotional & Practical - Meditations & Contemplations	214.2	JON								
-10665	Revelations Of Divine Love		JULIAN OF NORWICH	Penguin Books	1974	0 14044 177 8	Religion	Devotional & Practical - Meditations & Contemplations	214.2	JUL								
-12150	Imitation Of Christ ~ The		KEMPIS - THOMAS A	Collins - London	1950		Religion	Devotional & Practical - Meditations & Contemplations	214.2	KEM								
-11145	Anthology Of Mysticism And Mystical Philosophy ~ An		KINGSLAND - WILLIAM	Methuen & Co. Ltd. - London	1927		Religion	Devotional & Practical - Meditations & Contemplations	214.2	KIN								
-10988	Ruysbroeck And The Mystics		MAETERLINCK - MAURICE	Hodder & Stoughton - London	1894		Religion	Devotional & Practical - Meditations & Contemplations	214.2	MAE								
-11146	Theory And Art Of Mysticism ~ The		MUKERJEE - RADHAKAMAL	Asia Publishing House - Bombay	1960		Religion	Devotional & Practical - Meditations & Contemplations	214.2	MUK								
-12597	Prayers For Peace		RUNCIE - ROBERT & HUME - BASIL (EDS)	SPCK	1987	0 281 04265 9	Religion	Devotional Literature	214.2	RUN								
-11848	Meditation	Paths to Tranquillity	RUSSELL - PETER	BBC - London	1978	0 563 16360 7	Religion	Devotional & Practical - Meditations & Contemplations	214.2	RUS								
-10553	Concentration	An Outline for Practical Study	SADHU - MOUNI	George Allen & Unwin Ltd. - London	1959		Religion	Devotional & Practical - Meditations & Contemplations	214.2	SAD								
-10552	Samadhi	The Superconsciousness of the Future	SADHU - MOUNI	George Allen & Unwin Ltd. - London	1962		Religion	Devotional & Practical - Meditations & Contemplations	214.2	SAD								
-10985	Thomas Traherne Mystic And Poet		SALTER - K. W.	Edward Arnold Ltd. - London	1964		Religion	Devotional & Practical - Meditations & Contemplations	214.2	SAL								
-11156	Mysticism In World Religion		SPENCER - SIDNEY	Penguin Books	1963		Religion	Devotional & Practical - Meditations & Contemplations	214.2	SPE								
-11158	Exploring Mysticism		STAAL - FRITS	Penguin Books	1975	0 1402 1847 5	Religion	Devotional & Practical - Meditations & Contemplations	214.2	STA								
-11149	Mysticism And Philosophy		STACE - W. T.	Macmillan & Co. Ltd. - London	1961		Religion	Devotional & Practical - Meditations & Contemplations	214.2	STA								
+11250	Inner Eye Of Love ~ The	Mysticism and Religion	JOHNSTON - WILLIAM	Collins - London	1978	0 00 215823 X	Religion	Devotional & Practical - Meditations & Contemplations	214.2	JOH		291.4	JOH					
+10987	Spiritual Instructions Of St. Seraphim Of Sarov ~ The	JONES - FRANKLIN (BUBBA FREE JOHN) (ED.)	Seraphim of Sarov - Saint	The Dawn Horse Press - Los Angeles	1973	0-913922-05-6	Religion	Devotional & Practical - Meditations & Contemplations	214.2	JON		242	SER					
+10665	Revelations Of Divine Love		JULIAN OF NORWICH	Penguin Books	1974	0 14044 177 8	Religion	Devotional & Practical - Meditations & Contemplations	214.2	JUL		242	JUL					
+12150	Imitation Of Christ ~ The		KEMPIS - THOMAS A	Collins - London	1950		Religion	Devotional & Practical - Meditations & Contemplations	214.2	KEM		242	KEM					
+11145	Anthology Of Mysticism And Mystical Philosophy ~ An		KINGSLAND - WILLIAM	Methuen & Co. Ltd. - London	1927		Religion	Devotional & Practical - Meditations & Contemplations	214.2	KIN		291.4	KIN					
+10988	Ruysbroeck And The Mystics		MAETERLINCK - MAURICE	Hodder & Stoughton - London	1894		Religion	Devotional & Practical - Meditations & Contemplations	214.2	MAE		242	MAE	R				
+11146	Theory And Art Of Mysticism ~ The		MUKERJEE - RADHAKAMAL	Asia Publishing House - Bombay	1960		Religion	Devotional & Practical - Meditations & Contemplations	214.2	MUK		291.4	MUK					
+12597	Prayers For Peace		RUNCIE - ROBERT & HUME - BASIL (EDS)	SPCK	1987	0 281 04265 9	Religion	Devotional Literature	214.2	RUN		242	RUN					
+11848	Meditation	Paths to Tranquillity	RUSSELL - PETER	BBC - London	1978	0 563 16360 7	Religion	Devotional & Practical - Meditations & Contemplations	214.2	RUS		291.4	RUS					
+10553	Concentration	An Outline for Practical Study	SADHU - MOUNI	George Allen & Unwin Ltd. - London	1959		Religion	Devotional & Practical - Meditations & Contemplations	214.2	SAD		291.4	SAD					
+10552	Samadhi	The Superconsciousness of the Future	SADHU - MOUNI	George Allen & Unwin Ltd. - London	1962		Religion	Devotional & Practical - Meditations & Contemplations	214.2	SAD		291.4	SAD					
+10985	Thomas Traherne Mystic And Poet		SALTER - K. W.	Edward Arnold Ltd. - London	1964		Religion	Devotional & Practical - Meditations & Contemplations	214.2	SAL		242	SAL					
+11156	Mysticism In World Religion		SPENCER - SIDNEY	Penguin Books	1963		Religion	Devotional & Practical - Meditations & Contemplations	214.2	SPE		291.4	SPE					
+11158	Exploring Mysticism		STAAL - FRITS	Penguin Books	1975	0 1402 1847 5	Religion	Devotional & Practical - Meditations & Contemplations	214.2	STA		291.4	STA					
+11149	Mysticism And Philosophy		STACE - W. T.	Macmillan & Co. Ltd. - London	1961		Religion	Devotional & Practical - Meditations & Contemplations	214.2	STA		291.4	STA					
 3388	Swedenborg	Buddha of the North	Suzuki - D. T.	Swedenborg Association	1996	0-87785-184-0			214.2	SUZ								
 13389	Swedenborg	Buddha of the North	Suzuki - D. T.	Swedenborg Association	1996	0-87785-184-0			214.2	SUZ		289.4	SUZ					
-11147	Heaven And Hell; Also - The Intermediate State Or World Of Spirits	A Relation of Things Heard and Seen	Swedenborg - Emmanuel	The Swedenborg Society - London	1896		Religion	Devotional & Practical - Meditations & Contemplations	214.2	SWE								
+11147	Heaven And Hell; Also - The Intermediate State Or World Of Spirits	A Relation of Things Heard and Seen	Swedenborg - Emmanuel	The Swedenborg Society - London	1896		Religion	Devotional & Practical - Meditations & Contemplations	214.2	SWE		289.4	SWE					
 11159	Heaven And Its Wonders - And Hell	From Things Heard and Seen	Swedenborg - Emmanuel	J. M. Dent & Sons Ltd. - London	1911		Religion	Devotional & Practical - Meditations & Contemplations	214.2	SWE								
 13464	Heaven And Its Wonders - And Hell		Swedenborg - Emmanuel	J. M. Dent & Sons	1911				214.2	SWE		289.4	SWE	R				
-11151	Mysticism	A Study in the Nature and Development of Man's Spiritual Consciousness	UNDERHILL - EVELYN	University Paperbacks - London	1960		Religion	Devotional & Practical - Meditations & Contemplations	214.2	UND								
-11143	Studies In Mysticism	and Certain Apects of the Secret Tradition	WAITE - A. E.	Hodder and Stoughton - London	1906		Religion	Devotional & Practical - Meditations & Contemplations	214.2	WAI								
-11152	Mysticism	Sacred and Profane	ZAEHNER - R. C.	Oxford University Press	1961		Religion	Devotional & Practical - Meditations & Contemplations	214.2	ZAE								
-10558	Evangelical Theology: An Introduction		BARTH - KARL	Collins - London	1969		Religion	Devotional & Practical - Evangelistic Writings	214.3	BAR								
-10584	Symbolism Of The Cross		GUENON - RENE	Luzac and Company Ltd. - London	1975	718 90 188 6	Religion	Devotional & Practical - Christian Symbolism	214.6	GUE								
-10976	Unseen Warfare	Being the Spiritual Combat and Path to Paradise of Lorenzo Scupoli	KADLOUBOVSKY - E. & G. E. H. PALMER (TRANS)	Faber and Faber Ltd. - London	1963		Religion	Devotional & Practical - Personal Religion	214.8	KAD								
-10683	Perfect Way ~ The	The Finding of Christ	KINGSFORD - ANNA & EDWARD MAITLAND	John M. Watkins - London	1923		Religion	Devotional & Practical - Personal Religion	214.8	KIN								
-10735	Perfect Health	The Highest Curative Power in Man	LARSON - CHRISTIAN D.	L. N. Fowler & Co. - London	1914		Religion	Devotional & Practical - Personal Religion	214.8	LAR								
+11151	Mysticism	A Study in the Nature and Development of Man's Spiritual Consciousness	UNDERHILL - EVELYN	University Paperbacks - London	1960		Religion	Devotional & Practical - Meditations & Contemplations	214.2	UND		242	UND					
+11143	Studies In Mysticism	and Certain Apects of the Secret Tradition	WAITE - A. E.	Hodder and Stoughton - London	1906		Religion	Devotional & Practical - Meditations & Contemplations	214.2	WAI		291.4	WAI	R				
+11152	Mysticism	Sacred and Profane	ZAEHNER - R. C.	Oxford University Press	1961		Religion	Devotional & Practical - Meditations & Contemplations	214.2	ZAE		291.4	ZAE					
+10558	Evangelical Theology: An Introduction		BARTH - KARL	Collins - London	1969		Religion	Devotional & Practical - Evangelistic Writings	214.3	BAR		230	BAR					
+10584	Symbolism Of The Cross		GUENON - RENE	Luzac and Company Ltd. - London	1975	718 90 188 6	Religion	Devotional & Practical - Christian Symbolism	214.6	GUE		291	GUE					
+10976	Unseen Warfare	Being the Spiritual Combat and Path to Paradise of Lorenzo Scupoli - KADLOUBOVSKY - E. & G. E. H. PALMER (TRANS)	Scupoli - Lorenzo	Faber and Faber Ltd. - London	1963		Religion	Devotional & Practical - Personal Religion	214.8	KAD		280.9	SCU					
+10683	Perfect Way ~ The	The Finding of Christ	KINGSFORD - ANNA & EDWARD MAITLAND	John M. Watkins - London	1923		Religion	Devotional & Practical - Personal Religion	214.8	KIN		242	KIN					
+10735	Perfect Health	The Highest Curative Power in Man	LARSON - CHRISTIAN D.	L. N. Fowler & Co. - London	1914		Religion	Devotional & Practical - Personal Religion	214.8	LAR		291.4	LAR					
 10666	Dart Of Longing Love ~ The	Daily Readings from the Cloud of Unknowing	LLEWELYN - ROBERT	Darton - Longman and Todd - London	1983	0 232 51598 0	Religion	Devotional & Practical - Personal Religion	214.8	LLE								
-11317	With Pity Not With Blame	Reflections on the Writings of Julian of Norwich and on The Cloud of Unknowing	LLEWELYN - ROBERT	Darton - Longman and Todd - London	1984	0 232 51577 8	Religion	Devotional & Practical - Personal Religion	214.8	LLE								
-10738	Philosophy Of Power ~ The	What to Live For	RANDALL - JOHN HERMAN	L. N. Fowler & Co. - London	1918		Religion	Devotional & Practical - Personal Religion	214.8	RAN								
-10970	Holy Living And Dying: With Prayers	Containing the Whole Duty of a Christian	TAYLOR - JEREMY	George Bell & Sons - London	1891		Religion	Devotional & Practical - Personal Religion	214.8	TAY								
-10767	First And Last Things	A Confession of Faith and Rule of Life	WELLS - H. G.	Cassell and Co. Ltd. - London	1917		Religion	Devotional & Practical - Personal Religion	214.8	WEL								
-10668	Saint Jerome: Select Letters		WRIGHT - F. A. (TRANS)	William Heinemann Ltd - London	1980	0 434 99262 3	Religion	Devotional & Practical - Personal Religion	214.8	WRI								
+11317	With Pity Not With Blame	Reflections on the Writings of Julian of Norwich and on The Cloud of Unknowing	LLEWELYN - ROBERT	Darton - Longman and Todd - London	1984	0 232 51577 8	Religion	Devotional & Practical - Personal Religion	214.8	LLE		248	LLE					
+10738	Philosophy Of Power ~ The	What to Live For	RANDALL - JOHN HERMAN	L. N. Fowler & Co. - London	1918		Religion	Devotional & Practical - Personal Religion	214.8	RAN		200.1	RAN					
+10970	Holy Living And Dying: With Prayers	Containing the Whole Duty of a Christian	TAYLOR - JEREMY	George Bell & Sons - London	1891		Religion	Devotional & Practical - Personal Religion	214.8	TAY		248	TAY					
+10767	First And Last Things	A Confession of Faith and Rule of Life	WELLS - H. G.	Cassell and Co. Ltd. - London	1917		Religion	Devotional & Practical - Personal Religion	214.8	WEL		200.1	WEL	R				
+10668	Saint Jerome: Select Letters	WRIGHT - F. A. (TRANS)	Jerome - Saint	William Heinemann Ltd - London	1980	0 434 99262 3	Religion	Devotional & Practical - Personal Religion	214.8	WRI		270.2	JER					
 14215	The Divine Flame	Natural History and Religion	Hardy - Sir Alister	Collins	1966				215	HAR		215	HAR					
 10973	Fifteen Sermons Preached At The Rolls Chapel And A Dissertation Upon The Nature Of Virtue		BUTLER - JOSEPH	G. Bell & Sons Ltd. - London	1949		Religion	Pastoral Theology - Sermons	215.2	BUT								
 11173	Social Record Of Christianity ~ The		MCCABE - JOSEPH	Watts & Co. - London	1937		Religion	Pastoral Theology - Parish Welfare Work	215.8	MCC								
@@ -1648,21 +1646,21 @@ M13286	Tree Of Diana - The		SANDALPHON	Privately Published			Psychology	Mysterie
 14548	The Golden Book Of Marcus Aurelius	The Roman Emperor:  His Meditations	Aurelius - Marcus	J. M. Dent	1899				242	AUR		188	AUR					
 14934	Meditations With Nicholas Of Cusa	Yockey - James Francis (ed.)	Nicholas of Cusa	Bear and Co	1987	0-939680-40-8			242	CUS		242	CUS					
 15473	Hadewijch	The Complete Works	Hart - Mother Columba (trans.)	SPCK	1981	0-281-03793-0			242	HAD		839.3	HAD					
-15530	The Spiritual Exercises Of St. Ignatius Of Loyola		Longbridge - W. H. (transl.)	Robert Scott	1919				242	IGN								
-15209	The Collected Works Of St. John Of The Cross	translated by Kieran Kavanaugh & Otilio Rodriguez	John - St (of the Cross)	ICS Publication	1979	0-9600876-5-6			242	JOH								
-10660	Dark Night Of The Soul ~ The		JOHN OF THE CROSS - SAINT	James Clarke & Co. Ltd. - Cambridge	1973		Religion	Devotional & Practical - Meditations & Contemplations	242	JOH								
-15217	The Spiritual Guide Which Disentagles Souls	translated from the Italian	Molinos - Michael de	Methuen & Co	1927				242	MOL								
-14597	Pensees		Pascal - Blaise	J. M. Dent & Sons	1932				242	PAS								
-14778	Introduction To The Devout Life		Sales - St Francis de	J. M. Dent	1961	0-460-00324-0			242	SAL								
-14505	Gods Of The People		Saurat - Denis	John Westhouse	1947				242	SAU								
-15157	Centuries Of Meditations		Traherne - Thomas	P.J. & A. E. Dobell	1950				242	TRA								
-14321	The Cost Of Discipleship		Bonhoeffer - Dietrich	SCM Press	1959				244	BON								
-15540	Mary For All Christians		MacQuarrie - John	Collins	1991				244	MAC								
-14620	Shrines Of Our Lady	A guide to fifty of the world's most famous Marian shrines	Mullen - Peter	Judy Piatkus Publishers	1998	0-7499-1785-7			244	MUL								
-14608	Sophia - Maria	A Holistic Vision of Creation	Schipflinger - Thomas	Samuel Weiser Inc	1998	1-57863-022-3			246	SCH								
-14222	The Rose-Garden Game	The Symbolic Background to the European Prayer Beads	Wilkins - Eithne	Gollancz	1969				246	WIL								
-14909	My Religion		Tolstoi - Count Lyof N.	Walter Scott					248	TOL								
-15273	A Holy Tradition Of Working		Gill - Eric	Gogonooza Press	1983	0-903880-30-X			250	GIL								
+15530	The Spiritual Exercises Of St. Ignatius Of Loyola	Longbridge - W. H. (transl.)	Ignatius of Loyola - Saint	Robert Scott	1919				242	IGN		242	IGN					
+15209	The Collected Works Of St. John Of The Cross	translated by Kieran Kavanaugh & Otilio Rodriguez	John - St (of the Cross)	ICS Publication	1979	0-9600876-5-6			242	JOH		242	JOH					
+10660	Dark Night Of The Soul ~ The		John - St (of the Cross)	James Clarke & Co. Ltd. - Cambridge	1973		Religion	Devotional & Practical - Meditations & Contemplations	242	JOH		242	JOH					
+15217	The Spiritual Guide Which Disentagles Souls	translated from the Italian	Molinos - Michael de	Methuen & Co	1927				242	MOL		242	MOL					
+14597	Pensees		Pascal - Blaise	J. M. Dent & Sons	1932				242	PAS		200.1	PAS					
+14778	Introduction To The Devout Life		Sales - St Francis de	J. M. Dent	1961	0-460-00324-0			242	SAL		242	SAL					
+14505	Gods Of The People		Saurat - Denis	John Westhouse	1947				242	SAU		202	SAU					
+15157	Centuries Of Meditations		Traherne - Thomas	P.J. & A. E. Dobell	1950				242	TRA		242	TRA					
+14321	The Cost Of Discipleship		Bonhoeffer - Dietrich	SCM Press	1959				244	BON		240	BON					
+15540	Mary For All Christians		MacQuarrie - John	Collins	1991				244	MAC		232	MAC					
+14620	Shrines Of Our Lady	A guide to fifty of the world's most famous Marian shrines	Mullen - Peter	Judy Piatkus Publishers	1998	0-7499-1785-7			244	MUL		209	MUL					
+14608	Sophia - Maria	A Holistic Vision of Creation	Schipflinger - Thomas	Samuel Weiser Inc	1998	1-57863-022-3			246	SCH		291	SCH					
+14222	The Rose-Garden Game	The Symbolic Background to the European Prayer Beads	Wilkins - Eithne	Gollancz	1969				246	WIL		291.4	WIL					
+14909	My Religion		Tolstoi - Count Lyof N.	Walter Scott					248	TOL		248	TOL					
+15273	A Holy Tradition Of Working		Gill - Eric	Gogonooza Press	1983	0-903880-30-X			250	GIL		248	GIL					
 13638	Not As The Scribes	Lay Sermons	Murry - John Middleton	SCM Press Ltd	1959				252	MUR								
 15499	Rich Gatherings		Golder - Carl	Triumph House	1995	1-898870-41-1			260	GOL								
 13642	The Betrayal Of Christ By The Churches		Murry - John Middleton	Andrew Dakers	1940				260	MUR								
@@ -2237,7 +2235,7 @@ M13286	Tree Of Diana - The		SANDALPHON	Privately Published			Psychology	Mysterie
 15636	Sunyata	The Life and Sayings of a Rare-Born Mystic	Camhi - Betty & Elliott Isenberg (eds.)	North Atlantic Books	1990	1-55643-096-5			298	SUN								
 15247	Tm  :  How Meditation Can Reduce Stress		Bloomfield - Harold H.	Unwin Paperbacks	1976	0-04-149037-1			298	TM								
 14928	The Inevitable Revolution		Tolstoy - Leo	Housmans	1981				298	TOL								
-14929	The Inevitable Revolution		Tolstoy - Leo	Housmans	1981				298	TOL								
+14929	The Inevitable Revolution		Tolstoy - Leo	Housmans	1981				298	TOL		144	TOL					
 14458	Madame Blavatsky'S Baboon	Theosophy and the Emergence of the Western Guru	Washington - Peter	Secker & Warburg	1993	0-436-56418-1			298	WAS								
 16127	Living The Sacred	Ten Gateways to Open your Heart	Whiteaker - Stafford	Rider	2000	0-7126-0894-X			298	WHI								
 14342	One Taste	The Journals of Ken Wilber	Wilber - Ken	Shambhala	1999	1-57062-387-2			298	WIL								
@@ -5584,7 +5582,7 @@ m14725	"Home and the World, The"		"Tagore, Rabindranath"	Penguin	1985				891	TAG
 15927	The Story Of Thomas Carlyle		Arnold - A. S.	T. Fisher Unwin	1903				920	CAR								
 15251	The Carlyles At Home		Holme - Thea	Oxford University Press	1965				920	CAR								
 16390	The Life Of William Carey		Smith - George	J. M Dent & Sons	1913				920	CAR								
-14421	Catherine Of Siena		Undset - Sigrid	Sheed and Ward	1953				920	CAT		248.2	UND					
+14421	Catherine Of Siena		Undset - Sigrid	Sheed and Ward	1953				920	CAT		242	UND					
 16351	The Autobiography Of An Unknown Indian		Chaudhuri - Nirad C.	Viking / Jaico Publishing	1997				920	CHA								
 14805	Joe Radical:  A Life Of Joseph Chamberlain		Judd - Denis	University of Wales Press	1993	0-7083-1195-4			920	CHA								
 13476	An Apology For His Life	with an appreciation by William Hazlitt	Cibber - Colley	J. M. Dent & Sons					920	CIB								
