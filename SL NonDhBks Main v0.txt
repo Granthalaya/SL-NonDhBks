@@ -4049,39 +4049,39 @@ m15795	Germany - Tourist Guide	West Germany and Berlin	Michelin	Michelin Tyre pl
 15394	Ludwig Wittgenstein	The Duty of Genius	"Monk, Ray"	Vintage	1990	0-09-988370-8			920	WIT		921	WIT	MON				
 16383	Letters From Lady Mary Wortley Montagu 1709-1762		"Montagu, Mary Wortley (Lady)"	J. M. Dent & Sons					826	MON		826	MON					
 	Chosen Lights	Poets on Poems	"Montague, John (Fallon, Peter ed)"	Gallery Books	2009	978 1 85235 471 8						821	MON					
-11635	Monks Of The West ~ The	Volume the First	MONTALEMBERT - COUNT DE	John C. Nimmo - London	1896		Religion	Christian Church History - Religious Orders	217.1	MON								
-11636	Monks Of The West ~ The	Volume the Second	MONTALEMBERT - COUNT DE	John C. Nimmo - London	1896		Religion	Christian Church History - Religious Orders	217.1	MON								
-11637	Monks Of The West ~ The	Volume the Third	MONTALEMBERT - COUNT DE	John C. Nimmo - London	1896		Religion	Christian Church History - Religious Orders	217.1	MON								
-11638	Monks Of The West ~ The	Volume the Fourth	MONTALEMBERT - COUNT DE	John C. Nimmo - London	1896		Religion	Christian Church History - Religious Orders	217.1	MON								
-11639	Monks Of The West ~ The	Volume the Fifth	MONTALEMBERT - COUNT DE	John C. Nimmo - London	1896		Religion	Christian Church History - Religious Orders	217.1	MON								
-11640	Monks Of The West ~ The	Volume the Sixth	MONTALEMBERT - COUNT DE	John C. Nimmo - London	1896		Religion	Christian Church History - Religious Orders	217.1	MON								
+11635	"Monks of the West, The"	Volume the First	"Montalembert, Charles Forbes (Count de)"	John C. Nimmo - London	1896		Religion	Christian Church History - Religious Orders	217.1	MON		271	MON					
+11636	"Monks of the West, The"	Volume the Second	"Montalembert, Charles Forbes (Count de)"	John C. Nimmo - London	1896		Religion	Christian Church History - Religious Orders	217.1	MON		271	MON					
+11637	"Monks of the West, The"	Volume the Third	"Montalembert, Charles Forbes (Count de)"	John C. Nimmo - London	1896		Religion	Christian Church History - Religious Orders	217.1	MON		271	MON					
+11638	"Monks of the West, The"	Volume the Fourth	"Montalembert, Charles Forbes (Count de)"	John C. Nimmo - London	1896		Religion	Christian Church History - Religious Orders	217.1	MON		271	MON					
+11639	"Monks of the West, The"	Volume the Fifth	"Montalembert, Charles Forbes (Count de)"	John C. Nimmo - London	1896		Religion	Christian Church History - Religious Orders	217.1	MON		271	MON					
+11640	"Monks of the West, The"	Volume the Sixth	"Montalembert, Charles Forbes (Count de)"	John C. Nimmo - London	1896		Religion	Christian Church History - Religious Orders	217.1	MON		271	MON					
 12293	Ulster Since 1800	A Political and Economic Survey	"Moody, T W & Beckett, J C"	BBC - London	1954		History	Europe - Scotland & Ireland	941	MOO		941.6	MOO					
 12649	"Tantric Way, The"	"Art, Science, Ritual"	"Mookerjee, Ajit & Khanna, Madhu"	Thames & Hudson	1977	0 500 01172 9	The Arts	Painting & Paintings - Religion & Religious Symbolism	755	MOO		294	MOO					
-10369	Philosophy - East And West		MOORE - CHARLES A.  (ED.)	Princeton University Press	1946				199	MOO								
-11008	God Is A New Language		MOORE - DOM SEBASTIAN	Darton - Longman & Todd	1967		Religion	Religion - Philosophy & Theories	201	MOO		201	MOO					
-11821	Ethics		MOORE - G. E.	Oxford University Press	1978	0-19-500354-3	Philosophy	Ethics - Ethical Theories	171	MOO								
-11822	Principia Ethica		MOORE - G. E.	Cambridge University Press	1982	0 521 09114 4	Philosophy	Ethics - Ethical Theories	171	MOO								
-11248	Origins Of European Dissent ~ The		MOORE - R. I.	Penguin Books Ltd	1977	0 7139 0825 1	Religion	Christian Church History	217	MOO								
-14895	The Essential James Hillman	A Blue Fire	Moore - Thomas (ed.)	Routledge	1990	0-415-05303-X			150	HIL								
-12207	I Am Mary Dunne		"Moore, Brian"	Triad Paperbacks Ltd.	1982	0 586 05694 7	Literature	English Literature - English Fiction	823	MOO		823	MOO					
+10369	Philosophy - East and West		"Moore, Charles A (Ed)"	Princeton University Press	1946				199	MOO		102	MOO					
+11008	God is a New Language		"Moore, Dom Sebastian"	Darton - Longman & Todd	1967		Religion	Religion - Philosophy & Theories	201	MOO		201	MOO					
+11821	Ethics		"Moore, G E"	Oxford University Press	1978	0-19-500354-3	Philosophy	Ethics - Ethical Theories	171	MOO		170	MOO					
+11822	Principia Ethica		"Moore, G E"	Cambridge University Press	1982	0 521 09114 4	Philosophy	Ethics - Ethical Theories	171	MOO		170	MOO					
+11248	"Origins of European Dissent, The"		"Moore, R I"	Penguin Books Ltd	1977	0 7139 0825 1	Religion	Christian Church History	217	MOO		273	MOO					
+14895	"Essential James Hillman, The"	A Blue Fire	"Moore, Thomas (Ed)"	Routledge	1990	0-415-05303-X			150	HIL		150	MOO					
+12207	I am Mary Dunne		"Moore, Brian"	Triad Paperbacks Ltd.	1982	0 586 05694 7	Literature	English Literature - English Fiction	823	MOO		823	MOO					
 14707	Esther Waters		"Moore, George"	J. M. Dent & Sons	1936				823	MOO		823	MOO					
-15989	Confessions of A Young Man		"Moore, George"	William Heinemann	1928				920	MOO		921	MOO	MOO				
+15989	Confessions of a Young Man		"Moore, George"	William Heinemann	1928				920	MOO		921	MOO	MOO				
 14381	Pure Poetry	An Anthology	"Moore, George (Ed)"	The Nonesuch Press	1924				821	MOO		821	MOO					
 12228	"Intelligent Heart, The"	The Story of D. H. Lawrence	"Moore, Harry T"	Penguin Books	1960		Biography	D. H. Lawrence	LAW	MOO		921	LAW	MOO				
-	Homosexuality and the End of the Journey	Guild Lecture No 258	"Moore, Sebastian"		1997													
-14862	"Planets Within, The"	The Astrological Psychology of Marsilio Ficino	"Moore, Thomas"	Lindisfarne Press	1990	0-940262-27-4			100	MOO		100	MOO					
+	Homosexuality and the End of the Journey	Guild Lecture No 258	"Moore, Sebastian"		1997							155.3	MOO					
+14862	"Planets Within, The"	The Astrological Psychology of Marsilio Ficino	"Moore, Thomas"	Lindisfarne Press	1990	0-940262-27-4			100	MOO		133.5	MOO					
 13763	Moore's Poetical Works	with a Life of the author.	"Moore, Thomas"	George Routledge and Sons					821	MOO		821	MOO					
 10272	Darwin and the Beagle		"Moorehead, Alan"	Penguin Books	1971	0 1400 3327 0	History	Geography - Travels - Historical Geography	911	MOO		910.4	MOO					
 10758	India Britannica		"Moorhouse, Geoffrey"	Granada Publishing - London	1984	0-586-08480-0	History	Asia - Subcontinent of India	954	MOO		954	MOO					
-13680	Egalitarian Envy	The Political Foundations of Social Justice	Mora - Fernandez de la	Paragpn House - N.Y.	1987	0-913729-70-1			323	MOR								
-15637	Egalitarian Envy	The Political Foundations of Social Justice	Mora - Gonzalo Fernandez de la	Paragon House Publishers	1987	0-913729-70-1			196	MOR								
+13680	Egalitarian Envy	The Political Foundations of Social Justice	"Mora, Gonzalo Fernandez de la"	Paragpn House - N.Y.	1987	0-913729-70-1			323	MOR		323	MOR					
+15637	Egalitarian Envy	The Political Foundations of Social Justice	"Mora, Gonzalo Fernandez de la"	Paragon House Publishers	1987	0-913729-70-1			196	MOR		323	MOR					
 12826	Picasso Azul Y Rosa		"Moravia, Alberto"	Noguer-Rizzoli Editores	1968	84 279 8712 9	The Arts	Painting & Paintings	750	MOR		759.6	MOR					
 12250	"Red Book and the Great Wall, The"	An Impression of Mao's China	"Moravia, Alberto"	Panther - London	1969		History	Asia - China & Korea	951	MOR		951	MOR					
 14459	Selected Writings of Hannah More		"More, Hannah (edited by Robert Hole)"	William Pickering	1996	1-85196-266-2			824	MOR		824	MOR					
-11257	Wisdom In The Old Testament Traditions		MORGAN - DONN F.	Basil Blackwell Publisher - Oxford	1981	0 631 13006 3	Religion	Bible - Old Testament	212.1	MOR		220.6	MOR					
-15042	The Descent Of Woman		Morgan - Elaine	Corgi	1973				301	MOR								
+11257	Wisdom in the Old Testament Traditions		"Morgan, Donn F"	Basil Blackwell Publisher - Oxford	1981	0 631 13006 3	Religion	Bible - Old Testament	212.1	MOR		221	MOR					
+15042	"Descent of Woman, The"		"Morgan, Elaine"	Corgi	1973				301	MOR		573.2	MOR					
 15790	Best Minds	A Tribute to Allen Ginsberg	"Morgan, Bill & Rosenthal, Rob  (Ed)"	Lospecchio Press	1986				814	GIN		811.09	MOR					
-	Journal of the Royal Asiatic Society	3rd series vol 6 part 1 April 1996	"Morgan, D.O. (ed)"	Cambridge University press	1996	1356-1863 (199604)6:1;1-3												
+	Journal of the Royal Asiatic Society	3rd series vol 6 part 1 April 1996	"Morgan, D O (Ed)"	Cambridge University press	1996	1356-1863 (199604)6:1;1-3									*****			
 15509	Rainbow Warrior	The French Attempt to Sink Greenpeace	"Morgan, Robin et al"	Arrow Books	1986	0-09-947720-3			993	MOR		327	MOR					
 12512	My Place		"Morgan, Sally"	Fremantle Arts Centre Press	1987	0 949206 31 8	Autobiography	Sally Morgan	MOR	MOR		921	MOR	MOR				
 14704	"Adventures of Hajji Baba, The"		"Morier, James"	The Gresham Publishing Company Ltd					823	MOR		823	MOR					
@@ -4091,13 +4091,13 @@ m15795	Germany - Tourist Guide	West Germany and Berlin	Michelin	Michelin Tyre pl
 14360	"Best of the Raconteurs, The"		"Morley, Sheridan (Ed)"	The Folio Society	2000				824	MOR		827	MOR					
 15434	Kekavali	A Series of the Peacock's Screams	Moropanta	Motilal Banarsidass	1994	81-208-1115-1			891	MOR		891.1	MOR					
 12976	William Turnbull	Sculpture and Painting	"Morphet, Richard"	The Tate Gallery	1973		The Arts	Plastic arts; Sculpture	730	MOR		730	MOR					
-15849	The Naked Ape	A Zoologist's Study of the Human Animal	Morris - Desmond	Jonathan Cape	1967				301	MOR								
+15849	"Naked Ape, The"	A Zoologist's Study of the Human Animal	"Morris, Desmond"	Jonathan Cape	1967				301	MOR		301	MOR					
 15589	"Essential Willem De Kooning, The"		"Morris, Catherine"	The Wonderland Press	1999				750	KOO		759.9	MOR					
 12157	Animal Days		"Morris, Desmond"	Jonathan Cape - London	1979	0-224-01738-1	Pure Science	Zoological Sciences - Principles of Zoology	591	MOR		590	MOR					
-	"Human Zoo, The"		"Morris, Desmond"	Literary Guild	1969													
+	"Human Zoo, The"		"Morris, Desmond"	Literary Guild	1969							301	MOR					
 14566	"World of the Shining Prince, The"	Court Life in Ancient Japan	"Morris, Ivan"	Penguin	1979				952	MOR		952	MOR					
 16188	Trieste and the Meaning of Nowhere		"Morris, Jan"	Faber & Faber	2001	0-571-20468-6			946	TRI		914.5	MOR					
-	Spain		"Morris, Jan"	Penguin	1982	0 14 00.5463 4												
+	Spain		"Morris, Jan"	Penguin	1982	0 14 00.5463 4						914.6	MOR					
 13850	Defence of Guenevere		"Morris, William"	Cameo Poets					821	MOR		821	MOR					
 13548	"Earthly Paradise Part I, The"	Prologue: The Wanderers	"Morris, William"	Longmans - Green & Co	1905				821	MOR		821	MOR					
 13549	"Earthly Paradise Part II, The"	Atalanta's Race.  The Man Born to be King	"Morris, William"	Longmans - Green & Co	1905				821	MOR		821	MOR					
@@ -4112,58 +4112,58 @@ m15795	Germany - Tourist Guide	West Germany and Berlin	Michelin	Michelin Tyre pl
 13851	William Morris:  Prose And Poetry 1856 - 1870		"Morris, William"	Oxford University Press	1920				821	MOR		821	MOR					
 15376	News From Nowhere	or an epoch of rest	"Morris, William"	Routledge & Kegan Paul	1970	0-7100-6756-9			823	MOR		823	MOR					
 12245	Selected Writings and Designs		"Morris, William"	Penguin Books	1973	0 1402 0521 7	Literature	English Literature - English Miscellany	828	MOR		828	MOR					
-16069	Power	A philosophical analysis	Morriss - Peter	Manchester University Press	1987	0-71990-1771-8			192	MOR								
-11246	World Of The Ranters ~ The	Religious Radicalism in the English Revolution	MORTON - A. L.	Lawrence & Wishart - London	1970	85315 220 9	Religion	Christian Church History	217	MOR								
-11249	World Of The Ranters ~ The	Religious Radicalism in the English Revolution	MORTON - A. L.	Lawrence & Wishart - London	1979	85315 497 X	Religion	Christian Church History	217	MOR								
+16069	Power	A philosophical analysis	Morris - Peter	Manchester University Press	1987	0-71990-1771-8			192	MOR		192	MOR					
+11246	"World of the Ranters, The"	Religious Radicalism in the English Revolution	"Morton, A L"	Lawrence & Wishart - London	1970	85315 220 9	Religion	Christian Church History	217	MOR		322	MOR					
+11249	"World of the Ranters, The"	Religious Radicalism in the English Revolution	"Morton, A L"	Lawrence & Wishart - London	1979	85315 497 X	Religion	Christian Church History	217	MOR		322	MOR					
 16070	"Nervous Splendour, A"	Vienna 1888-1889	"Morton, Frederic"	The Folio Society	2006				943	MOR		943	MOR					
 15053	"Travels of Sir John Mandeville, The"		"Moseley, C W R D"	Penguin	1983				909	MAN		915	MAN					
-10713	Spirit Teachings		"Moses, William Stainton"	London Spiritualist Alliance Ltd. - London	1933		Philosophy	Branches of Psychology - Occult Sciences	133	MOS		133	MOS					
-11625	Ecclesiastical History - Ancient And Modern ~ An	From the Birth of Christ to the Beginning of the eighteenth Century  Vol I	MOSHEIM - JOHN LAWRENCE	W Baynes - London	1810		Religion	Religion - History	209	MOS		270	MOS					
-11626	Ecclesiastical History - Ancient And Modern ~ An	From the Birth of Christ to the Beginning of the eighteenth Century  Vol II	MOSHEIM - JOHN LAWRENCE	W Baynes - London	1810		Religion	Religion - History	209	MOS		270	MOS					
-11627	Ecclesiastical History - Ancient And Modern ~ An	From the Birth of Christ to the Beginning of the eighteenth Century  Vol III	MOSHEIM - JOHN LAWRENCE	W Baynes - London	1810		Religion	Religion - History	209	MOS		270	MOS					
-11628	Ecclesiastical History - Ancient And Modern ~ An	From the Birth of Christ to the Beginning of the eighteenth Century  Vol IV	MOSHEIM - JOHN LAWRENCE	W Baynes - London	1810		Religion	Religion - History	209	MOS		270	MOS					
-11629	Ecclesiastical History - Ancient And Modern ~ An	From the Birth of Christ to the Beginning of the eighteenth Century  Vol V	MOSHEIM - JOHN LAWRENCE	W Baynes - London	1810		Religion	Religion - History	209	MOS		270	MOS					
-11630	Ecclesiastical History - Ancient And Modern ~ An	From the Birth of Christ to the Beginning of the eighteenth Century  Vol VI	MOSHEIM - JOHN LAWRENCE	W Baynes - London	1810		Religion	Religion - History	209	MOS		270	MOS					
-11823	Mother Earth News Almanac ~ The		MOTHER EARTH NEWS STAFF	Bantam Books - New York	1973		Social Sciences	Economics - Land Economics	333	MOT								
+10713	Spirit Teachings		"Moses, William Stainton"	London Spiritualist Alliance Ltd. - London	1933		Philosophy	Branches of Psychology - Occult Sciences	133	MOS		133.9	MOS					
+11625	"Ecclesiastical History - Ancient and Modern, An"	From the Birth of Christ to the Beginning of the eighteenth Century  Vol I	"Mosheim, John Lawrence"	W Baynes - London	1810		Religion	Religion - History	209	MOS		270	MOS					
+11626	"Ecclesiastical History - Ancient and Modern, An"	From the Birth of Christ to the Beginning of the eighteenth Century  Vol II	"Mosheim, John Lawrence"	W Baynes - London	1810		Religion	Religion - History	209	MOS		270	MOS					
+11627	"Ecclesiastical History - Ancient and Modern, An"	From the Birth of Christ to the Beginning of the eighteenth Century  Vol III	"Mosheim, John Lawrence"	W Baynes - London	1810		Religion	Religion - History	209	MOS		270	MOS					
+11628	"Ecclesiastical History - Ancient and Modern, An"	From the Birth of Christ to the Beginning of the eighteenth Century  Vol IV	"Mosheim, John Lawrence"	W Baynes - London	1810		Religion	Religion - History	209	MOS		270	MOS					
+11629	"Ecclesiastical History - Ancient and Modern, An"	From the Birth of Christ to the Beginning of the eighteenth Century  Vol V	"Mosheim, John Lawrence"	W Baynes - London	1810		Religion	Religion - History	209	MOS		270	MOS					
+11630	"Ecclesiastical History - Ancient and Modern, An"	From the Birth of Christ to the Beginning of the eighteenth Century  Vol VI	"Mosheim, John Lawrence"	W Baynes - London	1810		Religion	Religion - History	209	MOS		270	MOS					
+11823	"Mother Earth News Almanac, The"		Mother Earth News	Bantam Books - New York	1973		Social Sciences	Economics - Land Economics	333	MOT		640	MOT					
 16113	Selected Poems 1976-1997		"Motion, Andrew"	Faber & Faber	1998	0-571-19504-0			821	MOT		821	MOT					
 M13319	Philip Larkin	A Writer's Life	"Motion, Andrew"	Faber and Faber	1993	057117065x	Biography	Philip Larkin	LARK	MOR		921	LAR	MOT				
-16013	The Journal And Major Essays Of John Woolman		Moulton - Phillips P. (ed.)	Friends United Press	1989	0-944359-10-0			289	WOO								
-16077	Open Secret	Versions of Rumi	Moyne - John & Coleman Barks	Shambhala	1999	1-57062-529-8			297	RUM								
-12715	"Greece, A New Tourist Guide to"		"MSSINESI - X. L. Mssinesi, X L"	M. Pechlivanidis & Co Ltd			Geography & History	Geography & Travel - Europe	914	MSS		914.9	MSS					
-10832	Advaita Of Sankara - A Reappraisal	Impact of Buddhism and Samkhya on Sankara's Thought	MUDGAL - S. G.	Motilal Banarsidass - Delhi	1975	0 8426 0787 4	Religion	Other Religions - Brahmanism & Related	294	MUD								
-14910	Introduction To The Science Of Religion		Mueller - Max F.	Longmans - Green - & Co	1873				291	MUL								
+16013	"Journal and Major Essays of John Woolman, The"	Edited by Philip Moulton	"Woolman, John"	Friends United Press	1989	0-944359-10-0			289	WOO		289.6	WOO					
+16077	Open Secret	Versions of Rumi	"Moyne, John & Barks, Coleman"	Shambhala	1999	1-57062-529-8			297	RUM		891.5	MOY					
+12715	"Greece, A New Tourist Guide to"		"Mssinesi, X L"	M. Pechlivanidis & Co Ltd			Geography & History	Geography & Travel - Europe	914	MSS		914.9	MSS					
+10832	Advaita of Sankara - A Reappraisal	Impact of Buddhism and Samkhya on Sankara's Thought	"Mudgal, S G"	Motilal Banarsidass - Delhi	1975	0 8426 0787 4	Religion	Other Religions - Brahmanism & Related	294	MUD		294.5	MUD					
+14910	Introduction to the Science of Religion		"Muller, F Max"	Longmans - Green - & Co	1873				291	MUL		200.1	MUL					
 14857	"Thirties, The"	1930-1940 in Great Britain	"Muggeridge, Malcolm"	Fonatana	1971				942	MUG		941	MUG					
-10893	Original Sanskrit Texts Vol Iv	Comparison of the Vedic with the Later Representations of the Principal Indian Deities	MUIR - J.	Trubner & Co. - London	1873		Religion	Other Religions - Brahmanism & Related	294	MUI								
-10894	Original Sanskrit Texts Vol V	Contributions to a Knowledge of the Cosmogony - Mythology - Religious Ideas - Life and Manners - of the Indians in the Vedic Age	MUIR - J.	Trubner & Co. - London	1884		Religion	Other Religions - Brahmanism & Related	294	MUI								
-13263	Original Sanskrit Texts Vol. 1	On the Origin and History of the People of India: Their Religion and Institutions	MUIR - J.	Trubner & Co.	1890		Hinduism	Scriptures	294.592	MUI								
+10893	Original Sanskrit Texts Vol Iv	Comparison of the Vedic with the Later Representations of the Principal Indian Deities	"Muir, J"	Trubner & Co. - London	1873		Religion	Other Religions - Brahmanism & Related	294	MUI		294	MUI					
+10894	Original Sanskrit Texts Vol V	"Contributions to a Knowledge of the Cosmogony, Mythology, Religious Ideas, Life and Manners of the Indians in the Vedic Age"	"Muir, J"	Trubner & Co. - London	1884		Religion	Other Religions - Brahmanism & Related	294	MUI		294	MUI					
+13263	Original Sanskrit Texts Vol. 1	On the Origin and History of the People of India: Their Religion and Institutions	"Muir, J"	Trubner & Co.	1890		Hinduism	Scriptures	294.592	MUI		294	MUI					
 13805	Edwin Muir:  Collected Poems		"Muir, Edwin"	Faber and Faber	1984	0-571-13216-2			821	MUI		821	MUI					
 15340	Scott and Scotland	The Predicament of the Scottish Writer	"Muir, Edwin"	Polygon Books	1982	0-904919-60-9			824	SCO		820.9	MUI					
 15472	"Autobiography, An"		"Muir, Edwin"	Graywolf Press	1990	1-55597-128-8			920	MUI		921	MUI	MUI				
 13153	Elizabethan and Jacobean Prose 1550 - 1620	The Pelican Book of English Prose Volume 1	"Muir, Kenneth (Ed)"	Penguin	1956		Literature	Literary History & Criticism	809	MUI		809	MUI					
 13913	Coleridge As Philosopher		"Muirhead, John H"	Goerge Allen & Unwin Ltd	1930				824	COL		821.09	MUI					
-11146	Theory And Art Of Mysticism ~ The		MUKERJEE - RADHAKAMAL	Asia Publishing House - Bombay	1960		Religion	Devotional & Practical - Meditations & Contemplations	214.2	MUK		291.4	MUK					
-10914	Lord Of The Autumn Moons ~ The		MUKERJEE - RADHAKAMAL	Asia Publishing House - Bombay	1957		Religion	Other Religions - Brahmanism & Related	294	MUK								
-13330	Astavakragita	The Song of the Self Supreme	MUKERJEE - RADHAKAMAL	Motilal Banarsidass	1971	8120813669	Hinduism	Scriptures	294.594	MUK								
+11146	"Theory and Art of Mysticism, The"		"Mukerjee, Radhakamal"	Asia Publishing House - Bombay	1960		Religion	Devotional & Practical - Meditations & Contemplations	214.2	MUK		248	MUK					
+10914	"Lord of the Autumn Moons, The"		"Mukerjee, Radhakamal"	Asia Publishing House - Bombay	1957		Religion	Other Religions - Brahmanism & Related	294	MUK		294.5	MUK					
+13330	Astavakragita	The Song of the Self Supreme	"Mukerjee, Radhakamal"	Motilal Banarsidass	1971	8120813669	Hinduism	Scriptures	294.594	MUK		294.5	MUK					
 14808	"Flowering of Indian Art, The"	The Growth and Spread of a Civilization	"Mukerjee, Radhakamal"	Asia Publishing House	1964				709	MUK		709	MUK					
-13353	Beyond The Four Varnas	The Untouchables in India	MUKHERJEE - PRABHATI	Motilal Banarsidass	1988	8120804597	Social Sciences	Sociology	301.44	MUK								
-13354	Beyond The Four Varnas	The Untouchables in India	MUKHERJEE - PRABHATI	Motilal Banarsidass	1988	8120804597	Social Sciences	Sociology	301.44	MUK								
-11460	Play Of Consciousness	Chitshakti Vilas	MUKTANANDA - BABA	Shree Gurudev Siddha Yoga Ashran - California	1974	0-914602-26-8	Religion	Other Religions - Brahmanism & Related	294	MUK								
-12716	Gift Of Understanding ~ The		MULFORD - PRENTICE	William Rider & Son Ltd	1916		Religion	Natural Theology - Humankind	211.8	MUL		210	MAL					
-13044	"Gift of the Spirit, The"		"Mulford, Prentice"	William Rider and Son Ltd.	1917		Philosophy	Paranormal Phenomena - Occult Methods For Achieving Well-Being	131	MUL		133	MUL					
-10691	Prentice Mulford'S Story	Or Life by Land and Sea	"Mulford, Prentice"	William Rider & Son Ltd. - London	1913		Literature	American Literature - American Miscellany	818	MUL		921	MUL					
-11468	Life As Master	Following Bhagwan Shree Rajneesh	MULLAN - BOB	Routledge & Kegan Paul - London	1983	0-7102-0043-9	Religion	Other Religions - Other Religions	299	MUL								
-14996	The Mating Trade		Mullan - Bob	Routledge & Kegan Paul	1984	0-7102-0317-9			301	MUL								
-14620	Shrines Of Our Lady	A guide to fifty of the world's most famous Marian shrines	Mullen - Peter	Judy Piatkus Publishers	1998	0-7499-1785-7			244	MUL		209	MUL					
-11059	Biographies Of Words And The Home Of The Aryas		MULLER - F. MAX	Longmans - Green and Co. - London	1898		Language	Language - History & Local Treatment	409	MUL								
-13252	Laws Of Manu - The		MULLER - F. Max (ed)	Motilal Banarsidass	1984	89581526	Hinduism	Scriptures	294.592	MUL								
-14940	Theosophy Or Psychological Religion	The Gifford Lectures 1892	Muller - Max	Longmans - Green - & Co	1893				291	MUL								
-10812	Lectures On The Science Of Language		MULLER - MAX	Longman - Green - Longman - Roberts & Green - London	1864		Language	Language - Philosophy & Theory	401	MUL								
+13353	Beyond the Four Varnas	The Untouchables in India	"Mukerjee, Prabhati"	Motilal Banarsidass	1988	8120804597	Social Sciences	Sociology	301.44	MUK		954	MUK					
+13354	Beyond the Four Varnas	The Untouchables in India	"Mukerjee, Prabhati"	Motilal Banarsidass	1988	8120804597	Social Sciences	Sociology	301.44	MUK		954	MUK					
+11460	Play of Consciousness	Chitshakti Vilas	"Muktananda, Baba"	Shree Gurudev Siddha Yoga Ashran - California	1974	0-914602-26-8	Religion	Other Religions - Brahmanism & Related	294	MUK		294.5	MUK					
+12716	"Gift of Understanding, The"		"Mulford, Prentice"	William Rider & Son Ltd	1916		Religion	Natural Theology - Humankind	211.8	MUL		210	MAL					
+13044	"Gift of the Spirit, The"		"Mulford, Prentice"	William Rider and Son Ltd.	1917		Philosophy	Paranormal Phenomena - Occult Methods For Achieving Well-Being	131	MUL		248	MUL					
+10691	Prentice Mulford's Story	Or Life by Land and Sea	"Mulford, Prentice"	William Rider & Son Ltd. - London	1913		Literature	American Literature - American Miscellany	818	MUL		921	MUL	MUL				
+11468	Life as Master	Following Bhagwan Shree Rajneesh	"Mullan, Bob"	Routledge & Kegan Paul - London	1983	0-7102-0043-9	Religion	Other Religions - Other Religions	299	MUL		299	MUL					
+14996	"Mating Trade, The"		"Mullan, Bob"	Routledge & Kegan Paul	1984	0-7102-0317-9			301	MUL		306.8	MUL					
+14620	Shrines of Our Lady	A guide to fifty of the world's most famous Marian shrines	"Mullen, Peter"	Judy Piatkus Publishers	1998	0-7499-1785-7			244	MUL		232	MUL					
+11059	Biographies of Words and the Home of the Aryas		"Muller, F Max"	Longmans - Green and Co. - London	1898		Language	Language - History & Local Treatment	409	MUL		491	MUL					
+13252	"Laws of Manu, The"		"Muller, F Max"	Motilal Banarsidass	1984	89581526	Hinduism	Scriptures	294.592	MUL		294.5	MUL					
+14940	Theosophy or Psychological Religion	The Gifford Lectures 1892	"Muller, F Max"	Longmans - Green - & Co	1893				291	MUL		291	MUL					
+10812	Lectures on the Science of Language		"Muller, F Max"	Longman - Green - Longman - Roberts & Green - London	1864		Language	Language - Philosophy & Theory	401	MUL		401	MUL					
 10854	Three Introductory Lectures on the Science of Thought		"Muller, F Max"	The Open Court Company - London	1909		Philosophy	Philosophy - Essays & Lectures	104	MUL		107	MUL					
-10147	Genetics - Medicine - And Man		"Muller, H J , Little, C C & Snyder, L H"	Cornell University Press - New York	1947		Technology	Medical Sciences - Other Medical Specialities	618	MUL		574	MUL					
+10147	"Genetics, Medicine and Man"		"Muller, H J , Little, C C & Snyder, L H"	Cornell University Press - New York	1947		Technology	Medical Sciences - Other Medical Specialities	618	MUL		613	MUL					
 13545	Klee:  Figures and Masks		"Muller, Joseph-Emile"	Methuen					750	KLE		759.9	MUL					
 13544	Klee:  Magic Squares		"Muller, Joseph-Emile"	Methuen	1957				750	KLE		759.9	MUL					
-11017	Silesian Horseherd ~ The	Questions of the Hour Answered by Friedrich Max Muller	"Muller, Max"	Longmans - Green and Co. - London	1903		Religion	Religion - Essays & Lectures	204	FEC		204	MUL					
-14474	Citizen Kane		Mulvey - Laura	British Film Institute	1992	0-85170-339-9			150	MUL								
+11017	"Silesian Horseherd, The"	Questions of the Hour Answered by Friedrich Max Muller	"Muller, F Max"	Longmans - Green and Co. - London	1903		Religion	Religion - Essays & Lectures	204	FEC		401	MUL					
+14474	Citizen Kane		"Mulvey, Laura"	British Film Institute	1992	0-85170-339-9			150	MUL		791.43	MUL					
 15388	The Patter	A Guide to Current Glasgow Usage	Munro - Michael	Glasgow District Libraries	1985	0-906169-09-7			408	MUN								
 12684	Art Treasures of the World		"Munro, E C;  Rudorff, R  & Vandengrift, K"	Hamlyn Publishing	1970		The Arts	Dictionaries & Encyclopaedias	703	MUN		709	MUN					
 15307	Memories and Vagaries		"Munthe, Axel"	John Murray	1930				824	MUN		824	MUN					
